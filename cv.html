@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Michael Bagnoli - Curriculum Vitae</title>
+  <style>
+    @page {
+      size: A4;
+      margin: 16mm 16mm 16mm 16mm;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: #0f172a;
+      background-color: #ffffff;
+      line-height: 1.5;
+      font-size: 10pt;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Container */
+    .cv-container {
+      max-width: 100%;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    header {
+      border-bottom: 2px solid #0f172a;
+      padding-bottom: 14px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      font-size: 24pt;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      color: #0f172a;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+
+    .headline {
+      font-size: 11.5pt;
+      font-weight: 600;
+      color: #1e3a8a; /* Deep Navy Blue */
+      margin-bottom: 8px;
+    }
+
+    .contact-bar {
+      font-size: 8.5pt;
+      color: #475569;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .contact-bar span {
+      display: inline-flex;
+      align-items: center;
+    }
+
+    .contact-bar a {
+      color: #0284c7;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    /* Section Styling */
+    section {
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      font-size: 12.5pt;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      color: #0f172a;
+      border-bottom: 1.5px solid #cbd5e1;
+      padding-bottom: 4px;
+      margin-top: 16px;
+      margin-bottom: 12px;
+      page-break-after: avoid;
+    }
+
+    h3 {
+      font-size: 10.5pt;
+      font-weight: 700;
+      color: #0f172a;
+    }
+
+    /* Profile / Snapshot Grid */
+    .profile-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .profile-card {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 6px;
+      padding: 10px 12px;
+      font-size: 8.8pt;
+    }
+
+    .profile-card strong {
+      color: #0f172a;
+    }
+
+    .profile-card h4 {
+      font-size: 9.5pt;
+      font-weight: 700;
+      color: #1e3a8a;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .profile-card ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    .profile-card li {
+      margin-bottom: 4px;
+      line-height: 1.4;
+    }
+
+    /* Professional Summary */
+    .summary-text {
+      font-size: 9.3pt;
+      text-align: justify;
+      color: #334155;
+      line-height: 1.6;
+      background: #f8fafc;
+      border-left: 3px solid #1e3a8a;
+      padding: 10px 14px;
+      border-radius: 0 6px 6px 0;
+    }
+
+    /* Experience Items */
+    .experience-item {
+      margin-bottom: 18px;
+      page-break-inside: avoid;
+    }
+
+    .job-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 3px;
+    }
+
+    .job-title {
+      font-size: 10.5pt;
+      font-weight: 700;
+      color: #0f172a;
+    }
+
+    .job-company {
+      font-weight: 700;
+      color: #1e3a8a;
+    }
+
+    .job-date {
+      font-size: 8.5pt;
+      font-weight: 600;
+      color: #64748b;
+      white-space: nowrap;
+    }
+
+    .job-meta {
+      font-size: 8.5pt;
+      font-style: italic;
+      color: #475569;
+      margin-bottom: 6px;
+    }
+
+    ul.bullet-points {
+      list-style-type: disc;
+      padding-left: 18px;
+      margin-bottom: 8px;
+    }
+
+    ul.bullet-points li {
+      font-size: 9pt;
+      color: #334155;
+      margin-bottom: 4px;
+      line-height: 1.45;
+      text-align: justify;
+    }
+
+    ul.bullet-points li strong {
+      color: #0f172a;
+    }
+
+    /* Skills Pill Container */
+    .skills-env {
+      margin-top: 6px;
+      padding: 6px 8px;
+      background: #f1f5f9;
+      border-radius: 4px;
+      border: 1px solid #e2e8f0;
+      font-size: 8pt;
+      line-height: 1.5;
+    }
+
+    .skills-env-label {
+      font-weight: 700;
+      color: #1e3a8a;
+      margin-right: 4px;
+    }
+
+    .skill-tag {
+      display: inline-block;
+      background: #ffffff;
+      color: #1e293b;
+      border: 1px solid #cbd5e1;
+      padding: 1px 6px;
+      border-radius: 3px;
+      margin: 1px 2px;
+      font-weight: 500;
+    }
+
+    /* Skill Matrix Section */
+    .matrix-category {
+      margin-bottom: 12px;
+      page-break-inside: avoid;
+    }
+
+    .matrix-category h4 {
+      font-size: 9.8pt;
+      font-weight: 700;
+      color: #1e3a8a;
+      margin-bottom: 4px;
+      border-left: 3px solid #0284c7;
+      padding-left: 6px;
+    }
+
+    .matrix-category p {
+      font-size: 8.6pt;
+      color: #334155;
+      line-height: 1.45;
+      padding-left: 9px;
+      margin-bottom: 4px;
+    }
+
+    .matrix-category strong {
+      color: #0f172a;
+    }
+
+    /* Print rules */
+    @media print {
+      body {
+        font-size: 9.5pt;
+      }
+      .cv-container {
+        width: 100%;
+      }
+      a {
+        text-decoration: none;
+        color: #0284c7 !important;
+      }
+      .experience-item {
+        page-break-inside: avoid;
+      }
+      .matrix-category {
+        page-break-inside: avoid;
+      }
+      .profile-card {
+        page-break-inside: avoid;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="cv-container">
+
+    <!-- HEADER -->
+    <header>
+      <h1>Michael Bagnoli</h1>
+      <div class="headline">Chief Technology Officer (CTO) | Senior Enterprise AI Architect & Tech Entrepreneur</div>
+      <div class="contact-bar">
+        <span>Location: Pisa, Italy (Full-Remote / Hybrid / Relocation)</span> &bull;
+        <span>Email: <a href="mailto:mbagnoli999@gmail.com">mbagnoli999@gmail.com</a></span> &bull;
+        <span>Phone: <a href="tel:+393519577008">+39 351 957 7008</a></span> &bull;
+        <span>LinkedIn: <a href="https://www.linkedin.com/in/michael-bagnoli-6504b1257/">linkedin.com/in/michael-bagnoli-6504b1257</a></span> &bull;
+        <span>Work Authorization: EU Citizen</span>
+      </div>
+    </header>
+
+    <!-- PROFILE & SIDEBAR SNAPSHOT -->
+    <section>
+      <h2>Profile & Background Summary</h2>
+      <div class="profile-grid">
+        <div class="profile-card">
+          <h4>Education & Academic Background</h4>
+          <ul>
+            <li><strong>B.Sc. in Statistics</strong> (Corso di Laurea Triennale in Statistica) &bull; <em>In Progress / Ongoing</em><br>
+            <span style="color:#64748b; font-size:8pt;">Focus: Statistical Modeling, Probability Theory, Predictive Analytics, Regression Analysis, Quantitative Methods, Data Architecture.</span></li>
+            <li><strong>Liceo Scientifico Ulisse Dini (Pisa)</strong> &bull; <em>EsaBac Double Diploma</em><br>
+            <span style="color:#64748b; font-size:8pt;">Maturità Scientifica (IT) + Baccalauréat Scientifique (FR).</span></li>
+          </ul>
+        </div>
+
+        <div class="profile-card">
+          <h4>Languages & Communication</h4>
+          <ul>
+            <li><strong>Italian:</strong> Native Speaker (Madrelingua)</li>
+            <li><strong>English:</strong> <strong>C1</strong> &bull; Advanced / Professional Working Proficiency</li>
+            <li><strong>French:</strong> <strong>C1</strong> &bull; Advanced / Professional Working Proficiency (EsaBac Certified)</li>
+          </ul>
+          <h4 style="margin-top: 8px;">Key Ventures (Founded)</h4>
+          <ul>
+            <li><strong>ForMinds:</strong> Co-Founder & CTO (Enterprise AI & Pharma Forecasting)</li>
+            <li><strong>Ultralimes Marketing:</strong> Founder & Lead Architect (SaaS & Predictive Algorithms)</li>
+            <li><strong>Golden Bloom Studio:</strong> Co-Owner & Head of Video Production (Luxury & Industrial Visuals)</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROFESSIONAL SUMMARY -->
+    <section>
+      <h2>Professional Summary</h2>
+      <div class="summary-text">
+        <p><strong>Chief Technology Officer (CTO), Imprenditore e Consulente di punta nell'integrazione enterprise dell'Intelligenza Artificiale</strong>, con un profilo poliedrico che fonde il rigore logico della <strong>Statistica quantitativa</strong> con una spiccata <strong>sensibilità artistica e creativa</strong> (direzione video, fotografia e narrazione).</p>
+        <p style="margin-top: 6px;">Nei miei incarichi di advisory e docenza per alcune delle più imponenti realtà industriali e istituzionali (<strong>European Space Agency - ESA, EY, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation, Triboo Group</strong>), il mio focus non è mai stato "spiegare l'AI generica", ma <strong>integrarla chirurgicamente nei loro flussi di lavoro quotidiani</strong>. Questo confronto continuo sul campo mi ha permesso di apprendere a fondo i meccanismi operativi, le complessità di governance, la compliance normativa e le dinamiche di scala dei giganti multinazionali.</p>
+        <p style="margin-top: 6px;">Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come <strong>Co-Founder & CTO di ForMinds</strong>, guido l'ingegnerizzazione di un motore proprietario di <strong>Pharmaceutical Demand Forecasting</strong> ad altissima precisione e compliance GxP; come <strong>Founder di Ultralimes Marketing</strong>, ho concepito e deployato un'infrastruttura SaaS di market intelligence e data extraction con algoritmi predittivi su server Linux. Padroneggio l'intero spettro dell'innovazione: dai sistemi di <strong>Agentic AI</strong> (CrewAI, LangChain, n8n) e framework di valutazione (DeepEval, MLflow) all'AI multimodale/visuale (Stable Diffusion, ComfyUI, Google Gemini), fino allo sviluppo full-stack e cloud-native (Python/FastAPI, Java/Spring Boot, AWS SageMaker, Docker).</p>
+      </div>
+    </section>
+
+    <!-- WORK EXPERIENCE -->
+    <section>
+      <h2>Work Experience</h2>
+
+      <!-- 1. ForMinds -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Co-Founder & Chief Technology Officer (CTO) | Head of AI Solutions &bull; <span class="job-company">ForMinds</span></div>
+          <div class="job-date">2025 – Present</div>
+        </div>
+        <div class="job-meta">Italy (Remote / Hybrid) &bull; Conceived in 2025 • Officially Operating in 2026 with Mirko Campari (Manager), Edoardo Del Sarto, Tommaso Muraca</div>
+        <ul class="bullet-points">
+          <li><strong>Executive Technical Leadership & Company Foundation:</strong> Co-founded ForMinds alongside Mirko Campari (Manager), Edoardo Del Sarto, and Tommaso Muraca, spearheading the company's technical vision, engineering standards, custom software development, and enterprise AI consulting roadmap.</li>
+          <li><strong>Tier-1 Enterprise Delivery Vehicle:</strong> Operationalized ForMinds as the strategic delivery vehicle for high-stakes AI integration, custom software architectures, and executive prompt engineering for major corporate accounts, including <strong>UniCredit</strong>, <strong>Banca Monte dei Paschi di Siena (MPS)</strong>, <strong>Autostrade per l'Italia</strong>, <strong>Piaggio Group</strong>, and <strong>Lear Corporation</strong>.</li>
+          <li><strong>Flagship Pharmaceutical Forecasting Engine (R&D & Production):</strong> Spearheading the architecture and engineering of a proprietary, end-to-end <strong>Pharmaceutical Demand & Sales Forecasting Platform</strong>; overseeing the full pipeline from quantitative mathematical modeling to microservice API packaging and cloud deployment.</li>
+          <li><strong>Mission-Critical Precision, Speed & Security:</strong> Architected the pharma engine for ultra-high mathematical precision, sub-second inference latency, strict data governance, end-to-end encryption, and compliance with rigorous pharmaceutical industry standards (GxP / GDPR).</li>
+          <li><strong>Corporate IT & AI Academies:</strong> Designed and directed bespoke enterprise academy tracks in modern software architecture, applied generative AI, and agentic workflows, transforming corporate workforce capabilities across client organizations.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">ForMinds</span><span class="skill-tag">Chief Technology Officer (CTO)</span><span class="skill-tag">Pharmaceutical Demand Forecasting</span><span class="skill-tag">Quantitative Modeling</span><span class="skill-tag">Time Series Forecasting</span><span class="skill-tag">FastAPI</span><span class="skill-tag">Python</span><span class="skill-tag">Microservices</span><span class="skill-tag">Docker</span><span class="skill-tag">Cloud Security</span><span class="skill-tag">GxP / GDPR Compliance</span><span class="skill-tag">Enterprise AI Consulting</span>
+        </div>
+      </div>
+
+      <!-- 2. EY -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Lead AI & Machine Learning Instructor | Enterprise Talent Evaluator &bull; <span class="job-company">EY (Ernst & Young)</span></div>
+          <div class="job-date">Aug 2025 – Oct 2025 & Jul 2026</div>
+        </div>
+        <div class="job-meta">Italy (National Headquarters & EY Bari Hub / Hybrid)</div>
+        <ul class="bullet-points">
+          <li><strong>National Enterprise AI Academy (Aug – Oct 2025):</strong> Spearheaded and delivered an intensive, high-level AI & Software Engineering Academy across <strong>EY Italy</strong> at a national scale, upskilling engineering talent on cutting-edge production AI stacks.</li>
+          <li><strong>Agentic AI & Multi-Agent Orchestration:</strong> Designed comprehensive curriculums covering <strong>Agentic AI</strong>, multi-agent role-playing systems with <strong>CrewAI</strong>, complex LLM agent workflows using <strong>LangChain / LangGraph</strong>, and visual workflow orchestration with <strong>n8n</strong> for enterprise process automation.</li>
+          <li><strong>LLM Evaluation, Benchmarking & MLOps:</strong> Instructed rigorous AI evaluation frameworks and MLOps tooling, leveraging <strong>DeepEval</strong> and <strong>MLflow</strong> for hallucination detection, unit testing of LLM outputs, RAG evaluation metrics (Faithfulness, Answer Relevance), and model latency/cost tracking.</li>
+          <li><strong>Talent Assessment & Real-World Capstone Project:</strong> Led and supervised the end-to-end production of a real-world enterprise capstone project; acted as primary <strong>technical evaluator for EY leadership</strong>, directly assessing candidate code quality, architectural decisions, and performance to drive EY's national hiring selections.</li>
+          <li><strong>Advanced ML & Data Analytics for Development Teams (Jul 2026 - EY Bari):</strong> Delivered an advanced technical bootcamp for <strong>EY Bari Hub</strong>'s junior and mid-level software developers, focusing on production <strong>Machine Learning (ML)</strong> pipelines, advanced data manipulation with <strong>Python (Pandas, NumPy, Scikit-Learn)</strong>, statistical feature engineering, and database integration.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">EY (Ernst & Young)</span><span class="skill-tag">Agentic AI</span><span class="skill-tag">CrewAI</span><span class="skill-tag">LangChain</span><span class="skill-tag">n8n</span><span class="skill-tag">DeepEval</span><span class="skill-tag">MLflow</span><span class="skill-tag">Python</span><span class="skill-tag">Scikit-Learn</span><span class="skill-tag">Vector Databases</span><span class="skill-tag">Talent Assessment</span><span class="skill-tag">Recruitment Evaluation</span>
+        </div>
+      </div>
+
+      <!-- 3. Triboo Group -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Senior Generative AI & Digital Media Consultant &bull; <span class="job-company">Triboo Group</span></div>
+          <div class="job-date">Apr 2026 (1 mo)</div>
+        </div>
+        <div class="job-meta">Milan, Italy (On-Site) &bull; Audience: Subsidiary Agencies & Publishing Divisions across the entire Triboo Group</div>
+        <ul class="bullet-points">
+          <li><strong>Group-Wide Enterprise AI Transformation:</strong> Delivered an intensive, one-month on-site AI for Marketing & Digital Media masterclass in Milan, training editorial, marketing, and agency teams across all subsidiaries of <strong>Triboo Group</strong>.</li>
+          <li><strong>Google Gemini Suite & Multimodal Ecosystem:</strong> Spearheaded deep-dive implementation of the <strong>Google Gemini Suite</strong> (Gemini Enterprise, Google Cloud Vertex AI, Google Workspace AI), leveraging advanced multimodal capabilities for marketing asset creation and operational efficiency.</li>
+          <li><strong>AI-Assisted Journalism & Editorial Automation:</strong> Architected automated newsroom workflows for digital journalism, real-time article outlining, SEO-optimized copy synthesis, source verification, and structured publishing pipelines.</li>
+          <li><strong>Multilingual Localization & Cross-Border Publishing:</strong> Engineered automated translation and cultural adaptation pipelines using large language models, accelerating international distribution of digital content without loss of tone or stylistic nuance.</li>
+          <li><strong>Generative Visual Synthesis for Advertising & E-Commerce:</strong> Guided creative teams in deploying generative image workflows for advertising campaigns, social media collateral, e-commerce merchandising, and multimodal visual experimentation.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">Triboo Group</span><span class="skill-tag">Google Gemini Suite</span><span class="skill-tag">Vertex AI</span><span class="skill-tag">Workspace AI</span><span class="skill-tag">AI for Marketing</span><span class="skill-tag">AI for Journalism</span><span class="skill-tag">SEO Copywriting</span><span class="skill-tag">Multimodal AI</span><span class="skill-tag">Translation & Localization</span>
+        </div>
+      </div>
+
+      <!-- 4. ESA -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Senior Technical Instructor & AI Consultant &bull; <span class="job-company">ESA (European Space Agency)</span></div>
+          <div class="job-date">2026</div>
+        </div>
+        <div class="job-meta">Italy / Europe (Remote & On-Site Corporate Programs)</div>
+        <ul class="bullet-points">
+          <li><strong>Vertical Technical Upskilling for Space Sector Personnel:</strong> Designed and delivered specialized technical training and process modernization courses for <strong>ESA (European Space Agency)</strong> teams, focusing on cloud-native tooling, data manipulation, and modern generative AI workflows.</li>
+          <li><strong>Prompt Engineering for Office & Process Automation:</strong> Formulated advanced prompt engineering architectures tailored for document intelligence, technical report synthesis, administrative office automation, and inter-departmental communication efficiency.</li>
+          <li><strong>Containerization & Dev Tooling (Docker):</strong> Instructed hands-on modules on <strong>Docker</strong> containerization, Dockerfile optimization, multi-stage image builds, environment parity, and reproducible local/server execution.</li>
+          <li><strong>Relational Data Querying & SQL Optimization:</strong> Lectured practical <strong>SQL</strong> tracks covering relational data extraction, complex joins, subqueries, and structured data handling for operational workflows.</li>
+          <li><strong>AI for Business Strategy & Decision Support:</strong> Delivered executive sessions on <strong>AI for Business</strong>, evaluating generative AI tooling integration, process re-engineering, digital transformation roadmaps, and measurable productivity ROI.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">European Space Agency (ESA)</span><span class="skill-tag">Docker</span><span class="skill-tag">SQL</span><span class="skill-tag">Prompt Engineering</span><span class="skill-tag">Office Automation</span><span class="skill-tag">AI for Business</span><span class="skill-tag">Digital Transformation</span>
+        </div>
+      </div>
+
+      <!-- 5. Senior Enterprise AI Consultant -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Senior Enterprise AI Consultant & Prompt Engineering Specialist &bull; <span class="job-company">Enterprise Corporate Advisory</span></div>
+          <div class="job-date">2024 – Present</div>
+        </div>
+        <div class="job-meta">Key Client Portfolio: Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500)</div>
+        <ul class="bullet-points">
+          <li><strong>Banking & Fintech AI Integration (UniCredit & Monte dei Paschi di Siena):</strong> Architected production-grade prompt engineering frameworks, deterministic JSON schema outputs, and automated LLM workflow pipelines for corporate banking, ensuring strict compliance with financial privacy regulations, audit standards, and data governance.</li>
+          <li><strong>Critical Infrastructure Workflow Optimization (Autostrade per l'Italia):</strong> Engineered custom AI workflow integrations embedding LLMs into internal ticketing, incident reporting, and operational documentation pipelines, substantially reducing manual cycle times and operational friction.</li>
+          <li><strong>Generative Visual AI & Industrial Design Synthesis (Piaggio Group):</strong> Spearheaded cutting-edge <strong>Generative Image & Multimodal AI</strong> consulting (leveraging deep technical background in professional photography and video production). Deployed workflows using <strong>Stable Diffusion (SDXL / ComfyUI / ControlNet)</strong>, <strong>Midjourney</strong>, and <strong>DALL-E 3</strong> to accelerate product design prototyping, digital asset creation, and marketing visualization.</li>
+          <li><strong>Global Manufacturing Process Re-engineering (Lear Corporation - Fortune 500):</strong> Delivered strategic AI workflow integration and prompt architecture consulting for corporate engineering teams, optimizing supply-chain communication, internal knowledge extraction, and cross-departmental documentation.</li>
+          <li><strong>End-to-End Enterprise Workflow Embeddings:</strong> Authored robust system prompts, Chain-of-Thought (CoT) reasoning templates, and automated API-driven middleware (Python, REST, n8n) to seamlessly integrate AI intelligence into existing enterprise ERP, CRM, and collaboration ecosystems.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">Prompt Engineering</span><span class="skill-tag">Stable Diffusion (SDXL)</span><span class="skill-tag">ComfyUI</span><span class="skill-tag">Midjourney</span><span class="skill-tag">n8n</span><span class="skill-tag">MPS</span><span class="skill-tag">UniCredit</span><span class="skill-tag">Autostrade per l'Italia</span><span class="skill-tag">Piaggio Group</span><span class="skill-tag">Lear Corporation</span><span class="skill-tag">Banking Compliance</span>
+        </div>
+      </div>
+
+      <!-- 6. Profice -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Senior Data Analytics & Applied AI Corporate Lecturer & Consultant &bull; <span class="job-company">Profice</span></div>
+          <div class="job-date">2025 – Present</div>
+        </div>
+        <div class="job-meta">Italy (Remote & On-site Corporate Client Programs)</div>
+        <ul class="bullet-points">
+          <li><strong>Dual-Track Corporate AI & Analytics Programs:</strong> Designed and delivered specialized corporate training and consulting initiatives tailored for two distinct audiences across diverse enterprise clients: <strong>Technical Engineering Teams</strong> and <strong>Executive / C-Level Management</strong>.</li>
+          <li><strong>Technical Track (Engineers & Data Specialists):</strong> Instructed deep-dive technical curriculums on <strong>Advanced Data Analytics</strong>, exploratory data analysis (EDA), predictive statistical modeling, supervised/unsupervised <strong>Machine Learning (ML)</strong> pipelines (Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels), and advanced <strong>SQL</strong> (Window Functions, CTEs).</li>
+          <li><strong>Applied AI & LLM Systems for Developers:</strong> Spearheaded hands-on architectural workshops on <strong>Generative AI</strong> engineering, covering <strong>Large Language Models (LLMs)</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong> systems, vector embeddings, and <strong>Vector Databases</strong> (ChromaDB, FAISS, LangChain) for intelligent enterprise search and workflow automation.</li>
+          <li><strong>Executive & Management Track (Directors & Decision-Makers):</strong> Led strategic <strong>Applied AI for Management</strong> masterclasses, translating cutting-edge AI capabilities into actionable business strategies, ROI frameworks, workflow automation opportunities, risk assessment, and ethical <strong>AI Governance</strong>.</li>
+          <li><strong>Enterprise Client Advisory:</strong> Partnered with multiple enterprise client accounts across different business verticals, aligning curriculum design to specific corporate datasets, operational pain points, and strategic digital transformation objectives.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">Data Analytics</span><span class="skill-tag">Applied AI</span><span class="skill-tag">AI Strategy for Management</span><span class="skill-tag">RAG</span><span class="skill-tag">Vector Databases</span><span class="skill-tag">Python Data Stack</span><span class="skill-tag">Advanced SQL</span><span class="skill-tag">Corporate Consulting</span>
+        </div>
+      </div>
+
+      <!-- 7. ITConsulting -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Senior Technical Trainer & Software Engineering Lecturer &bull; <span class="job-company">ITConsulting (Forma.Temp Programs)</span></div>
+          <div class="job-date">2024 – Present</div>
+        </div>
+        <div class="job-meta">Italy (Remote / Hybrid) &bull; Full-Stack, AI, ML & Creative Web Tracks</div>
+        <ul class="bullet-points">
+          <li><strong>Enterprise Curriculum Engineering:</strong> Designed and delivered comprehensive, production-oriented technical bootcamps and corporate training programs funded by <strong>Forma.Temp</strong>, accelerating candidate upskilling from fundamental software engineering to advanced enterprise paradigms.</li>
+          <li><strong>Python, AI & Data Engineering Track:</strong> Instructed end-to-end Python curriculums spanning Object-Oriented Programming (OOP), algorithmic complexity, relational data persistence (<strong>SQL</strong>), containerization (<strong>Docker</strong>), and applied <strong>Artificial Intelligence (AI)</strong>, covering <strong>Machine Learning (ML)</strong> algorithms, <strong>Deep Learning (DL)</strong> neural architectures, and data processing libraries (Pandas, NumPy, Scikit-Learn, PyTorch).</li>
+          <li><strong>Enterprise Java & Microservices Track:</strong> Lectured intensive backend modules centered on <strong>Java (17/21)</strong>, the <strong>Spring Boot</strong> ecosystem, <strong>Spring Data JPA</strong>, <strong>Hibernate</strong>, RESTful web API architecture, transaction management, and automated testing methodologies.</li>
+          <li><strong>Modern Frontend & Immersive Creative Web:</strong> Led advanced frontend masterclasses focusing on <strong>React.js</strong> component architecture, state management hooks, alongside cutting-edge creative development utilizing <strong>Three.js</strong> (WebGL 3D graphics rendering, shaders, canvas scenes) and <strong>GSAP (GreenSock Animation Platform)</strong> for high-performance interactive animations.</li>
+          <li><strong>Production Standards & Code Mentoring:</strong> Conducted rigorous architectural code reviews and guided students through real-world capstone projects, enforcing <strong>Clean Code</strong>, <strong>SOLID principles</strong>, Git branching strategies, and containerized deployment workflows with <strong>Docker</strong>.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">Python</span><span class="skill-tag">Deep Learning</span><span class="skill-tag">PyTorch</span><span class="skill-tag">Docker</span><span class="skill-tag">SQL</span><span class="skill-tag">Java 17/21</span><span class="skill-tag">Spring Boot 3</span><span class="skill-tag">React.js</span><span class="skill-tag">Three.js</span><span class="skill-tag">WebGL</span><span class="skill-tag">GSAP</span><span class="skill-tag">Clean Code</span>
+        </div>
+      </div>
+
+      <!-- 8. Epicode -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Senior Lecturer & Master Faculty &bull; <span class="job-company">Epicode</span></div>
+          <div class="job-date">2024 – Present</div>
+        </div>
+        <div class="job-meta">Italy (Remote) &bull; Program: Master in Python, AI & Machine Learning (Advanced Specialization Tracks & Capstone)</div>
+        <ul class="bullet-points">
+          <li><strong>Deep Learning Specialization:</strong> Instructed the advanced modules of the Master program covering deep neural networks, loss functions, backpropagation mechanics, convolutional neural networks (<strong>CNNs</strong>), recurrent models, and modern <strong>Transformer</strong> architectures utilizing <strong>PyTorch</strong> and <strong>TensorFlow</strong>.</li>
+          <li><strong>Computer Vision (CV) & Natural Language Processing (NLP):</strong> Led intensive modules on real-time computer vision, object detection, and image segmentation (<strong>OpenCV, YOLO</strong>), alongside modern NLP pipelines, text embeddings, semantic tokenization, and transformer models via <strong>Hugging Face</strong>.</li>
+          <li><strong>Generative AI & Full-Stack AI Process:</strong> Directed end-to-end full-stack AI deployment, teaching students how to bridge the gap between model inference and production apps via <strong>FastAPI</strong>, <strong>Docker</strong>, microservice APIs, Retrieval-Augmented Generation (<strong>RAG</strong>), and frontend integration.</li>
+          <li><strong>Capstone Project Supervision & Final Evaluation:</strong> Acted as technical supervisor and lead committee evaluator for final real-world <strong>Capstone Projects</strong>, auditing software architecture, model accuracy, engineering best practices, and code maintainability.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">Epicode</span><span class="skill-tag">Master in AI</span><span class="skill-tag">Deep Learning</span><span class="skill-tag">Computer Vision</span><span class="skill-tag">NLP</span><span class="skill-tag">OpenCV</span><span class="skill-tag">YOLO</span><span class="skill-tag">Hugging Face</span><span class="skill-tag">PyTorch</span><span class="skill-tag">TensorFlow</span><span class="skill-tag">FastAPI</span><span class="skill-tag">Capstone Direction</span>
+        </div>
+      </div>
+
+      <!-- 9. Sinervis (Argo 3000) -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Senior Cloud ML Instructor & AWS Specialist &bull; <span class="job-company">Sinervis Consulting</span></div>
+          <div class="job-date">Jan 2026 – Mar 2026 (3 mos)</div>
+        </div>
+        <div class="job-meta">Client: Argo 3000 &bull; Curriculum: AWS Machine Learning Engineer (Intermediate) for Enterprise Technical Teams</div>
+        <ul class="bullet-points">
+          <li><strong>Comprehensive AWS ML Curriculum Delivery:</strong> Instructed the full <strong>AWS Machine Learning Engineer (Intermediate)</strong> technical curriculum for the core software and engineering staff of <strong>Argo 3000</strong>, operationalizing production cloud ML practices.</li>
+          <li><strong>Amazon SageMaker & MLOps Pipelines:</strong> Directed practical implementation of <strong>Amazon SageMaker</strong> ecosystems (SageMaker Studio, Pipelines, Model Registry, Feature Store), automated hyperparameter tuning (HPO), and distributed training using custom containerized images.</li>
+          <li><strong>Cloud Data Ingestion & Serverless ETL:</strong> Guided teams through scalable cloud data engineering patterns leveraging <strong>Amazon S3</strong>, <strong>AWS Glue</strong>, <strong>Amazon Athena</strong>, and event-driven data pipelines triggered via <strong>AWS Lambda</strong>.</li>
+          <li><strong>Zero-Downtime Model Serving & Observability:</strong> Taught deployment strategies for production SageMaker endpoints (Real-Time, Serverless, Multi-Model Endpoints), auto-scaling policies, canary testing, and <strong>SageMaker Model Monitor</strong> for detecting data and concept drift.</li>
+          <li><strong>Enterprise Cloud Security & Cost Optimization:</strong> Implemented architectural security standards for cloud AI, including IAM role governance, KMS data encryption, VPC private endpoints for data isolation, and spot instance training for cost reduction.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">Amazon Web Services (AWS)</span><span class="skill-tag">Amazon SageMaker</span><span class="skill-tag">SageMaker Pipelines</span><span class="skill-tag">SageMaker Feature Store</span><span class="skill-tag">AWS Lambda</span><span class="skill-tag">Amazon S3</span><span class="skill-tag">AWS Glue</span><span class="skill-tag">Athena</span><span class="skill-tag">MLOps on AWS</span><span class="skill-tag">Argo 3000</span>
+        </div>
+      </div>
+
+      <!-- 10. Ultralimes Marketing -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Founder, Lead Software Architect & Data Scientist &bull; <span class="job-company">Ultralimes Marketing</span></div>
+          <div class="job-date">2025 – Present</div>
+        </div>
+        <div class="job-meta">Pisa / Remote, Italy &bull; Full R&D in 2025 • Live Production in 2026 &bull; Clients: Profice, ACUS, Tuscany Likes Events and PR</div>
+        <ul class="bullet-points">
+          <li><strong>End-to-End Product Conception & SaaS Engineering:</strong> Conceived, architected, and engineered a proprietary AI-powered market intelligence and marketing analytics SaaS platform from scratch through 12 months of dedicated R&D in 2025, reaching full commercial rollout in 2026.</li>
+          <li><strong>Custom Enterprise Solutions & Multi-Property PMS (Tuscany Likes Events and PR):</strong> Engineered a comprehensive multi-villa luxury hospitality platform and custom Property Management System (PMS); unified booking calendars, real-time room availability, lease management, and reservation workflows across an entire portfolio of high-end luxury villas in Pisa.</li>
+          <li><strong>Cloud Infrastructure & Server Administration (DevOps):</strong> Configured, deployed, and maintain production Linux cloud environments (Ubuntu, Docker containers, Nginx reverse proxy, SSL/TLS, automated CI/CD pipelines, firewall security, and automated database backups).</li>
+          <li><strong>High-Performance Backend & Asynchronous APIs:</strong> Engineered resilient RESTful APIs and microservices using <strong>Python (FastAPI)</strong> and asynchronous runtimes, backed by <strong>PostgreSQL</strong> relational storage and <strong>Redis</strong> caching layers to ensure low-latency data querying under concurrent traffic.</li>
+          <li><strong>Distributed Web Scraping & Data Extraction Pipelines:</strong> Designed large-scale, anti-bot-resistant data harvesting pipelines leveraging <strong>Playwright</strong>, <strong>BeautifulSoup</strong>, and asynchronous task workers (<strong>Celery / asyncio</strong>), extracting, cleaning, and structuring millions of web data points.</li>
+          <li><strong>Proprietary Predictive Algorithms & AI Integration:</strong> Developed custom statistical models and predictive market analysis algorithms; integrated LLM synthesis pipelines to transform unstructured web data into automated sentiment reports and tailored commercial intelligence.</li>
+          <li><strong>Commercial Growth & Team Management:</strong> Sourced and negotiated enterprise accounts (including Profice and ACUS); manage and mentor a part-time technical collaborator, overseeing task delegation, code quality audits, and operational deliverables.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">SaaS Architecture</span><span class="skill-tag">PMS Platforms</span><span class="skill-tag">Python (FastAPI)</span><span class="skill-tag">PostgreSQL</span><span class="skill-tag">Redis</span><span class="skill-tag">Web Scraping</span><span class="skill-tag">Playwright</span><span class="skill-tag">Celery</span><span class="skill-tag">Predictive Algorithms</span><span class="skill-tag">Linux Server Admin</span><span class="skill-tag">Nginx</span><span class="skill-tag">Docker</span>
+        </div>
+      </div>
+
+      <!-- 11. Golden Bloom Studio -->
+      <div class="experience-item">
+        <div class="job-header">
+          <div class="job-title">Co-Owner & Head of Video Production &bull; <span class="job-company">Golden Bloom Studio</span></div>
+          <div class="job-date">2023 – Present</div>
+        </div>
+        <div class="job-meta">Tuscany / Pisa, Italy &bull; Co-Owned with Martina Brui (Head of Photography) &bull; Key Accounts: Cantieri Navali Codecasa, Solvay Group</div>
+        <ul class="bullet-points">
+          <li><strong>Creative Leadership & Video Department Management:</strong> Direct technical and creative operations for the video department of Golden Bloom Studio, partnering with Co-Owner Martina Brui (Head of Photography) to deliver cinematic visual productions for luxury brands, corporate giants, and destination weddings across Tuscany.</li>
+          <li><strong>Bicentennial Luxury Yacht Production (Cantieri Navali Codecasa):</strong> Directed and produced the official celebration film for the prestigious <strong>200-Year Bicentennial of Cantieri Navali Codecasa</strong> (one of the world's most renowned luxury mega-yacht shipbuilders), capturing maritime engineering excellence, gala events, and legacy heritage.</li>
+          <li><strong>Industrial Media Production (Solvay Group):</strong> Produced high-impact corporate, technical, and industrial media assets for the <strong>Solvay Massa Plant</strong>, adhering to strict industrial safety standards and corporate visual guidelines for a global multinational.</li>
+          <li><strong>End-to-End Post-Production & Color Grading:</strong> Mastered high-end post-production pipelines using <strong>DaVinci Resolve</strong>, <strong>Adobe Premiere Pro</strong>, and <strong>After Effects</strong>; executed advanced color grading (ACES / RAW pipelines, LUT development, dynamic range mastering) and multi-track audio engineering.</li>
+          <li><strong>Synergy with Ultralimes Marketing Engine:</strong> Engineered seamless multimedia content pipelines providing high-resolution photo and cinematic video assets for digital marketing funnels, luxury hospitality web portals (such as the Tuscany Likes Multi-Villa PMS), and multimodal visual AI pipelines.</li>
+        </ul>
+        <div class="skills-env">
+          <span class="skills-env-label">Core Skills:</span>
+          <span class="skill-tag">Digital Cinema</span><span class="skill-tag">Cinematography</span><span class="skill-tag">DaVinci Resolve Studio</span><span class="skill-tag">Adobe Premiere Pro</span><span class="skill-tag">After Effects</span><span class="skill-tag">ACES Color Management</span><span class="skill-tag">Codecasa 200 Years</span><span class="skill-tag">Solvay Group</span><span class="skill-tag">Creative Direction</span>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- COMPREHENSIVE TECHNICAL SKILL MATRIX -->
+    <section>
+      <h2>Comprehensive Technical Skill Matrix (ATS & Algorithmic Index)</h2>
+
+      <div class="matrix-category">
+        <h4>1. Artificial Intelligence, LLMs & Agentic Systems</h4>
+        <p><strong>Agentic AI & Multi-Agent Orchestration:</strong> Agentic AI Architectures, Multi-Agent Systems, CrewAI (Role-Playing Autonomous Agents), LangChain, LangGraph, Autonomous Tool Calling & Execution, n8n Workflow Automation.</p>
+        <p><strong>Large Language Models (LLMs) & Generative AI:</strong> OpenAI GPT-4 / GPT-4o, Google Gemini Suite (Gemini 1.5 Pro/Flash, Gemini Advanced, Gemini Enterprise), Anthropic Claude, Open-Source LLMs (Llama 3, Mistral, Qwen).</p>
+        <p><strong>Prompt Engineering & Cognitive Architectures:</strong> Advanced System Prompting, Chain-of-Thought (CoT), Tree-of-Thoughts, Few-Shot / Zero-Shot Prompting, ReAct Framework, Structured JSON / Pydantic Output Parsing, Context Window Optimization.</p>
+        <p><strong>Retrieval-Augmented Generation (RAG) & Vector Search:</strong> RAG Architectures, Vector Embeddings, Semantic Search, Chunking Strategies, Vector Databases (<strong>ChromaDB</strong>, <strong>FAISS</strong>, <strong>Pinecone</strong>, <strong>Qdrant</strong>).</p>
+        <p><strong>LLM Evaluation & MLOps:</strong> <strong>DeepEval</strong>, <strong>MLflow</strong>, LLM Output Benchmarking, Hallucination Detection & Mitigation, RAG Triad Metrics (Context Relevance, Faithfulness, Answer Relevance), Model Observability, Token Cost & Latency Optimization.</p>
+      </div>
+
+      <div class="matrix-category">
+        <h4>2. Data Science, Machine Learning & Deep Learning</h4>
+        <p><strong>Deep Learning & Neural Architectures:</strong> <strong>PyTorch</strong>, <strong>TensorFlow</strong>, Keras, Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs, LSTMs), Transformer Architectures, Backpropagation & Optimization Algorithms.</p>
+        <p><strong>Computer Vision (CV):</strong> <strong>OpenCV</strong>, <strong>YOLO</strong> (Real-Time Object Detection & Tracking), Image Classification, Semantic Segmentation, Feature Matching.</p>
+        <p><strong>Natural Language Processing (NLP):</strong> <strong>Hugging Face Transformers</strong>, Pretrained Tokenizers, Sentence Transformers, Spacy, NLTK, Sentiment Analysis, Text Embeddings.</p>
+        <p><strong>Statistical Modeling & Quantitative Analytics:</strong> Probability Theory, Mathematical Statistics, Regression Analysis (Linear, Logistic, Polynomial), Hypothesis Testing, Feature Engineering, Exploratory Data Analysis (EDA), Dimensionality Reduction (PCA).</p>
+        <p><strong>Time Series & Predictive Analytics:</strong> Pharmaceutical Demand Forecasting, Market Intelligence Modeling, Predictive Algorithms, Time Series Analysis (<strong>ARIMA</strong>, <strong>Prophet</strong>, <strong>LightGBM</strong>, <strong>XGBoost</strong>, <strong>DeepAR</strong>).</p>
+        <p><strong>Scientific Computing:</strong> <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>SciPy</strong>, <strong>Statsmodels</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Plotly</strong>.</p>
+      </div>
+
+      <div class="matrix-category">
+        <h4>3. Generative Visual AI, Cinematography & Creative Technologies</h4>
+        <p><strong>Generative Image & Multimodal Systems:</strong> <strong>Stable Diffusion (SDXL, SD 1.5)</strong>, <strong>ComfyUI</strong> (Node-Based Visual Workflows), <strong>ControlNet</strong>, LoRA Fine-Tuning, <strong>Midjourney</strong>, <strong>DALL-E 3</strong>, Flux, Prompt-to-Image / Image-to-Image Pipelines, Multimodal Generation.</p>
+        <p><strong>Video Editing & Digital Post-Production:</strong> <strong>DaVinci Resolve Studio</strong>, <strong>Adobe Premiere Pro</strong>, <strong>Adobe After Effects</strong>, Final Cut Pro, High-Bitrate ProRes/RAW Media Pipelines.</p>
+        <p><strong>Color Science & Audio:</strong> ACES Color Management, Log to Rec.709 Color Science, Custom 3D LUT Engineering, HDR Mastering, Dynamic Range Optimization, Audio Post-Production & Sound Design.</p>
+        <p><strong>Cinematography & Directing:</strong> Digital Cinema Cameras (4K/6K), Lighting Design, Multi-Camera Live Direction, Corporate Documentary Production, Luxury Wedding Cinematography.</p>
+      </div>
+
+      <div class="matrix-category">
+        <h4>4. Backend Engineering, Microservices & Software Architecture</h4>
+        <p><strong>Core Programming Languages:</strong> <strong>Python</strong> (Advanced / Asyncio), <strong>Java</strong> (Java 8, Java 11, Java 17, Java 21), <strong>SQL</strong>, <strong>JavaScript (ES6+)</strong>, <strong>TypeScript</strong>, <strong>R</strong> (Statistical Computing).</p>
+        <p><strong>Backend Frameworks & Runtimes:</strong> <strong>FastAPI</strong>, <strong>Flask</strong>, <strong>Spring Boot 3</strong>, <strong>Spring Framework</strong>, <strong>Spring Data JPA</strong>, <strong>Hibernate ORM</strong>, Celery (Distributed Task Queue), Asyncio.</p>
+        <p><strong>Architecture & Design:</strong> Microservices Architecture, Clean Architecture, Domain-Driven Design (DDD), Event-Driven Architecture (EDA), SOLID Principles, Design Patterns, RESTful API Design, OpenAPI / Swagger Documentation.</p>
+        <p><strong>SaaS & Enterprise Systems:</strong> Multi-Tenant SaaS Platforms, Property Management Systems (PMS), Booking & Reservation Engines, High-Concurrency Request Handling.</p>
+      </div>
+
+      <div class="matrix-category">
+        <h4>5. Frontend & Interactive Creative Web</h4>
+        <p><strong>Frontend Frameworks & Libraries:</strong> <strong>React.js</strong> (Hooks, Context, State Management), Modern JavaScript (ES6+), HTML5, CSS3, Responsive Design.</p>
+        <p><strong>3D & Interactive Web:</strong> <strong>Three.js</strong>, <strong>WebGL</strong> (3D Canvas Scenes & Shaders), <strong>GSAP (GreenSock Animation Platform)</strong>, High-Performance Timeline Animations, Interactive UI/UX.</p>
+      </div>
+
+      <div class="matrix-category">
+        <h4>6. Databases, Storage, Caching & Data Extraction</h4>
+        <p><strong>Relational Databases (RDBMS):</strong> <strong>PostgreSQL</strong>, <strong>MariaDB</strong>, <strong>MySQL</strong>, Oracle Database, Advanced SQL (Window Functions, Common Table Expressions - CTEs, Index Optimization).</p>
+        <p><strong>Caching & In-Memory Stores:</strong> <strong>Redis</strong> (Data Caching, Rate Limiting, Message Brokering).</p>
+        <p><strong>Database Migrations:</strong> Flyway, Schema Evolution, DDL/DML Optimization.</p>
+        <p><strong>Distributed Web Scraping & Data Harvesting:</strong> <strong>Playwright</strong>, <strong>Selenium</strong>, <strong>BeautifulSoup4</strong>, Anti-Bot Bypass, Dynamic Headless Crawling, Automated ETL Extraction Pipelines.</p>
+      </div>
+
+      <div class="matrix-category">
+        <h4>7. Cloud, DevOps, MLOps & Infrastructure</h4>
+        <p><strong>Cloud Platforms & AI Engines:</strong> <strong>Amazon Web Services (AWS)</strong> (SageMaker Studio, Pipelines, Feature Store, Model Registry, S3, Lambda, Glue, Athena, IAM, VPC), <strong>Google Cloud Platform (GCP)</strong> (Vertex AI, Gemini Enterprise, Workspace AI).</p>
+        <p><strong>Containerization & Deployment:</strong> <strong>Docker</strong>, <strong>Docker Compose</strong>, Containerized ML Model Serving, Microservice Containers.</p>
+        <p><strong>Server Administration & Networking:</strong> <strong>Linux Server Administration</strong> (Ubuntu Server), <strong>Nginx</strong> (Reverse Proxy, SSL/TLS Termination, Load Balancing), VPS Management, SSH, Firewall Security (UFW).</p>
+        <p><strong>CI/CD & Version Control:</strong> <strong>Git</strong>, <strong>GitHub</strong>, <strong>GitLab CI/CD</strong>, <strong>Azure DevOps</strong>, Postman API Testing.</p>
+      </div>
+
+      <div class="matrix-category">
+        <h4>8. Enterprise Domains, Leadership & Governance</h4>
+        <p><strong>Executive Leadership:</strong> Chief Technology Officer (CTO), Startup Co-Founder, Technical Talent Assessment & Hiring Panel Evaluation, Engineering Management, Team Mentoring & Code Review.</p>
+        <p><strong>Corporate Client Portfolio:</strong> European Space Agency (ESA), EY (Ernst & Young), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, Argo 3000, Epicode, Profice, ITConsulting.</p>
+        <p><strong>Regulated Industries & Compliance:</strong> Pharmaceutical Demand Forecasting (GxP & GDPR), Banking & Financial Compliance, AI Safety Guardrails, Data Privacy & Confidentiality.</p>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>
