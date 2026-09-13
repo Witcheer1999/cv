@@ -19,14 +19,14 @@ Work Authorization: EU Citizen
 
 ### Languages & Communication
 * **Italian**: Native Speaker
-* **English**: **C1** – Advanced / Professional Working Proficiency
-* **French**: **C1** – Advanced / Professional Working Proficiency (EsaBac Certified)
+* **English**: **C1** – Advanced / Full Professional Working Proficiency *(Official delivery and instruction language for ESA - European Space Agency)*
+* **French**: **C1** – Advanced / Professional Working Proficiency *(EsaBac Certified)*
 
 ---
 
 ### Key Ventures & Entrepreneurial Projects (Founded)
 * **ForMinds** – *Co-Founder & Chief Technology Officer (CTO)*
-  * Enterprise AI consulting, corporate training, and proprietary pharmaceutical demand forecasting platform.
+  * Enterprise AI consulting, corporate training, and high-precision pharmaceutical demand forecasting platform for client bhave (Rome).
 * **Ultralimes Marketing** – *Founder & Lead Software Architect*
   * Proprietary market intelligence SaaS, custom predictive algorithms, and luxury multi-property PMS platforms.
 * **Golden Bloom Studio** – *Co-Owner & Head of Video Production*
@@ -98,16 +98,16 @@ This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of For
 ---
 
 ### **Senior Technical Instructor & AI Consultant** | **ESA (European Space Agency)** *(via Corporate Training Programs)*
-*2026 • Italy / Europe (Remote & On-Site)*
+*2026 • Italy / Europe (Remote & On-Site) • Delivery Language: English (Full Professional Working Proficiency)*
 
-* **Vertical Technical Upskilling for Space Sector Personnel**: Designed and delivered specialized technical training and process modernization courses for **ESA (European Space Agency)** teams, focusing on cloud-native tooling, data manipulation, and modern generative AI workflows.
-* **Prompt Engineering for Office & Process Automation**: Formulated advanced prompt engineering architectures tailored for document intelligence, technical report synthesis, administrative office automation, and inter-departmental communication efficiency.
+* **Vertical Technical Upskilling for Space Sector Personnel (Delivered in English)**: Designed and delivered specialized technical training programs conducted entirely in **English** for multinational **ESA (European Space Agency)** personnel, focusing on cloud-native tooling, data manipulation, and modern generative AI workflows.
+* **Prompt Engineering for Office & Process Automation**: Formulated advanced prompt engineering architectures tailored for document intelligence, technical report synthesis, administrative office automation, and cross-functional communication efficiency in complex international environments.
 * **Containerization & Dev Tooling (Docker)**: Instructed hands-on modules on **Docker** containerization, Dockerfile optimization, multi-stage image builds, environment parity, and reproducible local/server execution.
 * **Relational Data Querying & SQL Optimization**: Lectured practical **SQL** tracks covering relational data extraction, complex joins, subqueries, and structured data handling for operational workflows.
 * **AI for Business Strategy & Decision Support**: Delivered executive sessions on **AI for Business**, evaluating generative AI tooling integration, process re-engineering, digital transformation roadmaps, and measurable productivity ROI.
 
 * **Core Skills & Technical Environment**:
-  `European Space Agency (ESA)`, `Docker`, `Containerization`, `SQL`, `Relational Databases`, `Prompt Engineering`, `Office Automation`, `AI for Business`, `Workflow Automation`, `Generative AI`, `Process Optimization`, `Digital Transformation`, `Technical Upskilling`, `Corporate Training`.
+  `European Space Agency (ESA)`, `English Language Technical Delivery`, `Technical Instruction in English`, `Docker`, `Containerization`, `SQL`, `Relational Databases`, `Prompt Engineering`, `Office Automation`, `AI for Business`, `Workflow Automation`, `Generative AI`, `Process Optimization`, `Digital Transformation`, `Technical Upskilling`, `Corporate Training`.
 
 ---
 

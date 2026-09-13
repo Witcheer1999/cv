@@ -185,6 +185,11 @@ Copia e cerca ciascuna di queste competenze nell'interfaccia di LinkedIn per que
    - `Corporate Training`
    - `European Space Agency - ESA`
 
+5. **Lingua di Erogazione & Comunicazione Internazionale**:
+   - `English (Full Professional Proficiency)`
+   - `Technical Training in English`
+   - `Cross-Cultural Communication`
+
 ---
 
 ## 💼 Esperienza 3: Senior Enterprise AI Consultant & Prompt Engineering Specialist (2024 - Present)

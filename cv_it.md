@@ -19,14 +19,14 @@ Cittadinanza: Cittadino UE
 
 ### Competenze Linguistiche
 * **Italiano**: Madrelingua
-* **Inglese**: **C1** – Livello Avanzato / Utilizzo Professionale Esecutivo
-* **Francese**: **C1** – Livello Avanzato / Utilizzo Professionale Esecutivo (Certificazione EsaBac)
+* **Inglese**: **C1** – Livello Avanzato / Utilizzo Professionale Esecutivo *(Lingua di erogazione e docenza corporate per ESA - European Space Agency)*
+* **Francese**: **C1** – Livello Avanzato / Utilizzo Professionale Esecutivo *(Certificazione EsaBac)*
 
 ---
 
 ### Imprese Fondate & Iniziative Imprenditoriali
 * **ForMinds** – *Co-Founder & Chief Technology Officer (CTO)*
-  * Consulenza enterprise in AI e software su misura; motore proprietario di forecasting della domanda farmaceutica.
+  * Consulenza enterprise in AI e software su misura; piattaforma enterprise di forecasting della domanda farmaceutica per il cliente bhave (Roma).
 * **Ultralimes Marketing** – *Founder & Lead Software Architect*
   * Piattaforma SaaS proprietaria di market intelligence, algoritmi predittivi e sistemi gestionali PMS per proprietà di lusso.
 * **Golden Bloom Studio** – *Co-Owner & Responsabile Reparto Video*
@@ -98,16 +98,16 @@ Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **
 ---
 
 ### **Senior Technical Instructor & Consulente AI** | **ESA (European Space Agency)** *(Programmi Corporate)*
-*2026 • Italia / Europa (Remoto & In Presenza)*
+*2026 • Italia / Europa (Remoto & In Presenza) • Lingua di Erogazione: Inglese (Full Professional Working Proficiency)*
 
-* **Aggiornamento Tecnico Specialistico per il Settore Spaziale**: Progettazione ed erogazione di percorsi verticali di modernizzazione dei flussi di lavoro per il personale dell'**ESA (Agenzia Spaziale Europea)**, integrando containerizzazione, data extraction e automazione generativa.
-* **Prompt Engineering per l'Automazione Documentale e d'Ufficio**: Formulazione di metodologie avanzate di prompt engineering mirate alla stesura automatizzata di relazioni tecniche, sintesi documentale e accelerazione delle comunicazioni interfunzionali.
+* **Aggiornamento Tecnico Specialistico per il Settore Spaziale (Erogato in Lingua Inglese)**: Progettazione ed erogazione interamente in **lingua inglese** di percorsi verticali di modernizzazione dei flussi di lavoro per il personale internazionale dell'**ESA (Agenzia Spaziale Europea)**, integrando containerizzazione, data extraction e automazione generativa.
+* **Prompt Engineering per l'Automazione Documentale e d'Ufficio**: Formulazione di metodologie avanzate di prompt engineering mirate alla stesura automatizzata di relazioni tecniche, sintesi documentale e accelerazione delle comunicazioni interfunzionali in contesti multinazionali ad alta complessità.
 * **Containerizzazione & Strumenti DevOps (Docker)**: Moduli pratici sull'utilizzo di **Docker**, ottimizzazione di Dockerfile, build multi-stage, standardizzazione degli ambienti di sviluppo e portabilità server.
 * **Estrazione Dati Relazionali & Ottimizzazione SQL**: Formazione approfondita su query **SQL** avanzate, join complesse, aggregazioni e manipolazione di dati strutturati per l'operatività quotidiana.
 * **Strategia AI for Business & Supporto Decisionale**: Sessioni esecutive di orientamento strategico sull'adozione dell'AI, valutazione degli strumenti, reingegnerizzazione dei processi e calcolo del ROI di produttività.
 
 * **Competenze Chiave & Ambiente Tecnologico**:
-  `Agenzia Spaziale Europea (ESA)`, `Docker`, `Containerizzazione`, `SQL`, `Database Relazionali`, `Prompt Engineering`, `Office Automation`, `AI for Business`, `Automazione dei Processi`, `Generative AI`, `Digital Transformation`, `Formazione Specialistica`.
+  `Agenzia Spaziale Europea (ESA)`, `Docenza in Lingua Inglese`, `English Technical Instruction`, `Docker`, `Containerizzazione`, `SQL`, `Database Relazionali`, `Prompt Engineering`, `Office Automation`, `AI for Business`, `Automazione dei Processi`, `Generative AI`, `Digital Transformation`, `Formazione Specialistica`.
 
 ---
 
