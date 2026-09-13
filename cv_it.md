@@ -36,7 +36,7 @@ Cittadinanza: Cittadino UE
 
 ### Passioni & Attività Extracurriculari
 * **Scrittura & Divulgazione**: Storytelling creativo e saggistica tecnica, capacità di sintesi analitica e concettuale.
-* **Opera Lirica & Canto Classico**: Disciplina vocale, gestione del palco, presenza scenica e public speaking esecutivo.
+* **Canto Moderno & Opera Lirica**: Pratica attiva di canto moderno e appassionato estimatore di opera lirica; disciplina vocale, gestione del palco, presenza scenica e public speaking esecutivo.
 * **Atletica Leggera**: Disciplina sportiva, resilienza, orientamento costante al superamento degli obiettivi prefissati.
 * **Fotografia & Arti Visive**: Composizione visiva, color grading, lighting design e tecniche digitali avanzate.
 
@@ -47,7 +47,7 @@ Cittadinanza: Cittadino UE
 
 Nei miei incarichi di advisory e docenza per alcune delle più imponenti realtà industriali e istituzionali (**European Space Agency - ESA, EY, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation, Triboo Group**), il mio focus non è mai stato "spiegare l'AI generica", ma **integrarla chirurgicamente nei loro flussi di lavoro quotidiani**. Questo confronto continuo sul campo mi ha permesso di apprendere a fondo i meccanismi operativi, le complessità di governance, la compliance normativa e le dinamiche di scala dei giganti multinazionali.
 
-Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **Co-Founder & CTO di ForMinds**, guido l'ingegnerizzazione di un motore proprietario di **Pharmaceutical Demand Forecasting** ad altissima precisione e compliance GxP; come **Founder di Ultralimes Marketing**, ho concepito e deployato un'infrastruttura SaaS di market intelligence e data extraction con algoritmi predittivi su server Linux. Padroneggio l'intero spettro dell'innovazione: dai sistemi di **Agentic AI** (CrewAI, LangChain, n8n) e framework di valutazione (DeepEval, MLflow) all'AI multimodale/visuale (Stable Diffusion, ComfyUI, Google Gemini), fino allo sviluppo full-stack e cloud-native (Python/FastAPI, Java/Spring Boot, AWS SageMaker, Docker).
+Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **Co-Founder & CTO di ForMinds**, guido l'ingegnerizzazione di una piattaforma enterprise di **Pharmaceutical Demand & Sales Forecasting** per il cliente **bhave** (Roma) ad altissima precisione numerica e conformità GxP; come **Founder di Ultralimes Marketing**, ho concepito e deployato un'infrastruttura SaaS di market intelligence e data extraction con algoritmi predittivi su server Linux. Padroneggio l'intero spettro dell'innovazione: dai sistemi di **Agentic AI** (CrewAI, LangChain, n8n) e framework di valutazione (DeepEval, MLflow) all'AI multimodale/visuale (Stable Diffusion, ComfyUI, Google Gemini), fino allo sviluppo full-stack e cloud-native (Python/FastAPI, Java/Spring Boot, React.js, AWS SageMaker, Docker).
 
 ---
 
@@ -59,19 +59,19 @@ Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **
 
 * **Leadership Tecnica Esecutiva & Fondazione Societaria**: Co-fondatore di **ForMinds** al fianco di Mirko Campari (Manager), Edoardo Del Sarto e Tommaso Muraca; direzione della roadmap tecnologica, degli standard ingegneristici, dello sviluppo software personalizzato e della strategia di consulenza AI per il mercato enterprise.
 * **Veicolo di Delivery per Grandi Account Multinazionali**: Operazionalizzato ForMinds come veicolo strategico per l'integrazione di AI enterprise, architetture software ad alta sicurezza e prompt engineering avanzato per clienti di primissimo piano: **UniCredit**, **Banca Monte dei Paschi di Siena (MPS)**, **Autostrade per l'Italia**, **Piaggio Group** e **Lear Corporation**.
-* **Motore Proprietario di Forecasting Farmaceutico (R&D e Produzione)**: Progettazione e guida dello sviluppo di una piattaforma end-to-end di **Pharmaceutical Demand & Sales Forecasting**; coordinamento dell'intero ciclo di vita, dalla modellazione matematica time-series al packaging in microservizi containerizzati su cloud.
+* **Piattaforma Enterprise di Forecasting Farmaceutico (Cliente: bhave - Roma)**: Progettazione e guida dello sviluppo di una piattaforma end-to-end di **Pharmaceutical Demand & Sales Forecasting** commissionata dal cliente **bhave** di Roma; coordinamento dell'intero ciclo di vita, dalla modellazione matematica predittiva time-series al packaging in microservizi containerizzati su cloud.
 * **Precisione Algoritmica, Velocità & Massima Sicurezza**: Architettura ottimizzata per elevatissima precisione numerica, inferenza a bassissima latenza (sub-secondo), isolamento rigoroso dei dati, crittografia end-to-end e piena conformità agli standard regolatori dell'industria farmaceutica (**GxP / GDPR**).
 * **Corporate Academy IT & Intelligenza Artificiale**: Progettazione e direzione di percorsi formativi corporate avanzati su architetture software moderne, generative AI applicata e flussi agentici, accelerando l'upskilling delle risorse tecniche aziendali.
 
 * **Competenze Chiave & Ambiente Tecnologico**:
-  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Forecasting Farmaceutico`, `Modellazione Quantitativa`, `Time Series Forecasting`, `Analisi Predittiva`, `Consulenza Enterprise AI`, `Corporate Training IT`, `Architettura Software`, `FastAPI`, `Python`, `Microservizi`, `Docker`, `Cloud Security & Governance Dati`, `Compliance GxP / GDPR`, `Leadership Esecutiva`.
+  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Forecasting Farmaceutico (bhave Roma)`, `bhave`, `Modellazione Quantitativa`, `Time Series Forecasting`, `Analisi Predittiva`, `Consulenza Enterprise AI`, `Corporate Training IT`, `Architettura Software`, `FastAPI`, `Python`, `Microservizi`, `Docker`, `Cloud Security & Governance Dati`, `Compliance GxP / GDPR`, `Leadership Esecutiva`.
 
 ---
 
 ### **Lead AI & Machine Learning Instructor | Valutatore Tecnico Assunzioni** | **EY (Ernst & Young)**
 *Ago 2025 – Ott 2025 & Lug 2026 • Italia (Headquarters Nazionale & Hub EY Bari / Ibrido)*
 
-* **National Enterprise AI Academy (Ago – Ott 2025)**: Direzione ed erogazione dell'Academy nazionale intensiva di Intelligenza Artificiale e Ingegneria del Software per l'intero team di **EY Italia**, formando e allineando gli sviluppatori sugli stack AI di produzione più avanzati.
+* **National Enterprise AI Academy per Sviluppatori Junior (Ago – Ott 2025)**: Direzione ed erogazione dell'Academy nazionale intensiva di Intelligenza Artificiale e Ingegneria del Software rivolta al **team di sviluppatori junior selezionati da assumere per EY Italia**, formando e allineando i nuovi talenti aziendali sui più avanzati stack AI e pratiche software di produzione.
 * **Agentic AI & Sistemi Multi-Agente Autonomi**: Ideazione del curriculum specialistico su **Agentic AI**, orchestrazione di agenti con ruoli specializzati tramite **CrewAI**, pipeline complesse di tool-calling con **LangChain / LangGraph** e automazione dei flussi aziendali mediante nodi **n8n**.
 * **Framework di Valutazione, Benchmarking & MLOps**: Docenza su standard rigorosi di testing e affidabilità dei modelli linguistici, impiegando **DeepEval** e **MLflow** per la rilevazione e mitigazione delle allucinazioni, unit test degli output, metriche RAG Triad (Faithfulness, Answer Relevance) e monitoraggio di costi/latenza.
 * **Supervisione del Capstone Project Reale & Selezione Talenti EY**: Direzione e valutazione tecnica del progetto finale aziendale; incaricato dalla leadership di EY come **giudice ed esaminatore tecnico principale** per valutare codice, architettura e competenze dei candidati, orientando le scelte definitive di assunzione di EY Italia.
@@ -86,7 +86,7 @@ Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **
 *Apr 2026 (1 mese) • Milano, Italia (In Presenza)*  
 *Destinatari: Aziende del Gruppo e Redazioni Editoriali dell'intero Network Triboo*
 
-* **Trasformazione AI a Livello di Gruppo**: Masterclass intensiva di un mese a Milano su AI applicata al Marketing Digitale e all'Editoria, formando i team editoriali, creativi e strategici di tutte le agenzie e controllate del **Gruppo Triboo**.
+* **Trasformazione AI a Livello di Gruppo**: Masterclass intensiva di un mese a Milano su AI applicata al Marketing Digitale e all'Editoria, formando i team editoriali, creativi e strategici di tutte le agenzie controllate del **Gruppo Triboo**.
 * **Suite Google Gemini & Ecosistema Multimodale**: Implementazione operativa della suite **Google Gemini** (Gemini Enterprise, Google Cloud Vertex AI, Google Workspace AI), sfruttando il ragionamento multimodale per l'accelerazione della produzione di contenuti e l'efficienza operativa.
 * **Giornalismo Assistito da AI & Flussi Editoriali**: Architettura di workflow avanzati per la redazione digitale: generazione assistita di articoli, sintesi di copy orientata alla SEO, verifica delle fonti e strutturazione automatica di contenuti giornalistici.
 * **Localizzazione & Traduzione Neurale Multilingua**: Creazione di pipeline di traduzione e adattamento cross-border basate su LLM, accelerando la distribuzione di contenuti multimediali internazionali nel rispetto del tono di voce e delle sfumature stilistiche.
@@ -132,11 +132,12 @@ Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **
 * **Percorsi Aziendali su Doppio Binario (Tecnico ed Esecutivo)**: Progettazione ed erogazione di programmi di consulenza e formazione su misura per due pubblici distinti all'interno di molteplici aziende clienti: **Team Tecnici di Sviluppo** e **Direzione Manageriale / C-Level**.
 * **Track Tecnico per Sviluppatori & Analisti**: Approfondimenti su **Data Analytics Avanzata**, EDA, modellazione predittiva, pipeline di **Machine Learning** supervisionato e non supervisionato con lo stack scientifico Python (**Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels**) e **SQL avanzato** (Window Functions, CTE).
 * **Sistemi di AI Applicata & RAG per Ingegneri del Software**: Workshop architetturali pratici sull'ingegnerizzazione di **Large Language Models (LLM)**, flussi **Retrieval-Augmented Generation (RAG)**, embedding semantici e **Vector Database** (**ChromaDB, FAISS, LangChain**) per la ricerca intelligente su basi di conoscenza aziendali.
+* **Modern Web Dashboarding & Frontend per AI con React.js**: Progettazione e formazione sull'interfacciamento tra pipeline di dati/AI e moderne dashboard web interattive sviluppate con **React.js** (architettura a componenti, gestione dello stato, consumo di API RESTful e WebSocket in tempo reale con backend asincroni).
 * **Track Manageriale su Strategia AI & Governance Esecutiva**: Masterclass per dirigenti d'azienda focalizzate su adozione strategica dell'AI, analisi del ROI, reingegnerizzazione dei processi, gestione del rischio e **AI Governance etica**.
 * **Consulenza Multi-Cliente su Misura**: Allineamento dei percorsi ai dataset specifici e agli obiettivi di trasformazione digitale di ciascuna impresa cliente del network Profice.
 
 * **Competenze Chiave & Ambiente Tecnologico**:
-  `Data Analytics`, `Applied AI`, `Strategia AI per Manager`, `Executive Advisory`, `Machine Learning`, `RAG`, `Vector Database`, `ChromaDB`, `FAISS`, `LangChain`, `Python Scientific Stack`, `Advanced SQL`, `Visualizzazione Dati (Plotly / Seaborn)`, `AI Governance`, `Profice`.
+  `Data Analytics`, `Applied AI`, `Strategia AI per Manager`, `Executive Advisory`, `Machine Learning`, `RAG`, `Vector Database`, `ChromaDB`, `FAISS`, `LangChain`, `React.js`, `Dashboarding & Web UI per AI`, `Python Scientific Stack`, `Advanced SQL`, `Visualizzazione Dati (Plotly / Seaborn)`, `AI Governance`, `Profice`.
 
 ---
 
@@ -146,7 +147,7 @@ Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **
 * **Progettazione ed Erogazione di Bootcamps Aziendali**: Ideazione di accademie tecniche orientate agli standard industriali di produzione finanziate da **Forma.Temp**, accompagnando professionisti e candidati dall'ingegneria del software di base a paradigmi enterprise complessi.
 * **Track Python, AI & Data Engineering**: Docenza completa su Python ad oggetti, complessità algoritmica, persistenza dati con **SQL**, containerizzazione con **Docker** e fondamenti di **Machine Learning** e **Deep Learning** neurali con librerie specialistiche (**Pandas, NumPy, Scikit-Learn, PyTorch**).
 * **Track Enterprise Java & Architetture a Microservizi**: Moduli intensivi focalizzati su **Java (17/21)**, ecosistema **Spring Boot 3**, **Spring Data JPA**, **Hibernate ORM**, API RESTful, transazioni e metodologie di testing automatizzato.
-* **Track Frontend Moderno & Creative Web 3D**: Masterclass avanzate sull'architettura a componenti con **React.js** e sviluppo creativo 3D immersivo mediante **Three.js** (rendering WebGL, canvas, scene interattive) e **GSAP (GreenSock Animation Platform)** per animazioni web ad altissime performance.
+* **Track Frontend Moderno con React.js & Creative Web 3D**: Masterclass avanzate sull'architettura a componenti e Single Page Application con **React.js** (state management, hooks, lifecycles, integrazione API), affiancato da sviluppo creativo 3D immersivo mediante **Three.js** (rendering WebGL, canvas, scene interattive) e **GSAP (GreenSock Animation Platform)** per animazioni web ad altissime performance.
 * **Revisione Architetturale & Mentorship sul Codice**: Supervisione continua dei progetti industriali degli studenti, applicando principi di **Clean Code**, **SOLID design**, strategie di branching Git e deployment in container con **Docker**.
 
 * **Competenze Chiave & Ambiente Tecnologico**:
@@ -168,11 +169,11 @@ Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **
 
 ---
 
-### **Senior Cloud ML Instructor & Specialista AWS** | **Sinervis Consulting** *(Cliente: Argo 3000)*
+### **Senior Cloud ML Instructor & Specialista AWS** | **Sinervis Consulting** *(Ente Erogatore / Gestione Fondi: Argo 3000)*
 *Gen 2026 – Mar 2026 (3 mesi) • Italia (Erogazione Aziendale)*  
 *Curriculum: **AWS Machine Learning Engineer (Intermediate)** per Team Tecnici Aziendali*
 
-* **Erogazione del Curriculum Ufficiale AWS Machine Learning**: Formazione avanzata e applicata per il dipartimento ingegneristico di **Argo 3000**, implementando le pratiche di gestione dell'intero ciclo di vita del machine learning in cloud.
+* **Erogazione del Curriculum Ufficiale AWS Machine Learning**: Formazione avanzata e applicata per il team ingegneristico di un'azienda cliente tramite i fondi gestiti da **Argo 3000** come ente erogatore della docenza, implementando le pratiche di gestione dell'intero ciclo di vita del machine learning in cloud.
 * **Amazon SageMaker & Pipeline di MLOps**: Guida all'impiego operativo dell'ecosistema **Amazon SageMaker** (Studio, Pipelines, Model Registry, Feature Store), ottimizzazione automatizzata degli iperparametri (HPO) e training distribuito su container personalizzati.
 * **Data Ingestion Cloud & Pipeline Serverless**: Pattern architetturali scalabili per l'acquisizione e trasformazione dei dati mediante **Amazon S3**, **AWS Glue**, **Amazon Athena** e trigger asincroni con **AWS Lambda**.
 * **Serving dei Modelli con Zero Downtime & Rilevamento Drift**: Deployment di endpoint di inferenza (Real-Time, Serverless, Multi-Model), auto-scaling, canary release e monitoraggio con **SageMaker Model Monitor** per intercettare fenomeni di data e concept drift.
@@ -264,5 +265,5 @@ Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **
 
 ### 8. Ambiti Enterprise, Leadership & Governance
 * **Leadership Esecutiva**: Chief Technology Officer (CTO), Startup Co-Founder, Valutazione Tecnica Candidati e Panel di Assunzione, Gestione Team Ingegneristici, Code Review & Mentoring.
-* **Portfolio Clienti Corporate**: European Space Agency (ESA), EY (Ernst & Young), Gruppo Triboo, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Gruppo Piaggio, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Gruppo Solvay, Argo 3000, Epicode, Profice, ITConsulting.
+* **Portfolio Clienti Corporate**: European Space Agency (ESA), EY (Ernst & Young), Gruppo Triboo, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Gruppo Piaggio, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Gruppo Solvay, bhave (Roma), Argo 3000, Epicode, Profice, ITConsulting.
 * **Settori Regolamentati & Conformità**: Previsione della Domanda Farmaceutica (Standard GxP & GDPR), Compliance Bancaria e Finanziaria, Guardrail di Sicurezza AI, Riservatezza Dati.

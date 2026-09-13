@@ -22,13 +22,14 @@ Copia e cerca ciascuna di queste competenze nell'interfaccia di LinkedIn per que
    - `Engineering Management`
    - `Product Roadmap`
 
-2. **Pharmaceutical Tech & Forecasting**:
+2. **Pharmaceutical Tech & Forecasting (Cliente: bhave - Roma)**:
    - `Predictive Modeling`
    - `Time Series Analysis`
    - `Demand Forecasting`
    - `Pharmaceutical Industry`
    - `Healthcare Information Technology (HIT)`
    - `Statistical Modeling`
+   - `bhave`
    - `High-Performance Computing (HPC)`
 
 3. **Ingegneria del Software & Microservizi**:
@@ -292,6 +293,14 @@ Copia e cerca ciascuna di queste competenze nell'interfaccia di LinkedIn per que
    - `Public Speaking`
    - `Case Studies`
 
+6. **Frontend UI & Web Dashboarding per AI con React**:
+   - `React.js`
+   - `Front-End Development`
+   - `Web Applications`
+   - `Dashboards`
+   - `User Interface Design`
+   - `RESTful APIs`
+
 ---
 
 ## 💼 Esperienza 3: ITConsulting - Docente / Senior Trainer (2024 - Present)
@@ -392,7 +401,7 @@ Copia e cerca ciascuna di queste competenze nell'interfaccia di LinkedIn per que
 ---
 
 ## 💼 Esperienza 7: Sinervis Consulting - Senior Cloud ML Instructor & AWS Specialist (Jan 2026 - Mar 2026)
-*Cliente: Argo 3000*
+*Ente Erogatore / Gestione Fondi: Argo 3000 (Formazione per Azienda Cliente)*
 
 ### Elenco Completo Competenze da Associare su LinkedIn (Formato Tag Diretto)
 Copia e cerca ciascuna di queste competenze nell'interfaccia di LinkedIn per questa esperienza:

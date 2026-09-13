@@ -32,7 +32,7 @@ Questo repository contiene il curriculum vitae ufficiale di **Michael Bagnoli** 
 * **Ruolo Attuale**: Chief Technology Officer (CTO) & Co-Founder presso **ForMinds** | Founder presso **Ultralimes Marketing** | Co-Owner presso **Golden Bloom Studio**
 * **Formazione Accademica**: Corso di Laurea Triennale in Statistica (in corso) &bull; Liceo Scientifico Ulisse Dini (Doppia maturità EsaBac Italia/Francia)
 * **Lingue**: Italiano (Madrelingua), Inglese (C1 - Advanced), Francese (C1 - Certificato EsaBac)
-* **Clienti & Istituzioni di Riferimento**: European Space Agency (ESA), EY (Ernst & Young), Gruppo Triboo, Banca Monte dei Paschi di Siena, UniCredit, Autostrade per l'Italia, Gruppo Piaggio, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Gruppo Solvay, Argo 3000, Epicode, Profice, ITConsulting.
+* **Clienti & Istituzioni di Riferimento**: European Space Agency (ESA), EY (Ernst & Young), Gruppo Triboo, Banca Monte dei Paschi di Siena, UniCredit, Autostrade per l'Italia, Gruppo Piaggio, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Gruppo Solvay, bhave (Roma), Argo 3000, Epicode, Profice, ITConsulting.
 
 ---
 

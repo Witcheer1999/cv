@@ -15,10 +15,10 @@ Sono entrato per fare una cosa diversa: capire come lavorano le persone, identif
 Lavorare sul campo con queste organizzazioni complesse mi ha insegnato qualcosa che nessun corso può insegnare: come pensano, decidono e scalano le grandi corporation. Ho imparato a dialogare sia con gli sviluppatori che devono gestire la latenza di un'API o il benchmarking di un modello (DeepEval, MLflow), sia con il C-Level che deve giustificare il ROI di un investimento tecnologico.
 
 Parallelamente, porto avanti la mia visione imprenditoriale:
-• In ForMinds (Co-Founder & CTO), stiamo ingegnerizzando un software proprietario di Pharmaceutical Demand Forecasting ad altissima precisione, portando modelli matematici avanzati e time-series in ambienti di produzione sicuri e conformi agli standard GxP.
+• In ForMinds (Co-Founder & CTO), stiamo ingegnerizzando una piattaforma enterprise di Pharmaceutical Demand & Sales Forecasting per il cliente bhave di Roma, portando modelli matematici predittivi time-series in produzione su microservizi cloud ad altissima precisione e conformi agli standard GxP.
 • In Ultralimes Marketing (Founder), ho progettato e sviluppato da zero una piattaforma SaaS di market intelligence e data extraction, deployando architetture distribuite su server Linux e algoritmi predittivi proprietari.
 
-Ciò che rende unico il mio approccio è la natura poliedrica del mio background: unisco la forma mentis analitica della Statistica quantitativa a una profonda sensibilità artistica (coltivata nella direzione video, nella fotografia di lusso con Golden Bloom Studio, nella scrittura e nel canto lirico). 
+Ciò che rende unico il mio approccio è la natura poliedrica del mio background: unisco la forma mentis analitica della Statistica quantitativa a una profonda sensibilità artistica (coltivata nella direzione video, nella fotografia di lusso con Golden Bloom Studio, nella scrittura, nel canto moderno e nell'opera lirica). 
 Questa convergenza mi permette di dominare non solo la logica dei numeri e del codice, ma anche l'architettura multimodale (Generative Vision, Stable Diffusion, ComfyUI, Google Gemini), il design dell'esperienza utente e la capacità di comunicare concetti complessi in modo limpido e trascinante.
 
 Se la tua organizzazione vuole superare l'hype dell'AI ed entrare nella fase della reale integrazione industriale, parliamone.

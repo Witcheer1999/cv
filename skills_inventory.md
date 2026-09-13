@@ -58,7 +58,7 @@
 ## 7. Methodologies, Governance & Soft Skills
 * **Methodologies**: Agile Methodologies, Scrum, Kanban, Test-Driven Development (TDD), Continuous Integration / Continuous Delivery (CI/CD).
 * **Technical Leadership, Talent Evaluation & Advisory**: Chief Technology Officer (CTO), Startup Co-Founder, Technical Talent Assessment & Hiring Panel Evaluation, Corporate Advisory, Executive AI Strategy, Technical Mentoring, Code Review, Architectural Decision Records (ADR).
-* **Enterprise & Regulated Domains**: Pharmaceutical & Life Sciences (Demand Forecasting, GxP Standards), European Space Agency (ESA - Aerospace & Defense), Big 4 Management Consulting (EY), Banking & Financial Services (UniCredit, MPS), Automotive & Industrial Manufacturing (Piaggio, Lear Corporation, Argo 3000), Luxury Mega-Yachts & Marine Engineering (Cantieri Navali Codecasa), Chemical Industry (Solvay), Critical Infrastructure (Autostrade per l'Italia), Digital Publishing & Media (Triboo Group), Corporate Academies & EdTech (Epicode).
+* **Enterprise & Regulated Domains**: Pharmaceutical & Life Sciences (bhave Rome - Demand Forecasting, GxP Standards), European Space Agency (ESA - Aerospace & Defense), Big 4 Management Consulting (EY), Banking & Financial Services (UniCredit, MPS), Automotive & Industrial Manufacturing (Piaggio, Lear Corporation, Argo 3000), Luxury Mega-Yachts & Marine Engineering (Cantieri Navali Codecasa), Chemical Industry (Solvay), Critical Infrastructure (Autostrade per l'Italia), Digital Publishing & Media (Triboo Group), Corporate Academies & EdTech (Epicode).
 
 ---
 
