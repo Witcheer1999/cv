@@ -26,7 +26,7 @@ Work Authorization: EU Citizen
 
 ### Key Ventures & Entrepreneurial Projects (Founded)
 * **ForMinds** – *Co-Founder & Chief Technology Officer (CTO)*
-  * Development of multiple custom software solutions, enterprise platforms, and corporate training tracks; flagship projects include the pharmaceutical demand forecasting platform for client bhave (Rome).
+  * Development of multiple custom software solutions and Corporate AI Academies for major enterprises (delivered on behalf of leading intermediary training & consulting partners); flagship pharmaceutical demand forecasting platform for client bhave (Rome).
 * **Ultralimes Marketing** – *Founder & Lead Software Architect*
   * Proprietary market intelligence SaaS, custom predictive algorithms, and luxury multi-property PMS platforms.
 * **Golden Bloom Studio** – *Co-Owner & Head of Video Production*
@@ -47,7 +47,7 @@ Work Authorization: EU Citizen
 
 Throughout my advisory and masterclass engagements with premier industrial and institutional leaders (**European Space Agency - ESA, EY, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation, Triboo Group**), my mandate has never been delivering abstract, generic lectures on AI, but **surgically embedding artificial intelligence into core operational workflows**. This continuous, hands-on immersion has given me firsthand mastery of corporate governance, strict regulatory compliance, enterprise security, and multi-scale organizational dynamics across multinational giants.
 
-This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of ForMinds**, I direct the engineering and delivery of an extensive portfolio of custom software solutions, digital platforms, and corporate academies (featuring as a prime flagship application the **Pharmaceutical Demand & Sales Forecasting** platform for client **bhave** in Rome, engineered with time-series models and GxP/GDPR compliance); as **Founder of Ultralimes Marketing**, I designed, built, and deployed a cloud SaaS market intelligence platform with proprietary predictive algorithms on Linux infrastructure. I command the full frontier of modern innovation: from **Agentic AI** systems (CrewAI, LangChain, n8n) and evaluation frameworks (DeepEval, MLflow) to multimodal generative vision (Stable Diffusion, ComfyUI, Google Gemini), cloud-native MLOps (AWS SageMaker, Docker), and modern full-stack engineering (Python/FastAPI, Java/Spring Boot, React.js/Three.js/GSAP).
+This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of ForMinds**, I direct the engineering and delivery of an extensive portfolio of custom software solutions, digital platforms, and corporate academies delivered to major enterprise clients via partner firms (featuring as a prime flagship application the **Pharmaceutical Demand & Sales Forecasting** platform for client **bhave** in Rome, engineered with time-series models and GxP/GDPR compliance); as **Founder of Ultralimes Marketing**, I designed, built, and deployed a cloud SaaS market intelligence platform with proprietary predictive algorithms on Linux infrastructure. I command the full frontier of modern innovation: from **Agentic AI** systems (CrewAI, LangChain, n8n) and evaluation frameworks (DeepEval, MLflow) to multimodal generative vision (Stable Diffusion, ComfyUI, Google Gemini), cloud-native MLOps (AWS SageMaker, Docker), and modern full-stack engineering (Python/FastAPI, Java/Spring Boot, React.js/Three.js/GSAP).
 
 ---
 
@@ -58,27 +58,27 @@ This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of For
 *(Conceived in 2025 • Officially Operating in 2026 with Mirko Campari (Manager), Edoardo Del Sarto, Tommaso Muraca)*
 
 * **Executive Technical Leadership & Software Portfolio**: Co-founded **ForMinds** alongside Mirko Campari (Manager), Edoardo Del Sarto, and Tommaso Muraca, directing the technical vision, engineering standards, and the active delivery of numerous custom software systems and corporate training academies across industries (a curated selection of key projects is presented below).
+* **Corporate Academies & Enterprise Delivery via Intermediary Partners**: Designed and delivered high-impact enterprise training tracks (Generative AI, agentic systems, modern software engineering) on behalf of leading intermediary consulting and training partner firms for major corporations (**UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation**).
 * **Enterprise Pharmaceutical Demand Forecasting Platform (Flagship Project - Client: bhave Rome)**: Among multiple custom software solutions developed, spearheaded the end-to-end architecture and engineering of a **Pharmaceutical Demand & Sales Forecasting Platform** commissioned by client **bhave** in Rome; overseeing the full lifecycle from quantitative mathematical time-series modeling to microservice API packaging and cloud deployment.
 * **Mission-Critical Precision, Speed & Security**: Architected the pharma platform for ultra-high mathematical precision, sub-second inference latency, strict data governance, end-to-end encryption, and compliance with rigorous pharmaceutical industry standards (**GxP / GDPR**).
-* **Tier-1 Enterprise Delivery Vehicle**: Operationalized ForMinds as the strategic delivery vehicle for high-stakes AI integration, custom software architectures, and executive prompt engineering for major corporate accounts, including **UniCredit**, **Banca Monte dei Paschi di Siena (MPS)**, **Autostrade per l'Italia**, **Piaggio Group**, and **Lear Corporation**.
-* **Corporate IT & AI Academies**: Designed and directed multiple bespoke enterprise academy tracks in modern software architecture, applied generative AI, and agentic workflows, transforming corporate workforce capabilities across client organizations.
+* **Tier-1 Enterprise Delivery Vehicle**: Operationalized ForMinds as the strategic execution vehicle for high-stakes AI integration, custom software architectures, and executive prompt engineering for major corporate accounts.
 
 * **Core Skills & Technical Environment**:
-  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Custom Software Development`, `Pharmaceutical Demand Forecasting (bhave Rome)`, `bhave`, `Quantitative Modeling`, `Time Series Forecasting`, `High-Precision Analytics`, `Enterprise AI Consulting`, `Corporate IT Training`, `Software Architecture`, `FastAPI`, `Python`, `Microservices`, `Docker`, `Cloud Security & Data Governance`, `GxP / GDPR Compliance`, `Executive Leadership`.
+  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Custom Software Development`, `Pharmaceutical Demand Forecasting (bhave Rome)`, `bhave`, `Quantitative Modeling`, `Time Series Forecasting`, `High-Precision Analytics`, `Enterprise AI Consulting`, `Corporate IT Training (via Partners)`, `Software Architecture`, `FastAPI`, `Python`, `Microservices`, `Docker`, `Cloud Security & Data Governance`, `GxP / GDPR Compliance`, `Executive Leadership`.
 
 ---
 
-### **Lead AI & Machine Learning Instructor | Enterprise Talent Evaluator** | **EY (Ernst & Young)**
+### **Lead AI & Machine Learning Instructor** | **EY (Ernst & Young)**
 *Aug 2025 – Oct 2025 & Jul 2026 • Italy (National Headquarters & EY Bari Hub / Hybrid)*
 
 * **National Enterprise AI Academy for Junior Developer Hires (Aug – Oct 2025)**: Directed and delivered an intensive, nationwide AI & Software Engineering Academy designed for the **cohort of junior developers selected to be hired by EY Italy**, training and standardizing prospective enterprise talent on production AI engineering stacks.
 * **Agentic AI & Multi-Agent Orchestration**: Designed comprehensive curriculums covering **Agentic AI**, multi-agent role-playing systems with **CrewAI**, complex LLM agent workflows using **LangChain / LangGraph**, and visual workflow orchestration with **n8n** for enterprise process automation.
 * **LLM Evaluation, Benchmarking & MLOps**: Instructed rigorous AI evaluation frameworks and MLOps tooling, leveraging **DeepEval** and **MLflow** for hallucination detection, unit testing of LLM outputs, RAG evaluation metrics (Faithfulness, Answer Relevance), and model latency/cost tracking.
-* **Capstone Supervision & Technical Hiring Evaluation**: Directed and audited the real-world enterprise capstone project; acted as **lead technical examiner and evaluator for EY leadership**, providing analytical assessments, code quality audits, and candidate evaluations used directly by executive decision-makers to determine final hiring selections for EY Italy.
+* **Enterprise Capstone Project Direction & Architectural Auditing**: Directed and audited the real-world enterprise capstone project for EY Italia; conducted comprehensive code reviews, architectural validations, latency/accuracy benchmarks, and aligned participant codebases with EY production engineering standards.
 * **Advanced ML & Data Analytics for Development Teams (Jul 2026 - EY Bari)**: Delivered an advanced technical bootcamp for **EY Bari Hub**'s junior and mid-level software developers, focusing on production **Machine Learning (ML)** pipelines, advanced data manipulation with **Python (Pandas, NumPy, Scikit-Learn)**, statistical feature engineering, and relational/vector database integration.
 
 * **Core Skills & Technical Environment**:
-  `EY (Ernst & Young)`, `Agentic AI`, `Multi-Agent Systems`, `CrewAI`, `LangChain`, `n8n (Workflow Automation)`, `DeepEval (LLM Evaluation)`, `MLflow (MLOps)`, `Artificial Intelligence (AI)`, `Machine Learning (ML)`, `Deep Learning (DL)`, `Large Language Models (LLMs)`, `RAG Evaluation`, `Python`, `Scikit-Learn`, `Pandas`, `NumPy`, `Vector Databases`, `Relational Databases (SQL)`, `Technical Talent Assessment`, `Hiring & Recruitment Evaluation`, `Big 4 Enterprise Consulting`.
+  `EY (Ernst & Young)`, `Agentic AI`, `Multi-Agent Systems`, `CrewAI`, `LangChain`, `n8n (Workflow Automation)`, `DeepEval (LLM Evaluation)`, `MLflow (MLOps)`, `Artificial Intelligence (AI)`, `Machine Learning (ML)`, `Deep Learning (DL)`, `Large Language Models (LLMs)`, `RAG Evaluation`, `Python`, `Scikit-Learn`, `Pandas`, `NumPy`, `Vector Databases`, `Relational Databases (SQL)`, `Enterprise Training Leadership`, `Big 4 Enterprise Consulting`.
 
 ---
 
@@ -111,10 +111,11 @@ This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of For
 
 ---
 
-### **Senior Enterprise AI Consultant & Prompt Engineering Specialist** | **Enterprise Corporate Advisory**
-*2024 – Present • Italy (Hybrid & On-Site for Enterprise Clients)*  
-*Key Enterprise Client Portfolio: **Banca Monte dei Paschi di Siena (MPS)**, **UniCredit**, **Autostrade per l'Italia**, **Piaggio Group**, **Lear Corporation (Fortune 500)***
+### **Senior Enterprise AI Consultant & Corporate Trainer** | **Enterprise Programs for Industry Leaders** *(via Intermediary Partners)*
+*2024 – Present • Italy (Hybrid & On-Site) • Delivered on behalf of Intermediary Consulting & Training Partners*  
+*End-Client Portfolio: **Banca Monte dei Paschi di Siena (MPS)**, **UniCredit**, **Autostrade per l'Italia**, **Piaggio Group**, **Lear Corporation (Fortune 500)***
 
+* **Delivery Model via Intermediary Partners**: Commissioned and executed advanced corporate training programs, executive workshops, and applied AI advisory on behalf of leading intermediary training and management consulting partners for their tier-1 enterprise clients.
 * **Banking & Fintech AI Integration (UniCredit & Monte dei Paschi di Siena)**: Architected production-grade prompt engineering frameworks, deterministic JSON schema outputs, and automated LLM workflow pipelines for corporate banking, ensuring strict compliance with financial privacy regulations, audit standards, and data governance.
 * **Critical Infrastructure Workflow Optimization (Autostrade per l'Italia)**: Engineered custom AI workflow integrations embedding LLMs into internal ticketing, incident reporting, and operational documentation pipelines, substantially reducing manual cycle times and operational friction.
 * **Generative Visual AI & Industrial Design Synthesis (Piaggio Group)**: Spearheaded cutting-edge **Generative Image & Multimodal AI** consulting (leveraging deep technical background in professional photography and video production). Deployed workflows using **Stable Diffusion (SDXL / ComfyUI / ControlNet)**, **Midjourney**, and **DALL-E 3** to accelerate product design prototyping, digital asset creation, and marketing visualization.
@@ -122,7 +123,7 @@ This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of For
 * **End-to-End Enterprise Workflow Embeddings**: Authored robust system prompts, Chain-of-Thought (CoT) reasoning templates, and automated API-driven middleware (Python, REST, n8n) to seamlessly integrate AI intelligence into existing enterprise ERP, CRM, and collaboration ecosystems.
 
 * **Core Skills & Technical Environment**:
-  `Prompt Engineering`, `System Prompting`, `Few-Shot Learning`, `Chain-of-Thought (CoT)`, `Generative AI`, `Image Generation (Generative Vision)`, `Stable Diffusion (SDXL)`, `ComfyUI`, `ControlNet`, `Midjourney`, `DALL-E 3`, `Multimodal AI`, `Workflow Automation`, `n8n`, `Enterprise AI Integration`, `Banca Monte dei Paschi di Siena (MPS)`, `UniCredit Group`, `Autostrade per l'Italia`, `Piaggio Group`, `Lear Corporation (Fortune 500)`, `Banking AI Compliance`, `Data Privacy & GDPR`, `Digital Transformation`, `Python`, `REST APIs`.
+  `Prompt Engineering`, `Corporate Training via Partners`, `System Prompting`, `Few-Shot Learning`, `Chain-of-Thought (CoT)`, `Generative AI`, `Image Generation (Generative Vision)`, `Stable Diffusion (SDXL)`, `ComfyUI`, `ControlNet`, `Midjourney`, `DALL-E 3`, `Multimodal AI`, `Workflow Automation`, `n8n`, `Enterprise AI Integration`, `Banca Monte dei Paschi di Siena (MPS)`, `UniCredit Group`, `Autostrade per l'Italia`, `Piaggio Group`, `Lear Corporation (Fortune 500)`, `Banking AI Compliance`, `Data Privacy & GDPR`, `Digital Transformation`, `Python`, `REST APIs`.
 
 ---
 
@@ -264,6 +265,6 @@ This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of For
 * **CI/CD & Version Control**: **Git**, **GitHub**, **GitLab CI/CD**, **Azure DevOps**, Postman API Testing.
 
 ### 8. Enterprise Domains, Leadership & Governance
-* **Executive Leadership**: Chief Technology Officer (CTO), Startup Co-Founder, Technical Talent Assessment & Hiring Panel Evaluation, Engineering Management, Team Mentoring & Code Review.
+* **Executive Leadership**: Chief Technology Officer (CTO), Startup Co-Founder, Enterprise Training Leadership, Engineering Management, Team Mentoring & Code Review.
 * **Corporate Client Portfolio**: European Space Agency (ESA), EY (Ernst & Young), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, bhave (Rome), Argo 3000, Epicode, Profice, ITConsulting.
 * **Regulated Industries & Compliance**: Pharmaceutical Demand Forecasting (GxP & GDPR), Banking & Financial Compliance, AI Safety Guardrails, Data Privacy & Confidentiality.

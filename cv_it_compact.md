@@ -1,109 +1,111 @@
 # Michael Bagnoli
-**Chief Technology Officer (CTO) | Consulente Senior per l'Intelligenza Artificiale | Imprenditore**  
+**Chief Technology Officer (CTO) | Senior AI Corporate Trainer & Consultant**  
 Pisa, Italia • Disponibilità: Da remoto / Ibrido / Trasferte  
 Email: [mbagnoli999@gmail.com](mailto:mbagnoli999@gmail.com) • Telefono: [+39 351 957 7008](tel:+393519577008)  
 LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/in/michael-bagnoli-6504b1257/) • GitHub: [github.com/Witcheer1999](https://github.com/Witcheer1999) • Cittadinanza: UE
 
 ---
 
-## Profilo Professionale & Punti di Forza
-* **Ruolo & Visione**: Chief Technology Officer (CTO), imprenditore e consulente strategico specializzato nell'**integrazione reale dell'Intelligenza Artificiale nei processi aziendali**.
-* **Profilo Poliedrico**: Unisce la solida impostazione logica della **Statistica quantitativa** a una spiccata **sensibilità creativa e comunicativa** (direzione video, fotografia e narrazione).
-* **Esperienza con Grandi Gruppi**: Ha affiancato e formato il personale di realtà di vertice come **ESA (Agenzia Spaziale Europea)**, **EY (Ernst & Young)**, banche (**UniCredit, Banca MPS**) e multinazionali (**Piaggio, Lear Corporation, Triboo**), focalizzandosi su automazione, sicurezza dei dati e ritorno sull'investimento (ROI).
-* **Capacità Imprenditoriale**: Co-fondatore di **ForMinds** (sviluppo di molteplici software custom e percorsi formativi, tra cui il forecasting farmaceutico per bhave) e fondatore di **Ultralimes Marketing** (piattaforma per l'analisi di mercato).
+## Profilo Professionale & Idoneità per Formazione Enterprise
+* **Profilo Esecutivo**: CTO, consulente e docente specializzato nell'**integrazione industriale dell'Intelligenza Artificiale nei processi aziendali**.
+* **Solidità Quantitativa & Comunicativa**: Fonde la logica rigorosa della **Statistica quantitativa** a un'eccezionale capacità di esposizione, public speaking e storytelling chiaro.
+* **Comprovata Esperienza con Grandi Clienti**: Ha formato team tecnici, figure operative e dirigenti (C-Level) di aziende di massimo rilievo: **ESA (Agenzia Spaziale Europea)**, **EY (Ernst & Young)**, banche (**UniCredit, Banca MPS**) e multinazionali (**Piaggio, Lear Corporation, Gruppo Triboo**).
+* **Erogazione Multilingua**: Conduzione di corsi ed executive workshop correntemente in **Italiano** e in **Inglese (Livello C1)** — percorsi ufficiali condotti in inglese per l'ESA.
+* **Format Didattico & Risultati**: Didattica hands-on orientata alla risoluzione di casi d'uso reali, allineamento agli standard enterprise, sicurezza dei dati e ritorno sull'investimento (ROI).
 
 ---
 
 ## Formazione, Lingue & Interessi
-* **Studi Universitari**: Corso di Laurea Triennale in Statistica *(in corso)* • Metodi quantitativi, modelli predittivi e analisi dei dati.
+* **Studi Universitari**: Corso di Laurea in Statistica *(in corso)* • Metodi quantitativi, inferenza, modelli predittivi e calcolo delle probabilità.
 * **Diploma di Scuola Superiore**: Liceo Scientifico Ulisse Dini (Pisa) • **Doppio Diploma EsaBac** (Maturità Scientifica Italiana + Baccalauréat Francese).
-* **Lingue Straniere**:
-  * **Inglese**: **Livello C1 (Fluente / Professionale)** • Lingua utilizzata ufficialmente per l'erogazione dei corsi all'**ESA (European Space Agency)**.
-  * **Francese**: **Livello C1 (Fluente)** • Certificato con il diploma binazionale EsaBac.
+* **Competenze Linguistiche**:
+  * **Inglese**: **Livello C1 (Fluente / Professionale)** • Lingua ufficiale di erogazione e docenza corporate per **ESA (European Space Agency)**.
+  * **Francese**: **Livello C1 (Fluente)** • Certificato con diploma binazionale EsaBac.
   * **Italiano**: Madrelingua.
-* **Interessi & Attività**: Canto Moderno & Opera Lirica (disciplina vocale e gestione del palco) • Scrittura e divulgazione • Atletica leggera • Fotografia e arti visive.
+* **Attività Extracurriculari**: Canto Moderno & Opera Lirica (disciplina vocale, presenza scenica e public speaking esecutivo) • Divulgazione tecnica • Fotografia e regia video.
 
 ---
 
-## Esperienze Professionali & Imprese
+## Esperienze Professionali & Incarichi Corporate
 
 ### **ForMinds** | **Co-Founder & Chief Technology Officer (CTO)**
 *2025 – Presente • Sede: Italia (Remoto / Ibrido) • Soci: Mirko Campari (Manager), Edoardo Del Sarto, Tommaso Muraca*
-* **Sviluppo Software Custom & Accademie Aziendali**: Direzione tecnica per la creazione di molteplici applicativi, piattaforme cloud e corsi corporate per clienti enterprise (di cui viene citata una selezione).
-* **Software Farmaceutico (Esempio di Progetto - Cliente: bhave Roma)**: Tra i software realizzati, progettazione integrale di una piattaforma per la previsione delle vendite farmaceutiche, con modelli predittivi e conformità alle normative GxP/GDPR.
-* **Delivery per Grandi Clienti**: ForMinds opera come veicolo per integrare AI, automazione e sicurezza per grandi aziende (**UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation**).
-* *Competenze*: `Direzione Tecnologica (CTO)`, `Sviluppo Software Custom`, `AI Enterprise`, `Forecasting Farmaceutico (bhave)`, `Compliance GxP/GDPR`.
+* **Ruolo & Missione**: Direzione tecnologica (CTO) di startup per lo sviluppo software enterprise e percorsi di Corporate AI Academy.
+* **Delivery via Partner Intermediari**: Esecuzione tecnica di corsi, masterclass e consulenze AI per grandi aziende (**UniCredit, MPS, Autostrade, Piaggio, Lear**) per conto di primarie società di formazione e consulenza partner intermediarie.
+* **Software Custom & Progetto Faro (bhave Roma)**: Tra i molteplici software custom realizzati, ideazione integrale di una piattaforma di forecasting farmaceutico con modelli predittivi conformi a standard GxP/GDPR.
+* *Aree*: Direzione Tecnica (CTO), Corporate AI Academy, Delivery per Grandi Clienti via Partner, Sviluppo Software Custom, Compliance GxP/GDPR.
 
-### **EY (Ernst & Young)** | **Docente Principale di AI & Valutatore per le Assunzioni**
+### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor**
 *Ago–Ott 2025 & Lug 2026 • Sede: Italia (Direzione Nazionale & Hub EY Bari / Ibrido)*
-* **Academy Nazionale di Inserimento (Ago–Ott 2025)**: Direzione e insegnamento nell'Academy intensiva rivolta alla coorte di sviluppatori junior selezionati da assumere per **EY Italia**, allineandoli agli standard di lavoro aziendali.
-* **Supporto alle Decisioni di Assunzione**: Responsabile della valutazione del progetto pratico finale; i suoi report analitici e feedback tecnici sui candidati sono stati **utilizzati direttamente dai vertici aziendali per decidere chi assumere in EY**.
-* **Corsi Specialistici di AI & Dati**: Formazione su sistemi di AI autonoma per processi aziendali e corso avanzato di analisi dati per il team dell'Hub di Bari.
-* *Competenze*: Valutazione Candidati per Assunzioni, Formazione Aziendale Big 4, Intelligenza Artificiale, Leadership d'Aula.
+* **National Enterprise AI Academy (Ago–Ott 2025)**: Direzione ed erogazione dell'Academy nazionale intensiva rivolta al team di sviluppatori junior selezionati da assumere in **EY Italia**, formandoli sugli stack AI e sulle pratiche software di produzione.
+* **Agentic AI & Sistemi Autonomi**: Progettazione del programma avanzato su sistemi multi-agente (**CrewAI**), orchestrazione di agenti (**LangChain/LangGraph**) e automazione di processi aziendali con **n8n**.
+* **Affidabilità & MLOps**: Docenza su testing rigoroso dei modelli linguistici, benchmarking e riduzione delle allucinazioni tramite **DeepEval** e **MLflow**.
+* **Supervisione Capstone Project**: Conduzione di code review, auditing tecnico e validazione architetturale dei progetti software finali dei corsisti, allineandoli agli standard di ingegneria di EY.
+* **Bootcamp Avanzato Hub Bari (Lug 2026)**: Modulo specialistico per sviluppatori su pipeline di Machine Learning e data analytics con Python (**Pandas, NumPy, Scikit-Learn**).
+* *Aree*: Docenza Big 4, Agentic AI & Multi-Agent, LLM Evaluation & MLOps, Python & Scikit-Learn, Supervisione Capstone Project.
 
-### **Triboo Group** | **Consulente Senior AI per Marketing ed Editoria**
-*Apr 2026 (1 mese) • Sede: Milano (In Presenza)*
-* **Aggiornamento di Gruppo**: Masterclass intensiva di un mese a Milano rivolta ai team creativi, di marketing e alle redazioni editoriali di tutte le aziende del **Gruppo Triboo**.
-* **Risultati Concreti**: Introduzione della suite **Google Gemini Enterprise** nei processi di lavoro: scrittura assistita da AI, verifica delle fonti giornalistiche, traduzione automatica multilingua per mercati esteri e creazione di immagini per campagne pubblicitarie ed e-commerce.
-* *Competenze*: AI per l'Editoria & Giornalismo, Marketing Digitale, Suite Google Gemini Enterprise, Aumento della Produttività.
+### **Triboo Group** | **Consulente Senior AI & Trainer Corporate**
+*Apr 2026 (1 mese intensivo) • Sede: Milano (In Presenza)*
+* **Masterclass Intensiva di Gruppo**: Formazione avanzata in presenza per i team editoriali, giornalistici e le divisioni digital marketing di tutte le controllate del **Gruppo Triboo**.
+* **Adozione Suite Google Gemini Enterprise**: Applicazione pratica dell'AI multimodale: generazione assistita di articoli, fact-checking delle fonti, traduzioni neurali multilingua e asset visuali per campagne ed e-commerce.
+* *Aree*: Formazione In Presenza, Google Gemini Enterprise, AI per Giornalismo & Editoria, Prompt Engineering, Efficienza Redazionale.
 
-### **ESA (European Space Agency)** | **Docente Tecnico & Consulente AI**
-*2026 • Sede: Italia / Europa (Remoto & In Presenza) • **Lingua di Erogazione: Inglese (Fluente C1)**
-* **Formazione Internazionale in Inglese**: Progettazione e svolgimento di percorsi interamente in lingua inglese per il personale dell'**Agenzia Spaziale Europea (ESA)**.
-* **Automazione & Gestione Dati**: Insegnamento di metodi pratici per semplificare il lavoro d'ufficio con l'AI, redigere automaticamente documenti tecnici complessi, estrarre informazioni da grandi archivi dati (SQL) e standardizzare gli ambienti software (Docker).
-* *Competenze*: Docenza in Lingua Inglese, Agenzia Spaziale Europea (ESA), Automazione Processi d'Ufficio, Gestione Dati.
+### **ESA (European Space Agency)** | **Senior Technical Instructor & Consulente AI**
+*2026 • Sede: Remoto / Presenza • **Erogazione 100% in Lingua Inglese (Livello C1 Professionale)**
+* **Docenza Internazionale in Inglese**: Corsi verticali di modernizzazione dei flussi di lavoro condotti interamente in lingua inglese per il personale tecnico dell'**Agenzia Spaziale Europea**.
+* **Contenuti Trattati**: Automazione documentale e d'ufficio tramite prompt engineering avanzato, estrazione e aggregazione dati strutturati con **SQL** e containerizzazione standardizzata degli ambienti con **Docker**.
+* **AI for Business**: Masterclass applicate su valutazione degli strumenti di AI generativa, supporto decisionale e misurazione del ritorno sull'investimento (ROI).
+* *Aree*: Docenza Ufficiale in Lingua Inglese, Prompt Engineering Avanzato, Docker, SQL & Database Relazionali, Pubblico Internazionale.
 
-### **Consulenza Strategica AI per Grandi Gruppi Industriali e Bancari**
-*2024 – Presente • Sede: Italia • Clienti: UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation*
-* **Settore Bancario (UniCredit & MPS)**: Integrazione sicura dell'AI per automatizzare la lettura e gestione di pratiche bancarie complesse, garantendo totale riservatezza e conformità alle normative bancarie e privacy (GDPR).
-* **Industria & Prototipazione (Gruppo Piaggio)**: Utilizzo delle competenze visive e registiche per introdurre l'AI generativa nel design industriale rapido e nella comunicazione visiva di prodotto.
-* **Infrastrutture & Manifattura (Autostrade e Lear Corporation - Fortune 500)**: Riduzione dei tempi di gestione delle segnalazioni tecniche e semplificazione della documentazione operativa di filiera.
-* *Competenze*: Banche & Conformità Privacy, Design Industriale con AI, Efficienza nei Flussi di Lavoro, Consulenza Enterprise.
+### **Formazione & Consulenza AI per Grandi Gruppi** *(via Partner Intermediari)*
+*2024 – Presente • Sede: Italia • Clienti Finali: UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation*
+* **Modello di Collaborazione**: Incarichi di formazione specialistica ed executive workshop erogati **su incarico e per conto di primarie società di consulenza e formazione partner intermediarie**.
+* **Settore Bancario (UniCredit & MPS)**: Integrazione di modelli linguistici per la gestione automatizzata di pratiche e documenti finanziari, nel pieno rispetto delle normative di compliance bancaria e riservatezza (GDPR).
+* **Industria & Manifattura (Gruppo Piaggio & Lear Corporation - Fortune 500)**: Formazione su AI generativa visiva (Stable Diffusion / ComfyUI) per la prototipazione rapida nel design e ottimizzazione della documentazione di filiera.
+* **Infrastrutture (Autostrade per l'Italia)**: Flussi di prompt engineering avanzato per l'automazione dei report tecnici e della gestione ticket di manutenzione.
+* *Aree*: Grandi Account Corporate, Conformità Bancaria & GDPR, Generative Vision & Design Industriale, Prompt Engineering Avanzato.
 
-### **Profice** | **Consulente & Docente Aziendale per AI e Analisi Dati**
+### **Profice** | **Docente Aziendale & Consulente AI / Data Analytics**
 *2025 – Presente • Sede: Italia (Remoto & Presso Clienti)*
-* **Percorsi su Misura per Figure Tecniche e Dirigenti (C-Level)**: Formazione pratica per sviluppatori (analisi dati e algoritmi) affiancata a sessioni strategiche per manager (scelta delle tecnologie, calcolo del ritorno sull'investimento - ROI e gestione etica dell'AI).
-* **Cruscotti e Dashboard Visive**: Progettazione di interfacce web moderne (sviluppate con **React.js**) per consentire a dirigenti e analisti di visualizzare i dati e i risultati dell'AI in modo chiaro, intuitivo e immediato.
-* *Competenze*: Strategia AI per Manager (C-Level), Analisi Dati Aziendali, Dashboard Interattive (React.js), Consulenza Multi-Cliente.
+* **Doppio Target (Tecnici & C-Level)**: Formazione tecnica su Machine Learning, flussi RAG e database vettoriali per sviluppatori; sessioni strategiche su ROI e adozione dell'AI per figure manageriali.
+* **Dashboard Interattive con React.js**: Progettazione di moduli applicativi per la visualizzazione dei dati e consumo di API di intelligenza artificiale tramite interfacce web moderne in **React.js**.
+* *Aree*: Formazione Executive (C-Level), Data Analytics & ML, RAG & Vector DB, Dashboard Web (React.js).
 
-### **ITConsulting (Fondo Forma.Temp)** | **Docente Senior di Ingegneria del Software**
+### **ITConsulting (Fondo Forma.Temp)** | **Docente Senior Ingegneria del Software & Web**
 *2024 – Presente • Sede: Italia (Remoto / Ibrido)*
-* **Formazione Professionale Finanziata**: Direzione di corsi tecnici intensivi per formare e inserire candidati nel settore IT, coprendo programmazione moderna (Python, Java), banche dati, creazione di siti web moderni con **React.js** e grafiche interattive 3D.
-* **Metodo & Standard di Lavoro**: Revisione dei progetti per trasmettere ai corsisti precisione, ordine nel codice e rispetto delle tempistiche di consegna aziendali.
-* *Competenze*: Formazione Finanziata Forma.Temp, Sviluppo Software Moderno (Java, Python, React.js), Metodo di Lavoro & Mentoring.
+* **Bootcamp Finanziati Forma.Temp**: Direzione di percorsi formativi tecnici full-time per l'inserimento professionale rapido nel settore software enterprise.
+* **Stack Didattico**: Programmazione orientata agli oggetti con Python e Java (Spring Boot), database relazionali (SQL), sviluppo frontend con **React.js** e grafiche interattive 3D con Three.js.
+* *Aree*: Formazione Finanziata Forma.Temp, Full-Stack Development (Python, Java, React.js), Metodo Didattico & Mentoring.
 
-### **Epicode** | **Docente per Master Specialistico in Python, AI & Machine Learning**
+### **Epicode** | **Docente Master Specialistico AI, Machine Learning & Python**
 *2024 – Presente • Sede: Italia (Remoto)*
-* **Insegnamento nei Moduli Avanzati**: Docenza degli argomenti conclusivi del Master: visione artificiale (riconoscimento di oggetti e immagini), elaborazione del testo tramite modelli linguistici e integrazione di sistemi AI in applicazioni complete.
-* **Presidente di Commissione Esaminatrice**: Valutazione e approvazione dei progetti finali reali degli studenti, giudicandone la qualità tecnica e la spendibilità sul mercato.
-* *Competenze*: Docenza per Master Post-Laurea, Visione Artificiale & Testi, Valutazione Progetti Finali, Ingegnerizzazione AI.
+* **Moduli Avanzati del Master**: Insegnamento nei moduli conclusivi: Deep Learning, Computer Vision (OpenCV, YOLO), Natural Language Processing (NLP) e integrazione LLM con Hugging Face.
+* **Presidente Commissione Capstone**: Revisione tecnica, collaudo architetturale e approvazione dei progetti finali reali presentati dai corsisti.
+* *Aree*: Docenza Master Post-Laurea, Computer Vision & NLP, PyTorch & Hugging Face, Valutazione Progetti Tecnici.
 
-### **Sinervis Consulting (Gestione Fondi: Argo 3000)** | **Docente Tecnico Cloud & AI**
+### **Sinervis Consulting (Gestione Fondi: Argo 3000)** | **Docente Tecnico Cloud AWS & Machine Learning**
 *Gen–Mar 2026 • Sede: Italia (Erogazione Aziendale)*
-* **Corso Ufficiale AWS**: Erogazione del percorso formativo ufficiale per sviluppatori aziendali tramite i fondi gestiti da **Argo 3000** come ente erogatore della docenza.
-* **Obiettivo**: Addestrare il team di ingegneri a creare, mettere in produzione e monitorare modelli predittivi sui server cloud di Amazon Web Services (AWS) in sicurezza.
-* *Competenze*: Formazione Cloud AWS, Gestione Fondi Formazione, Tecnologie di Rete & Server.
+* **Corso Ufficiale AWS**: Erogazione del percorso formativo ufficiale AWS Machine Learning per sviluppatori aziendali tramite l'ente erogatore **Argo 3000**.
+* **Contenuti Trattati**: Pipeline MLOps su Amazon SageMaker, data ingestion cloud, containerizzazione Docker e sicurezza degli ambienti enterprise.
+* *Aree*: Formazione Ufficiale AWS Machine Learning, Amazon SageMaker, MLOps Cloud, Sicurezza Enterprise.
 
-### **Ultralimes Marketing** | **Fondatore & Responsabile Sviluppo Software**
-*2025 – Presente • Sede: Pisa / Remoto • (Clienti dal 2026: Profice, ACUS, Tuscany Likes Events and PR)*
-* **Software per l'Intelligence di Mercato (SaaS)**: Ideazione, programmazione e messa online di una piattaforma software proprietaria per raccogliere informazioni commerciali sul web e produrre analisi predittive utili alle aziende clienti.
-* **Gestionale Ville di Lusso a Pisa (Tuscany Likes Events and PR)**: Sviluppo di un sistema gestionale completo per ville di prestigio: coordinamento delle prenotazioni, calendario unificato e gestione centralizzata degli affitti.
-* **Gestione Aziendale**: Amministrazione dei server, sicurezza informatica, contratti con i clienti e coordinamento di una collaboratrice tecnica.
-* *Competenze*: Imprenditore / Fondatore, Software per il Turismo di Lusso, Sviluppo SaaS, Gestione Contratti e Risorse.
+### **Ultralimes Marketing** | **Founder & Lead Software Architect**
+*2025 – Presente • Sede: Pisa / Remoto • Clienti: Profice, ACUS, Tuscany Likes Events and PR*
+* **Piattaforma SaaS di Market Intelligence**: Progettazione e messa online di un software proprietario per data harvesting web automatizzato e analisi predittive.
+* **Gestionale PMS (Tuscany Likes Events and PR)**: Sviluppo di un sistema web completo per la gestione centralizzata di calendari, affitti e prenotazioni per ville di lusso a Pisa.
+* *Aree*: Architettura Cloud SaaS, Sviluppo Backend (FastAPI), Amministrazione Server Linux, Database PostgreSQL & Redis.
 
-### **Golden Bloom Studio** | **Co-Titolare & Responsabile Reparto Video**
-*2023 – Presente • Sede: Toscana • Co-titolare con Martina Brui (responsabile reparto fotografia)*
-* **Studio di Produzione Multimediale**: Realizzazione di documentari industriali, video promozionali ed eventi privati di lusso (destination wedding per clienti internazionali).
-* **Clienti Industriali di Rilievo**: Produzione del filmato ufficiale per la festa dei **200 anni di Cantieri Navali Codecasa** (storico costruttore di mega-yacht di lusso) e video documentario per lo stabilimento chimico di **Solvay Group** a Massa.
-* *Competenze*: Regia Video & Cinematografia, Clienti Industriali d'Eccellenza (Codecasa, Solvay), Eventi di Prestigio, Storytelling Aziendale.
+### **Golden Bloom Studio** | **Co-Owner & Responsabile Reparto Video**
+*2023 – Presente • Sede: Toscana • Co-owner con Martina Brui (Reparto Foto)*
+* **Produzioni Video di Prestigio**: Regia video, storytelling e documentari industriali per clienti di primissimo piano, tra cui il film ufficiale per il bicentenario dei **Cantieri Navali Codecasa** (mega-yacht) e asset per **Solvay Group**.
+* *Aree*: Regia & Storytelling Esecutivo, Clienti Industriali di Rilievo (Codecasa, Solvay), Comunicazione Visiva d'Eccellenza.
 
 ---
 
-## Quadro Competenze Chiave per Ruoli Aziendali
-* **Strategia & Direzione**: Direzione Tecnica (CTO), Imprenditorialità, Gestione Team Tecnici, Valutazione Competenze per le Assunzioni (Hiring), Public Speaking, Comunicazione Esecutiva.
-* **Intelligenza Artificiale & Dati**: Intelligenza Artificiale per i processi aziendali, Sistemi Autonomi (Agentic AI), Previsione Statistica Vendite (Pharma), Analisi Dati, Google Gemini Enterprise, Prompt Engineering.
-* **Sviluppo Software & Web**: Python, Java (Spring Boot), Sviluppo Web Moderno (React.js, Three.js), Architetture Cloud (AWS, Docker, Linux), Banche Dati (SQL, PostgreSQL, Redis).
-* **Normative & Riservatezza**: Conformità alle normative farmaceutiche (GxP) e bancarie, Riservatezza dei dati e GDPR.
+## Quadro Competenze per Docenze & Consulenza Enterprise
+* **Ambiti di Insegnamento & Formazione**: Generative AI, Prompt Engineering Avanzato, Agentic AI & Sistemi Multi-Agente (CrewAI, LangChain, n8n), Machine Learning & Deep Learning, LLM Evaluation & MLOps (DeepEval, MLflow), Data Analytics & SQL, Sviluppo Web Moderno per AI (React.js).
+* **Stack Tecnologico Didattico**: Python (Pandas, NumPy, Scikit-Learn, PyTorch, FastAPI), Java (Spring Boot), Docker, AWS SageMaker, Google Gemini Enterprise, SQL (PostgreSQL), React.js, Git.
+* **Capacità Didattiche & Trasversali**: Public speaking esecutivo, erogazione fluente in **Inglese C1** e Italiano, progettazione di laboratori pratici, approccio hands-on orientato al capstone project, allineamento del registro didattico sia per sviluppatori che per manager C-Level.
 
 ---
 

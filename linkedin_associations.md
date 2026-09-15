@@ -57,7 +57,7 @@ Copia e cerca ciascuna di queste competenze nell'interfaccia di LinkedIn per que
 
 ---
 
-## 💼 Esperienza 2: EY (Ernst & Young) - Lead AI Instructor & Enterprise Talent Evaluator (2025 - 2026)
+## 💼 Esperienza 2: EY (Ernst & Young) - Lead AI & Machine Learning Instructor (2025 - 2026)
 
 ### Elenco Completo Competenze da Associare su LinkedIn (Formato Tag Diretto)
 Copia e cerca ciascuna di queste competenze nell'interfaccia di LinkedIn per questa esperienza:
@@ -83,20 +83,16 @@ Copia e cerca ciascuna di queste competenze nell'interfaccia di LinkedIn per que
    - `DeepEval`
    - `MLflow`
    - `Model Evaluation`
-   - `LLM Benchmarking`
-   - `MLOps`
-   - `Unit Testing`
-   - `Quality Assurance`
+   - `Benchmarking`
+   - `Quality Assurance (QA)`
 
-4. **Machine Learning, Deep Learning & Python**:
-   - `Machine Learning`
-   - `Deep Learning`
+4. **Machine Learning & Python Stack**:
+   - `Machine Learning (ML)`
+   - `Deep Learning (DL)`
    - `Python (Programming Language)`
-   - `Data Science`
-   - `Data Analytics`
-   - `Pandas (Software)`
-   - `NumPy`
    - `Scikit-Learn`
+   - `Pandas`
+   - `NumPy`
 
 5. **Databases & Data Architecture**:
    - `Vector Databases`
@@ -104,15 +100,13 @@ Copia e cerca ciascuna di queste competenze nell'interfaccia di LinkedIn per que
    - `Relational Databases (RDBMS)`
    - `Database Design`
 
-6. **Talent Assessment, Recruitment & Leadership**:
-   - `Technical Recruiting`
-   - `Talent Assessment`
-   - `Candidate Assessment`
+6. **Enterprise Instructional Leadership & Mentoring**:
    - `Technical Mentoring`
    - `Technical Training`
    - `Curriculum Development`
    - `Code Review`
    - `Management Consulting`
+   - `Executive Presentation`
 
 ---
 
