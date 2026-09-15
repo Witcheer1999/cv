@@ -6,15 +6,23 @@ Questo repository contiene il curriculum vitae ufficiale di **Michael Bagnoli** 
 
 ## 📄 Versioni Ufficiali del CV (PDF & Markdown)
 
-### 🇮🇹 Versione Italiana
-* 📕 **[Michael_Bagnoli_CV_IT.pdf](./Michael_Bagnoli_CV_IT.pdf)** &bull; *PDF ufficiale multi-pagina compilato in italiano (vettoriale, conforme ATS, privo di icone).*
-* 📝 **[cv_it.md](./cv_it.md)** &bull; *Sorgente Markdown completo in lingua italiana.*
-* 🌐 **[cv_it.html](./cv_it.html)** &bull; *Sorgente HTML print-ready con stili di stampa A4 e gestione interruzione di pagina.*
+### 👥 Versioni Compatte (Consigliate per Lettura Umana & Recruiter - 3 Pagine)
+*Ideali per l'invio diretto a persone fisiche, hiring manager, investitori e interlocutori C-Level. Contengono tutte le esperienze, i clienti e le tecnologie, spiegate in modo sintetico, scattante e ad alto impatto visivo.*
 
-### 🇬🇧 English Version
-* 📘 **[Michael_Bagnoli_CV_EN.pdf](./Michael_Bagnoli_CV_EN.pdf)** &bull; *Official multi-page compiled PDF in English (vector text, ATS-compliant, icon-free).*
-* 📝 **[cv_en.md](./cv_en.md)** &bull; *Complete English master Markdown CV.*
-* 🌐 **[cv_en.html](./cv_en.html)** &bull; *Print-ready HTML source with A4 print CSS and page-break optimization.*
+* 🇮🇹 **[Michael_Bagnoli_CV_IT_Compact.pdf](./Michael_Bagnoli_CV_IT_Compact.pdf)** &bull; *PDF compatto italiano (3 pagine, vettoriale).*
+  * *Sorgenti*: [cv_it_compact.md](./cv_it_compact.md) &bull; [cv_it_compact.html](./cv_it_compact.html)
+* 🇬🇧 **[Michael_Bagnoli_CV_EN_Compact.pdf](./Michael_Bagnoli_CV_EN_Compact.pdf)** &bull; *Official compact English PDF (3 pages, vector).*
+  * *Sources*: [cv_en_compact.md](./cv_en_compact.md) &bull; [cv_en_compact.html](./cv_en_compact.html)
+
+---
+
+### 🤖 Versioni Complete & Esaustive (Ottimizzate per Scanner ATS & Algoritmi - 10-11 Pagine)
+*Pensate per candidature formali su portali enterprise, software ATS di screening automatico e archiviazione tecnica approfondita di ogni singolo progetto.*
+
+* 🇮🇹 **[Michael_Bagnoli_CV_IT.pdf](./Michael_Bagnoli_CV_IT.pdf)** &bull; *PDF esteso italiano (10 pagine, zero icone, keyword dense).*
+  * *Sorgenti*: [cv_it.md](./cv_it.md) &bull; [cv_it.html](./cv_it.html)
+* 🇬🇧 **[Michael_Bagnoli_CV_EN.pdf](./Michael_Bagnoli_CV_EN.pdf)** &bull; *Official full English PDF (11 pages, vector text, icon-free).*
+  * *Sources*: [cv_en.md](./cv_en.md) &bull; [cv_en.html](./cv_en.html)
 
 ---
 
