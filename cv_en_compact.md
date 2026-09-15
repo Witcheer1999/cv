@@ -6,108 +6,105 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ---
 
-## Professional Profile & Suitability for Enterprise Training
-* **Executive Profile**: CTO, AI consultant, and corporate instructor specialized in **embedding Artificial Intelligence into core enterprise operational workflows**.
-* **Quantitative Foundation & Clear Delivery**: Combines the analytical rigor of **Quantitative Statistics** with exceptional executive presentation, public speaking, and clear pedagogical communication.
-* **Proven Tier-1 Enterprise Track Record**: Instructed engineering teams, operational staff, and C-Level executives across global leaders: **ESA (European Space Agency)**, **EY (Ernst & Young)**, banking institutions (**UniCredit, Banca MPS**), and industrial multinationals (**Piaggio, Lear Corporation, Triboo Group**).
-* **Bilingual Delivery**: Proven capability delivering technical masterclasses and executive tracks fluently in **Italian** and **English (C1 Professional Proficiency)** — official corporate programs for ESA conducted entirely in English.
-* **Instructional Methodology**: Practical, hands-on delivery centered on real-world enterprise use cases, industrial standards, data governance, and measurable productivity ROI.
+## Professional Profile & Enterprise Training Suitability
+
+* **Executive Profile**: CTO and AI consultant specialized in embedding Artificial Intelligence into real-world corporate workflows.
+* **Instructional Focus**: ROI-driven pedagogy, alignment with enterprise production standards, and hands-on capstone project delivery.
+* **Audience Adaptability**: Proven ability to engage both technical software engineering teams and non-technical C-Level executives.
+* **Bilingual Delivery**: Courses delivered fluently in **Italian** and **English (C1)** — official training tracks for ESA conducted entirely in English.
+* **Tier-1 Track Record**: Successfully instructed personnel across **ESA**, **EY**, **UniCredit**, **Banca MPS**, **Piaggio**, **Lear**, **Triboo**.
 
 ---
 
-## Education, Languages & Extracurricular Activities
-* **University Education**: B.Sc. in Statistics *(in progress)* • Quantitative methods, statistical inference, predictive modeling, and probability theory.
+## Education, Languages & Public Speaking
+
+* **University Education**: B.Sc. in Statistics *(in progress)* • Quantitative methods, statistical inference, predictive modeling.
 * **High School Diploma**: Liceo Scientifico Ulisse Dini (Pisa) • **Dual EsaBac Diploma** (Italian Scientific Baccalaureate + French Baccalauréat).
-* **Language Proficiency**:
-  * **English**: **C1 Level (Fluent / Professional)** • Official delivery language for corporate instruction at **ESA (European Space Agency)**.
-  * **French**: **C1 Level (Fluent)** • Certified with binational EsaBac diploma.
-  * **Italian**: Native speaker.
-* **Extracurricular Activities**: Modern Contemporary Singing & Opera (vocal discipline, stage presence, executive public speaking) • Technical writing • Digital cinematography & photography.
+* **Languages**: **English C1** (Delivery language for ESA) • **French C1** (EsaBac Diploma) • **Italian** (Native speaker).
+* **Public Speaking & Stage Presence**: Modern Contemporary Singing & Opera (vocal discipline and stage management) • Technical writing.
 
 ---
 
 ## Professional Experience & Corporate Training Engagements
 
 ### **ForMinds** | **Co-Founder & Chief Technology Officer (CTO)**
-*2025 – Present • Location: Italy (Remote / Hybrid) • Co-founders: Mirko Campari (Manager), Edoardo Del Sarto, Tommaso Muraca*
-* **Role & Mission**: Technical leadership (CTO) of an innovation venture developing enterprise custom software and high-impact Corporate AI Academies.
-* **Delivery via Intermediary Partners**: Executed technical AI courses, masterclasses, and advisory for major accounts (**UniCredit, MPS, Autostrade, Piaggio, Lear**) on behalf of leading intermediary training and consulting partner firms.
-* **Custom Software & Flagship Project (bhave Rome)**: Among multiple custom software solutions engineered, led end-to-end delivery of a pharma forecasting platform with time-series models compliant with GxP/GDPR standards.
-* *Core Areas*: Technical Leadership (CTO), Corporate AI Academy, Enterprise Delivery via Partners, Custom Software, GxP/GDPR Compliance.
+*2025 – Present • Location: Remote / Hybrid • Partners: Mirko Campari, Edoardo Del Sarto, Tommaso Muraca*
+
+* **Corporate AI Academy**: Designed and delivered enterprise AI tracks for major accounts (**UniCredit, MPS, Autostrade, Piaggio, Lear**), conducted on behalf of leading intermediary training and consulting partners.
+* **Custom Software Engineering**: Architectural direction for cloud platforms and bespoke systems; flagship project: pharma demand forecasting for **bhave** (Rome) compliant with GxP/GDPR.
 
 ### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor**
-*Aug–Oct 2025 & Jul 2026 • Location: Italy (National HQ & EY Bari Hub / Hybrid)*
-* **National Enterprise AI Academy (Aug–Oct 2025)**: Directed and delivered the nationwide intensive Academy for the junior developer cohort selected to be hired by **EY Italy**, aligning them with production AI stacks and software practices.
-* **Agentic AI & Autonomous Systems**: Designed advanced curriculums on multi-agent systems (**CrewAI**), agent orchestration (**LangChain/LangGraph**), and enterprise workflow automation with **n8n**.
-* **Reliability & MLOps**: Instructed systematic LLM testing, hallucination mitigation, and model benchmarking using **DeepEval** and **MLflow**.
-* **Capstone Project Direction**: Conducted comprehensive code reviews, architectural audits, and validation of participants' final real-world enterprise software projects, enforcing EY engineering standards.
-* **Advanced Bari Hub Bootcamp (Jul 2026)**: Specialized module for developers on Machine Learning production pipelines and advanced data manipulation with Python (**Pandas, NumPy, Scikit-Learn**).
-* *Core Areas*: Big 4 Instruction, Agentic AI & Multi-Agent, LLM Evaluation & MLOps, Python & Scikit-Learn, Capstone Project Direction.
+*Aug–Oct 2025 & Jul 2026 • Location: National HQ & Bari Hub / Hybrid*
+
+* **National AI Academy**: Directed the nationwide intensive Academy for junior developers at **EY Italy**, training them on production AI stacks, Agentic AI (**CrewAI, LangChain**), and automation via **n8n**.
+* **Capstone Project Direction**: Architectural auditing and code reviews on participants' enterprise capstone projects, enforcing Big 4 engineering standards.
+* **Bari Hub Bootcamp**: Advanced masterclass on Machine Learning production pipelines and Data Science with Python (**Pandas, NumPy, Scikit-Learn**).
 
 ### **Triboo Group** | **Senior AI Consultant & Corporate Trainer**
 *Apr 2026 (1-month intensive) • Location: Milan (On-Site)*
-* **Group-Wide Intensive Masterclass**: Advanced on-site training in Milan for editorial teams, journalists, and digital marketing divisions across all subsidiaries of **Triboo Group**.
-* **Google Gemini Enterprise Suite**: Practical adoption of multimodal AI: assisted journalism, source fact-checking, neural translation, and visual assets for e-commerce campaigns.
-* *Core Areas*: On-Site Corporate Training, Google Gemini Enterprise, AI for Journalism & Publishing, Prompt Engineering, Newsroom Efficiency.
+
+* **Group-Wide Intensive Masterclass**: On-site training for editorial rooms, creative teams, and marketing divisions across all subsidiaries.
+* **Google Gemini Enterprise Suite**: Operational adoption of multimodal AI for assisted copywriting, source verification, neural translation, and visual assets for e-commerce.
 
 ### **ESA (European Space Agency)** | **Senior Technical Instructor & AI Consultant**
-*2026 • Location: Remote / On-Site • **Delivery 100% in English (Full Professional Working Proficiency)**
-* **International Instruction in English**: Advanced technical workflow modernization tracks conducted entirely in English for technical personnel at the **European Space Agency**.
-* **Core Modules**: Document and office automation via advanced prompt engineering, relational data querying with **SQL**, and standardized containerized environments with **Docker**.
-* **AI for Business**: Practical masterclasses evaluating generative AI tooling, decision support systems, and measuring productivity ROI.
-* *Core Areas*: Official English Technical Instruction, Advanced Prompt Engineering, Docker, SQL & Relational Databases, Multinational Audience.
+*2026 • Location: Remote / On-Site • Delivery 100% in English (Full Professional Working Proficiency)*
+
+* **International Instruction in English**: Workflow modernization tracks conducted entirely in English for technical personnel at the **European Space Agency**.
+* **Curriculum Stack**: Advanced prompt engineering for office automation, structured data querying with **SQL**, and standardized containerization with **Docker**.
+* **AI for Business**: Executive sessions evaluating generative AI tooling, decision support systems, and measuring productivity ROI.
 
 ### **Enterprise AI Programs for Industry Leaders** *(via Intermediary Partners)*
 *2024 – Present • Location: Italy • End-Clients: UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation*
-* **Delivery Model**: Commissioned and delivered technical masterclasses and executive workshops **on behalf of leading intermediary training and consulting partners** for their enterprise clients.
-* **Banking Sector (UniCredit & MPS)**: Production prompt engineering for automated processing of complex financial documents, fully compliant with banking regulations and data privacy (GDPR).
-* **Industrial & Manufacturing (Piaggio Group & Lear Corporation - Fortune 500)**: Generative visual AI (Stable Diffusion / ComfyUI) for rapid industrial design prototyping and technical supply-chain documentation.
-* **Infrastructure (Autostrade per l'Italia)**: Custom prompt architectures to automate maintenance ticketing and field incident reporting.
-* *Core Areas*: Tier-1 Enterprise Accounts, Banking Compliance & GDPR, Generative Vision & Industrial Design, Advanced Prompt Engineering.
+
+* **Delivery Model**: Technical masterclasses and executive workshops delivered **on behalf of leading intermediary training and consulting partners**.
+* **Banking & Fintech (UniCredit & MPS)**: Prompt engineering for complex financial document processing, fully compliant with banking regulations and data privacy (GDPR).
+* **Manufacturing & Automotive (Piaggio & Lear - Fortune 500)**: Generative visual AI (Stable Diffusion, ComfyUI) for industrial design and technical documentation.
+* **Infrastructure (Autostrade per l'Italia)**: AI workflows to streamline maintenance ticketing, field reporting, and operational task synthesis.
 
 ### **Profice** | **Corporate Lecturer & Consultant (AI / Data Analytics)**
-*2025 – Present • Location: Italy (Remote & On-site)*
-* **Dual Technical & C-Level Tracks**: Machine Learning and RAG systems for developers; strategic AI adoption, ROI frameworks, and AI governance for executive management.
-* **Interactive Dashboards with React.js**: Application modules on real-time data visualization and AI model API consumption via modern web interfaces in **React.js**.
-* *Core Areas*: Executive C-Level Strategy, Data Analytics & ML, RAG & Vector DBs, React.js Dashboards.
+*2025 – Present • Location: Remote & On-Site*
+
+* **Dual-Track Delivery (Devs & C-Level)**: Machine Learning and RAG systems for developers; strategic AI adoption and ROI frameworks for executives.
+* **React.js Dashboards**: Application modules on building modern **React.js** web interfaces to visualize KPIs and real-time AI model predictions.
 
 ### **ITConsulting (Forma.Temp Fund)** | **Senior Software Engineering & Web Instructor**
-*2024 – Present • Location: Italy (Remote / Hybrid)*
-* **Funded Full-Time Bootcamps**: Directed intensive software engineering tracks for rapid technical workforce qualification and corporate placement.
-* **Curriculum Stack**: Object-oriented programming in Python and Java (Spring Boot), relational databases (SQL), modern frontend with **React.js**, and 3D interactive graphics with Three.js.
-* *Core Areas*: Forma.Temp Funded Training, Full-Stack Dev (Python, Java, React.js), Instructional Methodology & Mentoring.
+*2024 – Present • Location: Remote / Hybrid*
+
+* **Funded Full-Time Bootcamps**: Intensive software engineering tracks for rapid technical workforce qualification and corporate placement.
+* **Curriculum Stack**: Object-oriented programming in Python and Java (Spring Boot), relational databases (SQL), modern frontend with **React.js**, and 3D graphics with Three.js.
 
 ### **Epicode** | **Master Lecturer (AI, Machine Learning & Python)**
-*2024 – Present • Location: Italy (Remote)*
-* **Specialized Master Modules**: Instructed advanced master modules in Deep Learning, Computer Vision (OpenCV, YOLO), Natural Language Processing (NLP), and LLM deployment via Hugging Face.
-* **Capstone Committee President**: Technical evaluation, architectural validation, and approval of students' real-world capstone projects.
-* *Core Areas*: Post-Graduate Master Lecturer, Computer Vision & NLP, PyTorch & Hugging Face, Capstone Technical Evaluation.
+*2024 – Present • Location: Remote*
 
-### **Sinervis Consulting (Fund Management: Argo 3000)** | **Cloud AWS & Machine Learning Technical Instructor**
-*Jan–Mar 2026 • Location: Italy (Corporate Delivery)*
+* **Specialized Master Modules**: Instructed advanced modules in Deep Learning, Computer Vision (OpenCV, YOLO), NLP, and LLM deployment with Hugging Face.
+* **Capstone Committee President**: Technical evaluation, architectural validation, and final approval of students' real-world projects.
+
+### **Sinervis Consulting (Fund Management: Argo 3000)** | **Cloud AWS & Machine Learning Instructor**
+*Jan–Mar 2026 • Location: Corporate Delivery*
+
 * **Official AWS Curriculum**: Delivered the official AWS Machine Learning curriculum to corporate engineering teams via fund manager **Argo 3000**.
-* **Focus**: Cloud MLOps on Amazon SageMaker, scalable data ingestion, Docker containerization, and enterprise security.
-* *Core Areas*: Official AWS ML Training, Amazon SageMaker, Cloud MLOps, Enterprise Security.
+* **Key Topics**: Cloud MLOps on Amazon SageMaker, scalable data ingestion, Docker containerization, and enterprise cloud security.
 
 ### **Ultralimes Marketing** | **Founder & Lead Software Architect**
 *2025 – Present • Location: Pisa / Remote • Clients: Profice, ACUS, Tuscany Likes Events and PR*
+
 * **Market Intelligence SaaS**: Engineered from scratch a proprietary cloud SaaS platform for automated web data harvesting and predictive analytics.
-* **PMS Platform (Tuscany Likes Events and PR)**: Developed a centralized multi-property management system for luxury villas in Pisa.
-* *Core Areas*: Cloud SaaS Architecture, Backend Python (FastAPI), Linux Server Administration, PostgreSQL & Redis.
+* **PMS Platform (Tuscany Likes)**: Developed a centralized property management system for luxury villa rentals in Pisa.
 
 ### **Golden Bloom Studio** | **Co-Owner & Head of Video Production**
 *2023 – Present • Location: Tuscany • Co-owner with Martina Brui (Photography)*
-* **High-End Multimedia Production**: Directed cinematic films and industrial documentaries for top-tier clients, including the 200th anniversary film for **Cantieri Navali Codecasa** (mega-yachts) and assets for **Solvay Group**.
-* *Core Areas*: Cinematic Direction & Storytelling, Top Industrial Clients (Codecasa, Solvay), Visual Excellence.
+
+* **High-End Multimedia Production**: Directed cinematic films and industrial documentaries for top-tier accounts: 200th anniversary film for **Cantieri Navali Codecasa** (mega-yachts) and assets for **Solvay Group**.
 
 ---
 
-## Key Competency Matrix for Corporate Training & Advisory
-* **Teaching & Instruction Domains**: Generative AI, Advanced Prompt Engineering, Agentic AI & Multi-Agent Systems (CrewAI, LangChain, n8n), Machine Learning & Deep Learning, LLM Evaluation & MLOps (DeepEval, MLflow), Data Analytics & SQL, Modern Web Development for AI (React.js).
+## Core Competency Matrix for Corporate Training & Advisory
+
+* **Teaching & Instruction Domains**: Generative AI, Advanced Prompt Engineering, Agentic AI (CrewAI, LangChain, n8n), Machine Learning, LLM Evaluation & MLOps (DeepEval, MLflow), Data Analytics & SQL, Modern Web Development for AI (React.js).
 * **Instructional Tech Stack**: Python (Pandas, NumPy, Scikit-Learn, PyTorch, FastAPI), Java (Spring Boot), Docker, AWS SageMaker, Google Gemini Enterprise, SQL (PostgreSQL), React.js, Git.
-* **Pedagogical & Soft Skills**: Executive public speaking, fluent delivery in **English (C1)** and Italian, hands-on lab and capstone project design, seamless adaptability to both technical developer audiences and C-Level executives.
+* **Pedagogical Methodology**: Practical hands-on labs, capstone project mentorship, fluent delivery in **English (C1)** and Italian, executive public speaking.
 
 ---
 
-## Selected Enterprise Clients & Organizations Trained
+## Selected Enterprise Clients Trained & Partner Organizations
 European Space Agency (ESA), EY (Ernst & Young), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, bhave (Rome), Argo 3000, Epicode, Profice, ITConsulting.

@@ -306,7 +306,8 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
 
     ul {
       list-style-type: disc;
-      padding-left: 15px;
+      padding-left: 16px;
+      margin-top: 2px;
       margin-bottom: 4px;
     }
 
@@ -314,8 +315,8 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
       font-size: 8.3pt;
       color: #334155;
       margin-bottom: 2px;
-      line-height: 1.31;
-      text-align: justify;
+      line-height: 1.33;
+      text-align: left;
     }
 
     li strong {
@@ -342,8 +343,15 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
     }
 
     .job-block {
-      margin-bottom: 5px;
+      margin-bottom: 6px;
       page-break-inside: avoid;
+    }
+
+    .job-block p em {
+      font-size: 7.9pt;
+      color: #64748b;
+      display: block;
+      margin-bottom: 2px;
     }
 
     @media print {
