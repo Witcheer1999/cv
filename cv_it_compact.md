@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 * **Ruolo & Visione**: Chief Technology Officer (CTO), imprenditore e consulente strategico specializzato nell'**integrazione reale dell'Intelligenza Artificiale nei processi aziendali**.
 * **Profilo Poliedrico**: Unisce la solida impostazione logica della **Statistica quantitativa** a una spiccata **sensibilità creativa e comunicativa** (direzione video, fotografia e narrazione).
 * **Esperienza con Grandi Gruppi**: Ha affiancato e formato il personale di realtà di vertice come **ESA (Agenzia Spaziale Europea)**, **EY (Ernst & Young)**, banche (**UniCredit, Banca MPS**) e multinazionali (**Piaggio, Lear Corporation, Triboo**), focalizzandosi su automazione, sicurezza dei dati e ritorno sull'investimento (ROI).
-* **Capacità Imprenditoriale**: Co-fondatore di **ForMinds** (software di previsione vendite per il settore farmaceutico) e fondatore di **Ultralimes Marketing** (piattaforma per l'analisi di mercato).
+* **Capacità Imprenditoriale**: Co-fondatore di **ForMinds** (sviluppo di molteplici software custom e percorsi formativi, tra cui il forecasting farmaceutico per bhave) e fondatore di **Ultralimes Marketing** (piattaforma per l'analisi di mercato).
 
 ---
 
@@ -29,10 +29,10 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ### **ForMinds** | **Co-Founder & Chief Technology Officer (CTO)**
 *2025 – Presente • Sede: Italia (Remoto / Ibrido) • Soci: Mirko Campari (Manager), Edoardo Del Sarto, Tommaso Muraca*
-* **Progetto Farmaceutico (Cliente: bhave - Roma)**: Direzione dello sviluppo di una piattaforma software per la previsione della domanda e delle vendite farmaceutiche; modelli statistici ad alta precisione nel rispetto delle severe normative del settore farmaceutico (GxP) e della privacy (GDPR).
-* **Consulenza per Grandi Clienti**: ForMinds opera come veicolo per integrare soluzioni di AI, automazione e sicurezza per grandi aziende (**UniCredit, Banca MPS, Autostrade per l'Italia, Gruppo Piaggio, Lear Corporation**).
-* **Formazione Tecnica**: Progettazione di percorsi aziendali per aggiornare i team di sviluppo interni sui più recenti sistemi di AI.
-* *Competenze*: Direzione Tecnologica (CTO), Intelligenza Artificiale per Grandi Imprese, Software Farmaceutico (bhave), Compliance GxP / GDPR.
+* **Sviluppo Software Custom & Accademie Aziendali**: Direzione tecnica per la creazione di molteplici applicativi, piattaforme cloud e corsi corporate per clienti enterprise (di cui viene citata una selezione).
+* **Software Farmaceutico (Esempio di Progetto - Cliente: bhave Roma)**: Tra i software realizzati, progettazione integrale di una piattaforma per la previsione delle vendite farmaceutiche, con modelli predittivi e conformità alle normative GxP/GDPR.
+* **Delivery per Grandi Clienti**: ForMinds opera come veicolo per integrare AI, automazione e sicurezza per grandi aziende (**UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation**).
+* *Competenze*: `Direzione Tecnologica (CTO)`, `Sviluppo Software Custom`, `AI Enterprise`, `Forecasting Farmaceutico (bhave)`, `Compliance GxP/GDPR`.
 
 ### **EY (Ernst & Young)** | **Docente Principale di AI & Valutatore per le Assunzioni**
 *Ago–Ott 2025 & Lug 2026 • Sede: Italia (Direzione Nazionale & Hub EY Bari / Ibrido)*

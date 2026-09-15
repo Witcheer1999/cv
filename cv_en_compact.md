@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 * **Role & Focus**: Chief Technology Officer (CTO), entrepreneur, and senior advisor specialized in **embedding Artificial Intelligence into core corporate operations and business workflows**.
 * **Polyhedric Profile**: Combines the mathematical and analytical rigor of **Quantitative Statistics** with executive **creative and visual direction** (cinematography, photography, and high-impact storytelling).
 * **Enterprise Track Record**: Advised and instructed teams across major institutions and global leaders (**ESA, EY, UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation, Triboo**), focusing on operational efficiency, data security, and clear ROI.
-* **Entrepreneurial Leadership**: Co-Founder & CTO at **ForMinds** (pharmaceutical forecasting platform) and Founder of **Ultralimes Marketing** (market intelligence SaaS).
+* **Entrepreneurial Leadership**: Co-Founder & CTO at **ForMinds** (custom software engineering and corporate academies, including pharma forecasting for bhave) and Founder of **Ultralimes Marketing** (market intelligence SaaS).
 
 ---
 
@@ -29,10 +29,10 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ### **ForMinds** | **Co-Founder & Chief Technology Officer (CTO)**
 *2025 – Present • Location: Italy (Remote / Hybrid) • Co-founders: Mirko Campari (Manager), Edoardo Del Sarto, Tommaso Muraca*
-* **Pharmaceutical Software (Client: bhave - Rome)**: Leading the development of a predictive platform for pharmaceutical sales and demand forecasting; high-precision statistical models compliant with strict industry regulations (GxP) and data privacy (GDPR).
+* **Custom Software & Corporate Academies**: Technical leadership delivering diverse custom software solutions, cloud systems, and enterprise training tracks (a selected portfolio is presented).
+* **Pharmaceutical Platform (Flagship Project Example - Client: bhave Rome)**: Among multiple software solutions built, spearheaded the end-to-end architecture of a pharmaceutical sales forecasting platform with time-series models and GxP/GDPR compliance.
 * **Enterprise Delivery Vehicle**: Operationalized ForMinds to deliver AI integration, workflow automation, and custom software for major accounts (**UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio Group, Lear Corporation**).
-* **Corporate Training**: Designing upskilling programs to train internal software engineering teams on the latest AI systems.
-* *Core Areas*: Technical Leadership (CTO), Enterprise AI Integration, Pharma Software (bhave), GxP / GDPR Compliance.
+* *Core Areas*: `Technical Leadership (CTO)`, `Custom Software Engineering`, `Enterprise AI`, `Pharma Software (bhave)`, `GxP/GDPR Compliance`.
 
 ### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor | Enterprise Hiring Evaluator**
 *Aug–Oct 2025 & Jul 2026 • Location: Italy (National HQ & EY Bari Hub / Hybrid)*

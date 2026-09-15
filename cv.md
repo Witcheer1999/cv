@@ -26,7 +26,7 @@ Work Authorization: EU Citizen
 
 ### Key Ventures & Entrepreneurial Projects (Founded)
 * **ForMinds** – *Co-Founder & Chief Technology Officer (CTO)*
-  * Enterprise AI consulting, corporate training, and high-precision pharmaceutical demand forecasting platform for client bhave (Rome).
+  * Development of multiple custom software solutions, enterprise platforms, and corporate training tracks; flagship projects include the pharmaceutical demand forecasting platform for client bhave (Rome).
 * **Ultralimes Marketing** – *Founder & Lead Software Architect*
   * Proprietary market intelligence SaaS, custom predictive algorithms, and luxury multi-property PMS platforms.
 * **Golden Bloom Studio** – *Co-Owner & Head of Video Production*
@@ -47,7 +47,7 @@ Work Authorization: EU Citizen
 
 Throughout my advisory and masterclass engagements with premier industrial and institutional leaders (**European Space Agency - ESA, EY, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation, Triboo Group**), my mandate has never been delivering abstract, generic lectures on AI, but **surgically embedding artificial intelligence into core operational workflows**. This continuous, hands-on immersion has given me firsthand mastery of corporate governance, strict regulatory compliance, enterprise security, and multi-scale organizational dynamics across multinational giants.
 
-This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of ForMinds**, I spearhead the architecture and development of an ultra-precise, GxP-compliant enterprise **Pharmaceutical Demand & Sales Forecasting** platform for client **bhave** (Rome); as **Founder of Ultralimes Marketing**, I designed, built, and deployed a cloud SaaS market intelligence platform with proprietary predictive algorithms on Linux infrastructure. I command the full frontier of modern innovation: from **Agentic AI** systems (CrewAI, LangChain, n8n) and evaluation frameworks (DeepEval, MLflow) to multimodal generative vision (Stable Diffusion, ComfyUI, Google Gemini), cloud-native MLOps (AWS SageMaker, Docker), and modern full-stack engineering (Python/FastAPI, Java/Spring Boot, React.js/Three.js/GSAP).
+This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of ForMinds**, I direct the engineering and delivery of an extensive portfolio of custom software solutions, digital platforms, and corporate academies (featuring as a prime flagship application the **Pharmaceutical Demand & Sales Forecasting** platform for client **bhave** in Rome, engineered with time-series models and GxP/GDPR compliance); as **Founder of Ultralimes Marketing**, I designed, built, and deployed a cloud SaaS market intelligence platform with proprietary predictive algorithms on Linux infrastructure. I command the full frontier of modern innovation: from **Agentic AI** systems (CrewAI, LangChain, n8n) and evaluation frameworks (DeepEval, MLflow) to multimodal generative vision (Stable Diffusion, ComfyUI, Google Gemini), cloud-native MLOps (AWS SageMaker, Docker), and modern full-stack engineering (Python/FastAPI, Java/Spring Boot, React.js/Three.js/GSAP).
 
 ---
 
@@ -57,14 +57,14 @@ This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of For
 *2025 – Present • Italy (Remote / Hybrid)*  
 *(Conceived in 2025 • Officially Operating in 2026 with Mirko Campari (Manager), Edoardo Del Sarto, Tommaso Muraca)*
 
-* **Executive Technical Leadership & Company Foundation**: Co-founded **ForMinds** alongside Mirko Campari (Manager), Edoardo Del Sarto, and Tommaso Muraca, spearheading the company's technical vision, engineering standards, custom software development, and enterprise AI consulting roadmap.
-* **Tier-1 Enterprise Delivery Vehicle**: Operationalized ForMinds as the strategic delivery vehicle for high-stakes AI integration, custom software architectures, and executive prompt engineering for major corporate accounts, including **UniCredit**, **Banca Monte dei Paschi di Siena (MPS)**, **Autostrade per l'Italia**, **Piaggio Group**, and **Lear Corporation**.
-* **Enterprise Pharmaceutical Demand Forecasting Platform (Client: bhave - Rome)**: Spearheading the architecture and engineering of an end-to-end **Pharmaceutical Demand & Sales Forecasting Platform** commissioned by client **bhave** in Rome; overseeing the full pipeline from quantitative mathematical time-series modeling to microservice API packaging and cloud deployment.
+* **Executive Technical Leadership & Software Portfolio**: Co-founded **ForMinds** alongside Mirko Campari (Manager), Edoardo Del Sarto, and Tommaso Muraca, directing the technical vision, engineering standards, and the active delivery of numerous custom software systems and corporate training academies across industries (a curated selection of key projects is presented below).
+* **Enterprise Pharmaceutical Demand Forecasting Platform (Flagship Project - Client: bhave Rome)**: Among multiple custom software solutions developed, spearheaded the end-to-end architecture and engineering of a **Pharmaceutical Demand & Sales Forecasting Platform** commissioned by client **bhave** in Rome; overseeing the full lifecycle from quantitative mathematical time-series modeling to microservice API packaging and cloud deployment.
 * **Mission-Critical Precision, Speed & Security**: Architected the pharma platform for ultra-high mathematical precision, sub-second inference latency, strict data governance, end-to-end encryption, and compliance with rigorous pharmaceutical industry standards (**GxP / GDPR**).
-* **Corporate IT & AI Academies**: Designed and directed bespoke enterprise academy tracks in modern software architecture, applied generative AI, and agentic workflows, transforming corporate workforce capabilities across client organizations.
+* **Tier-1 Enterprise Delivery Vehicle**: Operationalized ForMinds as the strategic delivery vehicle for high-stakes AI integration, custom software architectures, and executive prompt engineering for major corporate accounts, including **UniCredit**, **Banca Monte dei Paschi di Siena (MPS)**, **Autostrade per l'Italia**, **Piaggio Group**, and **Lear Corporation**.
+* **Corporate IT & AI Academies**: Designed and directed multiple bespoke enterprise academy tracks in modern software architecture, applied generative AI, and agentic workflows, transforming corporate workforce capabilities across client organizations.
 
 * **Core Skills & Technical Environment**:
-  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Pharmaceutical Demand Forecasting (bhave Rome)`, `bhave`, `Quantitative Modeling`, `Time Series Forecasting`, `High-Precision Analytics`, `Enterprise AI Consulting`, `Corporate IT Training`, `Software Architecture`, `FastAPI`, `Python`, `Microservices`, `Docker`, `Cloud Security & Data Governance`, `GxP / GDPR Compliance`, `Executive Leadership`.
+  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Custom Software Development`, `Pharmaceutical Demand Forecasting (bhave Rome)`, `bhave`, `Quantitative Modeling`, `Time Series Forecasting`, `High-Precision Analytics`, `Enterprise AI Consulting`, `Corporate IT Training`, `Software Architecture`, `FastAPI`, `Python`, `Microservices`, `Docker`, `Cloud Security & Data Governance`, `GxP / GDPR Compliance`, `Executive Leadership`.
 
 ---
 
