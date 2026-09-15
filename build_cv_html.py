@@ -206,7 +206,7 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
   <style>
     @page {
       size: A4;
-      margin: 12mm 14mm 12mm 14mm;
+      margin: 10mm 12mm 10mm 12mm;
     }
 
     * {
@@ -219,8 +219,8 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       color: #0f172a;
       background-color: #ffffff;
-      line-height: 1.38;
-      font-size: 8.8pt;
+      line-height: 1.33;
+      font-size: 8.4pt;
       -webkit-font-smoothing: antialiased;
     }
 
@@ -231,12 +231,12 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
 
     header {
       border-bottom: 2px solid #0f172a;
-      padding-bottom: 8px;
-      margin-bottom: 10px;
+      padding-bottom: 5px;
+      margin-bottom: 7px;
     }
 
     h1 {
-      font-size: 20pt;
+      font-size: 19pt;
       font-weight: 800;
       letter-spacing: -0.4px;
       color: #0f172a;
@@ -245,18 +245,18 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
     }
 
     .headline {
-      font-size: 9.8pt;
+      font-size: 9.5pt;
       font-weight: 600;
       color: #1e3a8a;
-      margin-bottom: 4px;
+      margin-bottom: 3px;
     }
 
     .contact-bar {
-      font-size: 8pt;
+      font-size: 7.8pt;
       color: #475569;
       display: flex;
       flex-wrap: wrap;
-      gap: 8px;
+      gap: 7px;
       align-items: center;
     }
 
@@ -267,33 +267,33 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
     }
 
     h2 {
-      font-size: 10.5pt;
+      font-size: 10pt;
       font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: 0.6px;
+      letter-spacing: 0.5px;
       color: #0f172a;
       border-bottom: 1.5px solid #cbd5e1;
-      padding-bottom: 2px;
-      margin-top: 10px;
-      margin-bottom: 6px;
+      padding-bottom: 1.5px;
+      margin-top: 7px;
+      margin-bottom: 4px;
       page-break-after: avoid;
     }
 
     h3 {
-      font-size: 9.5pt;
+      font-size: 9.2pt;
       font-weight: 700;
       color: #0f172a;
-      margin-top: 8px;
-      margin-bottom: 2px;
+      margin-top: 5px;
+      margin-bottom: 1.5px;
       page-break-after: avoid;
     }
 
     p {
-      font-size: 8.6pt;
+      font-size: 8.3pt;
       color: #334155;
-      margin-bottom: 4px;
+      margin-bottom: 3px;
       text-align: justify;
-      line-height: 1.38;
+      line-height: 1.33;
     }
 
     p strong {
@@ -306,15 +306,15 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
 
     ul {
       list-style-type: disc;
-      padding-left: 16px;
-      margin-bottom: 5px;
+      padding-left: 15px;
+      margin-bottom: 4px;
     }
 
     li {
-      font-size: 8.6pt;
+      font-size: 8.3pt;
       color: #334155;
-      margin-bottom: 2.5px;
-      line-height: 1.36;
+      margin-bottom: 2px;
+      line-height: 1.31;
       text-align: justify;
     }
 
@@ -325,7 +325,7 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
     hr {
       border: none;
       border-top: 1px solid #cbd5e1;
-      margin: 8px 0;
+      margin: 6px 0;
     }
 
     code {
@@ -333,22 +333,22 @@ COMPACT_CSS_TEMPLATE = """<!DOCTYPE html>
       background: #f1f5f9;
       color: #1e293b;
       border: 1px solid #cbd5e1;
-      padding: 0.5px 4px;
+      padding: 0.5px 3.5px;
       border-radius: 3px;
       margin: 0.5px;
-      font-size: 7.6pt;
+      font-size: 7.3pt;
       font-family: inherit;
       font-weight: 500;
     }
 
     .job-block {
-      margin-bottom: 7px;
+      margin-bottom: 5px;
       page-break-inside: avoid;
     }
 
     @media print {
       body {
-        font-size: 8.6pt;
+        font-size: 8.3pt;
       }
       .cv-container {
         width: 100%;

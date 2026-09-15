@@ -6,12 +6,12 @@ Questo repository contiene il curriculum vitae ufficiale di **Michael Bagnoli** 
 
 ## 📄 Versioni Ufficiali del CV (PDF & Markdown)
 
-### 👥 Versioni Compatte (Consigliate per Lettura Umana & Recruiter - 3 Pagine)
-*Ideali per l'invio diretto a persone fisiche, hiring manager, investitori e interlocutori C-Level. Contengono tutte le esperienze, i clienti e le tecnologie, spiegate in modo sintetico, scattante e ad alto impatto visivo.*
+### 👥 Versioni Compatte (Consigliate per Lettura Umana & Recruiter - 2 Pagine)
+*Ideali per l'invio diretto a persone fisiche, recruiter HR, hiring manager, investitori e interlocutori C-Level. Impostazione schematica e chiara, comprensibile anche a un pubblico non tecnico, focalizzata su impatto reale, progetti completati e brand enterprise.*
 
-* 🇮🇹 **[Michael_Bagnoli_CV_IT_Compact.pdf](./Michael_Bagnoli_CV_IT_Compact.pdf)** &bull; *PDF compatto italiano (3 pagine, vettoriale).*
+* 🇮🇹 **[Michael_Bagnoli_CV_IT_Compact.pdf](./Michael_Bagnoli_CV_IT_Compact.pdf)** &bull; *PDF compatto italiano (2 pagine, schematico, HR-friendly).*
   * *Sorgenti*: [cv_it_compact.md](./cv_it_compact.md) &bull; [cv_it_compact.html](./cv_it_compact.html)
-* 🇬🇧 **[Michael_Bagnoli_CV_EN_Compact.pdf](./Michael_Bagnoli_CV_EN_Compact.pdf)** &bull; *Official compact English PDF (3 pages, vector).*
+* 🇬🇧 **[Michael_Bagnoli_CV_EN_Compact.pdf](./Michael_Bagnoli_CV_EN_Compact.pdf)** &bull; *Official compact English PDF (2 pages, schematic, HR-friendly).*
   * *Sources*: [cv_en_compact.md](./cv_en_compact.md) &bull; [cv_en_compact.html](./cv_en_compact.html)
 
 ---
