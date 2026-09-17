@@ -51,7 +51,7 @@ Attività e responsabilità:
 * **Località**: Italia • Ibrido / Headquarter Nazionale
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Direzione didattica ed erogazione dell'Academy nazionale intensiva di Intelligenza Artificiale e Ingegneria del Software per la coorte di sviluppatori junior selezionati per l'inserimento nei team AI di EY Italia.
+Incarico di docenza specialistica ed erogazione dell'Academy nazionale intensiva di Intelligenza Artificiale per gli sviluppatori junior di EY Italia, commissionato ed erogato per conto di primaria società partner intermediaria di consulenza e formazione.
 
 Attività e moduli di insegnamento:
 • Agentic AI & Sistemi Multi-Agente: Programma avanzato su CrewAI, flussi agentici complessi con LangChain/LangGraph e automazione dei processi aziendali con n8n.
@@ -82,7 +82,7 @@ Attività e moduli di insegnamento:
 * **Località**: Bari, Puglia, Italia • Ibrido / EY Bari Hub
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Docenza intensiva del bootcamp tecnico avanzato per sviluppatori junior e mid-level e figure data dell'Innovation Hub EY di Bari, con focus su Machine Learning di produzione, Reti Neurali e Analisi Avanzata dei Dati.
+Incarico di docenza specialistica del bootcamp tecnico avanzato per gli ingegneri software e data specialists dell'Innovation Hub EY di Bari, commissionato ed erogato per conto di primaria società partner intermediaria.
 
 Attività e stack tecnologico didattico:
 • Reti Neurali & Deep Learning: Architetture neurali, reti feedforward, backpropagation e ottimizzazione dei modelli con PyTorch e TensorFlow.
