@@ -42,34 +42,63 @@ Attività e responsabilità:
 
 ---
 
-## 💼 2. EY (Ernst & Young) – Lead AI & Machine Learning Instructor
+## 💼 2A. EY – Lead AI & Software Engineering Instructor (National AI Academy)
 
 * **Azienda**: EY
-* **Qualifica / Titolo**: Lead AI & Machine Learning Instructor
-* **Tipo di impiego**: A contratto / Consulenza
-* **Date**: Agosto 2025 – Presente (Ago–Ott 2025 & Lug 2026)
-* **Località**: Bari & Nazionale, Italia • Ibrido
+* **Qualifica / Titolo**: `Lead AI & Software Engineering Instructor`
+* **Tipo di impiego**: `A contratto`
+* **Date**: Agosto 2025 – Ottobre 2025 (3 mesi)
+* **Località**: Italia • Ibrido / Headquarter Nazionale
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Direzione didattica ed erogazione dell'Academy nazionale intensiva di Intelligenza Artificiale e Ingegneria del Software per la coorte di sviluppatori junior di EY Italia, con successivi moduli specialistici per l'Hub EY di Bari.
+Direzione didattica ed erogazione dell'Academy nazionale intensiva di Intelligenza Artificiale e Ingegneria del Software per la coorte di sviluppatori junior selezionati per l'inserimento nei team AI di EY Italia.
 
-Attività e aree di insegnamento:
-• Agentic AI & Sistemi Multi-Agente: Progettazione del programma avanzato su CrewAI, LangChain/LangGraph e automazione dei flussi operativi aziendali con nodi n8n.
-• Evaluation Frameworks & MLOps: Testing sistematico dell'affidabilità dei modelli linguistici, metriche RAG Triad e mitigazione delle allucinazioni con DeepEval e MLflow.
-• Supervisione Capstone Project: Auditing tecnico, code review e validazione architetturale dei progetti software applicativi finali secondo gli standard di produzione Big 4.
-• Advanced ML Bootcamp (Hub Bari): Modulo intensivo su pipeline di Machine Learning e manipolazione dati complessi con Python (Pandas, NumPy, Scikit-Learn).
+Attività e moduli di insegnamento:
+• Agentic AI & Sistemi Multi-Agente: Programma avanzato su CrewAI, flussi agentici complessi con LangChain/LangGraph e automazione dei processi aziendali con n8n.
+• LLM Evaluation Frameworks & MLOps: Testing sistematico dell'affidabilità dei modelli linguistici, metriche RAG Triad e mitigazione delle allucinazioni con DeepEval e MLflow.
+• Supervisione Capstone Project: Auditing tecnico, code review e validazione architetturale dei progetti software finali secondo i rigorosi standard di produzione Big 4.
+• Prompt Architecture Enterprise: Progettazione di template deterministici con schemi JSON per l'integrazione affidabile dei Large Language Models nei flussi di lavoro aziendali.
 
 ### 🏷️ Competenze da associare a questa esperienza:
 * `Artificial Intelligence (AI)`
-* `Machine Learning (ML)`
-* `Large Language Models (LLM)`
-* `Prompt Engineering`
-* `Multi-Agent Systems`
+* `Agentic AI`
 * `CrewAI`
 * `LangChain`
-* `n8n`
+* `Prompt Engineering`
 * `DeepEval`
 * `MLflow`
+* `n8n`
+* `Python (Programming Language)`
+* `Technical Training`
+
+---
+
+## 💼 2B. EY – Senior ML, Neural Networks & Data Analytics Instructor (EY Bari Hub)
+
+* **Azienda**: EY
+* **Qualifica / Titolo**: `Senior ML, Neural Networks & Data Analytics Instructor`
+* **Tipo di impiego**: `A contratto`
+* **Date**: Luglio 2026 (1 mese)
+* **Località**: Bari, Puglia, Italia • Ibrido / EY Bari Hub
+
+### 📝 Testo da incollare nel campo "Descrizione":
+Docenza intensiva del bootcamp tecnico avanzato per sviluppatori junior e mid-level e figure data dell'Innovation Hub EY di Bari, con focus su Machine Learning di produzione, Reti Neurali e Analisi Avanzata dei Dati.
+
+Attività e stack tecnologico didattico:
+• Reti Neurali & Deep Learning: Architetture neurali, reti feedforward, backpropagation e ottimizzazione dei modelli con PyTorch e TensorFlow.
+• Pipeline di Machine Learning di Produzione: Algoritmi supervisionati e non supervisionati, feature engineering statistica e modellazione predittiva con Python (Scikit-Learn, NumPy, Pandas, SciPy).
+• Analisi Dati Avanzata: Exploratory data analysis (EDA), estrazione e manipolazione di dati strutturati complessi (SQL) e integrazione con database vettoriali.
+• Laboratori Applicativi Pratici: Guida dei team ingegneristici nell'implementazione pratica di algoritmi predittivi su dataset aziendali e benchmark di accuratezza.
+
+### 🏷️ Competenze da associare a questa esperienza:
+* `Machine Learning (ML)`
+* `Deep Learning (DL)`
+* `Data Analytics`
+* `PyTorch`
+* `Scikit-Learn`
+* `Pandas (Software)`
+* `NumPy`
+* `SQL`
 * `Python (Programming Language)`
 * `Technical Training`
 
