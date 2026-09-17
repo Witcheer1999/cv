@@ -7,11 +7,11 @@
 *Il sommario è la prima cosa che vedono recruiter e clienti prima ancora di aprire il profilo:*
 
 * **Opzione 1 (Massimo Prestigio & Brand Enterprise - Consigliata)**:  
-  `Chief Technology Officer (CTO) | Senior Enterprise AI Consultant & Corporate Trainer (ESA, EY, UniCredit, Banca MPS, Piaggio, Lear)`
+  `Chief Technology Officer (CTO) | Senior Enterprise AI & BI Consultant | Corporate Trainer (ESA, EY, MSC, UniCredit, Banca MPS, Piaggio, Lear)`
 * **Opzione 2 (Focus Tecnico & Risultati)**:  
-  `CTO & AI Consultant | Enterprise AI Integration & Prompt Architecture | Incarichi per ESA, EY, Tier-1 Banking & Fortune 500`
+  `CTO & AI Consultant | Enterprise AI Integration, BI & Prompt Architecture | Incarichi per ESA, EY, MSC, Tier-1 Banking & Fortune 500`
 * **Opzione 3 (Internazionale in Inglese)**:  
-  `CTO & Senior AI Consultant | Enterprise AI Integration & Executive Training | Track record: ESA, EY, UniCredit, Piaggio, Lear`
+  `CTO & Senior AI Consultant | Enterprise AI & BI Integration | Corporate Trainer: ESA, EY, MSC, UniCredit, Piaggio, Lear`
 
 ---
 
@@ -21,8 +21,8 @@
 ```markdown
 Non credo nell'Intelligenza Artificiale come concetto teorico o esercizio accademico. L'AI ha valore solo nel momento esatto in cui si fonde con i processi operativi reali, trasformando attriti quotidiani in efficienza misurabile.
 
-Nel mio percorso come consulente e docente per alcune delle più grandi realtà industriali e istituzionali in Italia e in Europa — da giganti del banking come UniCredit e Monte dei Paschi di Siena, a colossi infrastrutturali come Autostrade per l'Italia, fino all'Agenzia Spaziale Europea (ESA), EY, Piaggio, Lear Corporation e Triboo Group — non sono mai entrato in azienda per "spiegare cos'è l'AI generica".
-Sono entrato per fare una cosa diversa: capire come lavorano le persone, identificare i colli di bottiglia e cucire l'AI direttamente dentro i loro flussi di lavoro, nel rispetto rigoroso di compliance, sicurezza e governance.
+Nel mio percorso come consulente e docente per alcune delle più grandi realtà industriali e istituzionali in Italia e in Europa — dal colosso marittimo e logistico globale MSC (Mediterranean Shipping Company), a giganti del banking come UniCredit e Monte dei Paschi di Siena, a colossi infrastrutturali come Autostrade per l'Italia, fino all'Agenzia Spaziale Europea (ESA), EY, Piaggio, Lear Corporation e Triboo Group — non sono mai entrato in azienda per "spiegare cos'è l'AI generica".
+Sono entrato per fare una cosa diversa: capire come lavorano le persone, identificare i colli di bottiglia e cucire l'AI e la Business Intelligence direttamente dentro i loro flussi di lavoro, nel rispetto rigoroso di compliance, sicurezza e governance.
 
 Lavorare sul campo con queste organizzazioni complesse mi ha insegnato qualcosa che nessun corso può insegnare: come pensano, decidono e scalano le grandi corporation. Ho imparato a dialogare sia con gli sviluppatori che devono gestire la latenza di un'API o il benchmarking di un modello (DeepEval, MLflow), sia con il C-Level che deve giustificare il ROI di un investimento tecnologico.
 
@@ -43,8 +43,8 @@ Se la tua organizzazione vuole superare l'hype dell'AI ed entrare nella fase del
 ## ⚡ Versione 2: Sintetica / Elevator Pitch (per presentazioni o introduzioni CV)
 *Versione compatta ad altissimo impatto per CV o presentazioni executive:*
 
-> Imprenditore tecnologico, Chief Technology Officer e consulente di punta nell'integrazione enterprise dell'Intelligenza Artificiale. Unisco il rigore analitico della Statistica quantitativa alla visione di un background poliedrico e artistico. 
+> Imprenditore tecnologico, Chief Technology Officer e consulente di punta nell'integrazione enterprise dell'Intelligenza Artificiale e della Business Intelligence. Unisco il rigore analitico della Statistica quantitativa alla visione di un background poliedrico e artistico. 
 > 
-> Non porto nelle aziende presentazioni astratte sull'AI generica, ma integrazione chirurgica nei flussi di lavoro operativi, maturata affiancando sul campo realtà di massimo rilievo (European Space Agency, EY, UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation, Triboo Group). 
+> Non porto nelle aziende presentazioni astratte sull'AI generica, ma integrazione chirurgica nei flussi di lavoro operativi, maturata affiancando sul campo realtà di massimo rilievo (European Space Agency, EY, MSC - Mediterranean Shipping Company, UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation, Triboo Group). 
 > 
 > Da questa esperienza ho assorbito i meccanismi decisionali, di sicurezza e di scala delle grandi multinazionali, trasformandoli nel motore delle mie iniziative imprenditoriali (tra cui la piattaforma di forecasting farmaceutico di ForMinds e l'infrastruttura SaaS di Ultralimes).

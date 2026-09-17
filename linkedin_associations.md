@@ -7,8 +7,8 @@ Per ogni lavoro trovi:
 2. **Descrizione Pronta da Incollare** (breve, a punti elenco, ad altissimo impatto per recruiter e clienti)
 3. **Competenze da Associare al Ruolo** (le keyword esatte da selezionare nel campo "Aggiungi competenze")
 
-> **Perché inserire una voce per ciascun Grande Brand (Prompt Engineering)**:  
-> Separare i progetti per **UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio Group e Lear Corporation (Fortune 500)** in voci dedicate fa risaltare visivamente i loghi ufficiali di queste prestigiose aziende sul tuo profilo LinkedIn. Agli occhi di recruiter, headhunter e direttori HR aziendali, il tuo profilo apparirà immediatamente autorevole, credibile e di massimo livello.
+> **Perché inserire una voce per ciascun Grande Brand (Prompt Engineering & Business Intelligence)**:  
+> Separare i progetti per **MSC (Mediterranean Shipping Company), UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio Group e Lear Corporation (Fortune 500)** in voci dedicate fa risaltare visivamente i loghi ufficiali di queste prestigiose aziende sul tuo profilo LinkedIn. Agli occhi di recruiter, headhunter e direttori HR aziendali, il tuo profilo apparirà immediatamente autorevole, credibile e di massimo livello.
 
 ---
 
@@ -26,7 +26,7 @@ Co-fondatore e Chief Technology Officer (CTO) di ForMinds, venture tecnologica s
 Attività e responsabilità:
 • Direzione Tecnologica (CTO): Definizione della roadmap architetturale, selezione dello stack software (Python/FastAPI, Docker, Microservizi, Cloud AWS) e coordinamento dei team ingegneristici.
 • Sviluppo Software Custom: Progettazione e guida integrale della piattaforma di Pharmaceutical Demand & Sales Forecasting per il cliente bhave (Roma), con modelli predittivi time-series conformi alle normative farmaceutiche GxP e GDPR.
-• Corporate AI Academy via Partner: Direzione ed erogazione di masterclass su AI Enterprise per primari clienti multinazionali (UniCredit, MPS, Autostrade, Piaggio, Lear), svolti su incarico di società partner intermediarie di consulenza e formazione.
+• Corporate AI Academy via Partner: Direzione ed erogazione di masterclass su AI Enterprise & Business Intelligence per primari clienti multinazionali (MSC, UniCredit, MPS, Autostrade, Piaggio, Lear), svolti su incarico di società partner intermediarie di consulenza e formazione.
 
 ### 🏷️ Competenze da associare a questa esperienza:
 * `Chief Technology Officer (CTO)`
@@ -135,7 +135,37 @@ Attività e impatto:
 
 ---
 
-## 💼 5. UniCredit – Senior Enterprise AI & Prompt Engineering Consultant
+## 💼 5. MSC Mediterranean Shipping Company – Senior Business Intelligence & Power BI Corporate Trainer
+
+* **Azienda**: MSC Mediterranean Shipping Company
+* **Qualifica / Titolo**: `Senior Business Intelligence & Power BI Corporate Trainer` *(oppure con suffisso: `Senior Business Intelligence & Power BI Corporate Trainer (via Partner)`)*
+* **Tipo di impiego**: `A contratto` (seleziona *A contratto* dal menu a tendina di LinkedIn)
+* **Date**: Settembre 2026
+* **Località**: Ginevra / Napoli / Italia • Ibrido / Da remoto
+
+### 📝 Testo da incollare nel campo "Descrizione":
+Incarico di docenza specialistica ed executive training su Microsoft Power BI per il personale del gruppo marittimo e logistico globale MSC (Mediterranean Shipping Company), erogato su commissione di primaria società partner intermediaria di formazione e consulenza direzionale.
+
+Attività e impatto:
+• Masterclass Corporate su Microsoft Power BI: Formazione intensiva avanzata su Business Intelligence, modellazione dati e reporting direzionale per personale multinazionale.
+• Data Modeling Avanzato & DAX: Progettazione di modelli relazionali (schemi a stella e snowflake), logiche analitiche complesse con formule DAX (Time Intelligence, iteratori, metriche calcolate dinamiche).
+• Power Query & Dashboarding Executive: Pipeline di ingestione ed ETL con linguaggio M, creazione di cruscotti interattivi per il monitoraggio in tempo reale dei KPI di flotta e logistica operativa.
+
+### 🏷️ Competenze da associare a questa esperienza:
+* `Microsoft Power BI`
+* `DAX (Data Analysis Expressions)`
+* `Business Intelligence (BI)`
+* `Power Query`
+* `Data Modeling`
+* `Data Visualization`
+* `Dashboards`
+* `ETL (Extract, Transform, Load)`
+* `SQL`
+* `Corporate Training`
+
+---
+
+## 💼 6. UniCredit – Senior Enterprise AI & Prompt Engineering Consultant
 
 * **Azienda**: UniCredit
 * **Qualifica / Titolo**: `Senior Enterprise AI & Prompt Engineering Consultant` *(oppure con suffisso: `Senior Enterprise AI & Prompt Engineering Consultant (via Partner)`)*
@@ -163,7 +193,7 @@ Attività e impatto:
 
 ---
 
-## 💼 6. Banca Monte dei Paschi di Siena (MPS) – Senior Enterprise AI Consultant
+## 💼 7. Banca Monte dei Paschi di Siena (MPS) – Senior Enterprise AI Consultant
 
 * **Azienda**: Banca Monte dei Paschi di Siena
 * **Qualifica / Titolo**: `Senior Enterprise AI Consultant` *(oppure: `Senior Enterprise AI Consultant (via Partner)`)*
@@ -191,7 +221,7 @@ Attività e impatto:
 
 ---
 
-## 💼 7. Piaggio Group – Senior Generative AI & Industrial Design Consultant
+## 💼 8. Piaggio Group – Senior Generative AI & Industrial Design Consultant
 
 * **Azienda**: Piaggio Group
 * **Qualifica / Titolo**: `Senior Generative AI & Industrial Design Consultant` *(oppure: `... (via Partner)`)*
@@ -219,7 +249,7 @@ Attività e impatto:
 
 ---
 
-## 💼 8. Autostrade per l'Italia – Senior Enterprise AI & Automation Consultant
+## 💼 9. Autostrade per l'Italia – Senior Enterprise AI & Automation Consultant
 
 * **Azienda**: Autostrade per l'Italia
 * **Qualifica / Titolo**: `Senior Enterprise AI & Automation Consultant` *(oppure: `... (via Partner)`)*
@@ -246,7 +276,7 @@ Attività e impatto:
 
 ---
 
-## 💼 9. Lear Corporation (Fortune 500) – Senior Enterprise AI Consultant
+## 💼 10. Lear Corporation (Fortune 500) – Senior Enterprise AI Consultant
 
 * **Azienda**: Lear Corporation
 * **Qualifica / Titolo**: `Senior Enterprise AI Consultant` *(oppure: `... (via Partner)`)*
@@ -273,7 +303,7 @@ Attività e impatto:
 
 ---
 
-## 💼 10. Profice – Corporate AI Lecturer & Data Analytics Consultant
+## 💼 11. Profice – Corporate AI Lecturer & Data Analytics Consultant
 
 * **Azienda**: Profice
 * **Qualifica / Titolo**: Corporate AI Lecturer & Data Analytics Consultant
@@ -303,7 +333,7 @@ Attività e moduli:
 
 ---
 
-## 💼 11. ITConsulting – Senior Software Engineering & Web Instructor
+## 💼 12. ITConsulting – Senior Software Engineering & Web Instructor
 
 * **Azienda**: ITConsulting
 * **Qualifica / Titolo**: Senior Software Engineering & Web Instructor
@@ -334,7 +364,7 @@ Moduli trattati:
 
 ---
 
-## 💼 12. Epicode – Master Lecturer (Python, AI & Machine Learning)
+## 💼 13. Epicode – Master Lecturer (Python, AI & Machine Learning)
 
 * **Azienda**: EPICODE
 * **Qualifica / Titolo**: Master Lecturer (Python, AI & Machine Learning)
@@ -364,7 +394,7 @@ Attività e materie di docenza:
 
 ---
 
-## 💼 13. Sinervis Consulting – Senior Cloud ML Instructor & AWS Specialist
+## 💼 14. Sinervis Consulting – Senior Cloud ML Instructor & AWS Specialist
 
 * **Azienda**: Sinervis Consulting
 * **Qualifica / Titolo**: Senior Cloud ML Instructor & AWS Specialist
@@ -393,7 +423,7 @@ Contenuti trattati:
 
 ---
 
-## 💼 14. Ultralimes Marketing – Founder & Lead Software Architect
+## 💼 15. Ultralimes Marketing – Founder & Lead Software Architect
 
 * **Azienda**: Ultralimes Marketing
 * **Qualifica / Titolo**: Founder & Lead Software Architect
@@ -423,7 +453,7 @@ Attività e risultati:
 
 ---
 
-## 💼 15. Golden Bloom Studio – Co-Owner & Responsabile Reparto Video
+## 💼 16. Golden Bloom Studio – Co-Owner & Responsabile Reparto Video
 
 * **Azienda**: Golden Bloom Studio
 * **Qualifica / Titolo**: Co-Owner & Responsabile Reparto Video
@@ -494,10 +524,10 @@ Clienti e produzioni di rilievo:
 33. `Amazon Web Services (AWS)`
 34. `Amazon SageMaker`
 35. `SQL`
-36. `PostgreSQL`
-37. `Redis`
-38. `Linux System Administration`
-39. `RESTful APIs`
+36. `Microsoft Power BI`
+37. `Business Intelligence (BI)`
+38. `PostgreSQL`
+39. `Redis`
 40. `Microservices Architecture`
 
 ### 4. Leadership, Consulting & Regolamentazione (Top 10)

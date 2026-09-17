@@ -12,7 +12,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 * **Instructional Focus**: ROI-driven pedagogy, alignment with enterprise production standards, and hands-on capstone project delivery.
 * **Audience Adaptability**: Proven ability to engage both technical software engineering teams and non-technical C-Level executives.
 * **Bilingual Delivery**: Courses delivered fluently in **Italian** and **English (C1)** — official training tracks for ESA conducted entirely in English.
-* **Tier-1 Track Record**: Successfully instructed personnel across **ESA**, **EY**, **UniCredit**, **Banca MPS**, **Piaggio**, **Lear**, **Triboo**.
+* **Tier-1 Track Record**: Successfully instructed personnel across **ESA**, **EY**, **MSC**, **UniCredit**, **Banca MPS**, **Piaggio**, **Lear**, **Triboo**.
 
 ---
 
@@ -30,7 +30,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 ### **ForMinds** | **Co-Founder & Chief Technology Officer (CTO)**
 *2025 – Present • Location: Remote / Hybrid • Partners: Mirko Campari, Edoardo Del Sarto, Tommaso Muraca*
 
-* **Corporate AI Academy**: Designed and delivered enterprise AI tracks for major accounts (**UniCredit, MPS, Autostrade, Piaggio, Lear**), conducted on behalf of leading intermediary training and consulting partners.
+* **Corporate AI Academy**: Designed and delivered enterprise AI tracks for major accounts (**MSC, UniCredit, MPS, Autostrade, Piaggio, Lear**), conducted on behalf of leading intermediary training and consulting partners.
 * **Custom Software Engineering**: Architectural direction for cloud platforms and bespoke systems; flagship project: pharma demand forecasting for **bhave** (Rome) compliant with GxP/GDPR.
 
 ### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor**
@@ -53,10 +53,11 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 * **Curriculum Stack**: Advanced prompt engineering for office automation, structured data querying with **SQL**, and standardized containerization with **Docker**.
 * **AI for Business**: Executive sessions evaluating generative AI tooling, decision support systems, and measuring productivity ROI.
 
-### **Enterprise AI Programs for Industry Leaders** *(via Intermediary Partners)*
-*2024 – Present • Location: Italy • End-Clients: UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation*
+### **Enterprise AI & Business Intelligence Programs** *(via Intermediary Partners)*
+*2024 – Present • Location: Italy • End-Clients: MSC, UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation*
 
 * **Delivery Model**: Technical masterclasses and executive workshops delivered **on behalf of leading intermediary training and consulting partners**.
+* **Business Intelligence & DAX (MSC - Sep 2026)**: Masterclass on Power BI, relational data modeling, DAX, and executive KPI fleet dashboards.
 * **Banking & Fintech (UniCredit & MPS)**: Prompt engineering for complex financial document processing, fully compliant with banking regulations and data privacy (GDPR).
 * **Manufacturing & Automotive (Piaggio & Lear - Fortune 500)**: Generative visual AI (Stable Diffusion, ComfyUI) for industrial design and technical documentation.
 * **Infrastructure (Autostrade per l'Italia)**: AI workflows to streamline maintenance ticketing, field reporting, and operational task synthesis.
@@ -100,11 +101,11 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Core Competency Matrix for Corporate Training & Advisory
 
-* **Teaching & Instruction Domains**: Generative AI, Advanced Prompt Engineering, Agentic AI (CrewAI, LangChain, n8n), Machine Learning, LLM Evaluation & MLOps (DeepEval, MLflow), Data Analytics & SQL, Modern Web Development for AI (React.js).
+* **Teaching & Instruction Domains**: Generative AI, Advanced Prompt Engineering, Business Intelligence (Power BI, DAX), Agentic AI (CrewAI, LangChain, n8n), Machine Learning, LLM Evaluation & MLOps, Data Analytics & SQL, Modern Web Development for AI (React.js).
 * **Instructional Tech Stack**: Python (Pandas, NumPy, Scikit-Learn, PyTorch, FastAPI), Java (Spring Boot), Docker, AWS SageMaker, Google Gemini Enterprise, SQL (PostgreSQL), React.js, Git.
 * **Pedagogical Methodology**: Practical hands-on labs, capstone project mentorship, fluent delivery in **English (C1)** and Italian, executive public speaking.
 
 ---
 
 ## Selected Enterprise Clients Trained & Partner Organizations
-European Space Agency (ESA), EY (Ernst & Young), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, bhave (Rome), Argo 3000, Epicode, Profice, ITConsulting.
+European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, bhave (Rome), Argo 3000, Epicode, Profice, ITConsulting.
