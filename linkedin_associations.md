@@ -113,24 +113,25 @@ Attività e stack tecnologico didattico:
 * **Località**: Italia / Europa • Da remoto / In sede • Lingua: Inglese (C1)
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Progettazione ed erogazione di percorsi formativi corporate avanzati di modernizzazione tecnica condotti interamente in lingua inglese (Full Professional Working Proficiency C1) per il personale tecnico dell'Agenzia Spaziale Europea (ESA).
+Incarico di formazione aziendale specialistica per il personale dell'Agenzia Spaziale Europea (ESA), condotto interamente in lingua inglese (C1) e commissionato ed erogato per conto di primaria società partner intermediaria di corporate training.
 
 Attività e moduli erogati:
-• Prompt Engineering Avanzato: Automazione documentale d'ufficio, sintesi tecnica di reportistica complessa e accelerazione delle comunicazioni interfunzionali in contesti multinazionali.
-• Data Extraction & SQL: Estrazione, trasformazione e aggregazione di dati strutturati complessi con query SQL avanzate e database relazionali.
-• Containerizzazione DevOps: Moduli pratici sull'utilizzo di Docker, build multi-stage, container parity e portabilità degli ambienti di lavoro.
-• AI for Business Strategy: Sessioni esecutive su valutazione strumenti di AI generativa, supporto decisionale e misurazione del ritorno sull'investimento (ROI).
+• Prompt Engineering Avanzato: Architettura di prompt strutturati per l'automazione documentale d'ufficio, estrazione di informazioni tecniche e sintesi di documentazione complessa in contesti multinazionali.
+• Microsoft Copilot & Office Automation: Integrazione operativa di Microsoft Copilot (Copilot for Microsoft 365, Word, Excel, PowerPoint, Outlook) per l'accelerazione dei flussi amministrativi e la produttività d'ufficio.
+• AI for Business & Decision Support: Sessioni esecutive su adozione dell'AI generativa nei processi aziendali, analisi costi-benefici, valutazione di strumenti AI e calcolo del ROI di produttività.
+• Modern Tech Tools & Data Workflows: Moduli pratici su estrazione dati con SQL e containerizzazione con Docker per la riproducibilità degli ambienti operativi.
 
 ### 🏷️ Competenze da associare a questa esperienza:
 * `Prompt Engineering`
+* `Microsoft Copilot`
+* `Office Automation`
 * `Artificial Intelligence (AI)`
+* `Generative AI`
+* `AI for Business`
+* `Workflow Automation`
 * `Docker`
 * `SQL`
-* `Office Automation`
-* `AI for Business`
-* `Digital Transformation`
-* `Technical Training in English`
-* `Cross-Cultural Communication`
+* `Technical Training`
 
 ---
 
