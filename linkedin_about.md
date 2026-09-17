@@ -1,5 +1,17 @@
-# LinkedIn "About" (Informazioni del Profilo) & Executive Bio
+# LinkedIn "About" (Informazioni del Profilo), Headline & Executive Bio
 **Michael Bagnoli** | Chief Technology Officer (CTO) & Senior Enterprise AI Consultant
+
+---
+
+## 🎯 Headline Consigliate per il Profilo (Sommario sotto il Nome)
+*Il sommario è la prima cosa che vedono recruiter e clienti prima ancora di aprire il profilo:*
+
+* **Opzione 1 (Massimo Prestigio & Brand Enterprise - Consigliata)**:  
+  `Chief Technology Officer (CTO) | Senior Enterprise AI Consultant & Corporate Trainer (ESA, EY, UniCredit, Banca MPS, Piaggio, Lear)`
+* **Opzione 2 (Focus Tecnico & Risultati)**:  
+  `CTO & AI Consultant | Enterprise AI Integration & Prompt Architecture | Incarichi per ESA, EY, Tier-1 Banking & Fortune 500`
+* **Opzione 3 (Internazionale in Inglese)**:  
+  `CTO & Senior AI Consultant | Enterprise AI Integration & Executive Training | Track record: ESA, EY, UniCredit, Piaggio, Lear`
 
 ---
 

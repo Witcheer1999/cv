@@ -1,4 +1,4 @@
-﻿# LinkedIn Experience & Skill Associations Guide
+# LinkedIn Experience & Skill Associations Guide
 **Guida Completa Copia-e-Incolla per il Profilo LinkedIn di Michael Bagnoli**
 
 Questo file è organizzato per permetterti di aggiornare il profilo LinkedIn in pochi minuti.
@@ -138,13 +138,13 @@ Attività e impatto:
 ## 💼 5. UniCredit – Senior Enterprise AI & Prompt Engineering Consultant
 
 * **Azienda**: UniCredit
-* **Qualifica / Titolo**: Senior Enterprise AI & Prompt Engineering Consultant
-* **Tipo di impiego**: Consulenza / Libero professionista *(via Società Partner Intermediaria)*
+* **Qualifica / Titolo**: `Senior Enterprise AI & Prompt Engineering Consultant` *(oppure con suffisso: `Senior Enterprise AI & Prompt Engineering Consultant (via Partner)`)*
+* **Tipo di impiego**: `A contratto` (seleziona *A contratto* dal menu a tendina di LinkedIn)
 * **Date**: 2024 – Presente
-* **Località**: Milano / Italia • Ibrido / Da remoto
+* **Località**: Milano, Lombardia, Italia • Ibrido / Da remoto
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Consulenza specialistica ed executive training sull'integrazione sicura di soluzioni di Generative AI e Large Language Models (LLM) nei flussi documentali e operativi corporate (erogato su incarico di società partner intermediaria).
+Incarico di consulenza specialistica ed executive training sull'integrazione di Generative AI e Large Language Models (LLM) nei flussi operativi corporate di UniCredit, erogato su commissione di primaria società partner intermediaria di formazione e consulenza direzionale.
 
 Attività e impatto:
 • Architettura di framework avanzati di Prompt Engineering e System Prompting per l'elaborazione e analisi di documentazione bancaria complessa.
@@ -166,13 +166,13 @@ Attività e impatto:
 ## 💼 6. Banca Monte dei Paschi di Siena (MPS) – Senior Enterprise AI Consultant
 
 * **Azienda**: Banca Monte dei Paschi di Siena
-* **Qualifica / Titolo**: Senior Enterprise AI Consultant
-* **Tipo di impiego**: Consulenza / Libero professionista *(via Società Partner Intermediaria)*
+* **Qualifica / Titolo**: `Senior Enterprise AI Consultant` *(oppure: `Senior Enterprise AI Consultant (via Partner)`)*
+* **Tipo di impiego**: `A contratto` (seleziona *A contratto* dal menu a tendina di LinkedIn)
 * **Date**: 2024 – Presente
-* **Località**: Siena / Italia • Da remoto / Ibrido
+* **Località**: Siena, Toscana, Italia • Da remoto / Ibrido
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Incarico di consulenza e formazione tecnica avanzata su Large Language Models (LLM) e prompt engineering applicato ai processi del settore bancario e finanziario (erogato su incarico di società partner intermediaria).
+Incarico di consulenza e formazione tecnica avanzata su Large Language Models (LLM) e prompt engineering applicato ai processi del settore bancario e finanziario, erogato su commissione di primaria società partner intermediaria.
 
 Attività e impatto:
 • Sviluppo di prompt strutturati (Few-Shot e Chain-of-Thought) per la catalogazione e la sintesi di pratiche e normative bancarie complesse.
@@ -194,17 +194,17 @@ Attività e impatto:
 ## 💼 7. Piaggio Group – Senior Generative AI & Industrial Design Consultant
 
 * **Azienda**: Piaggio Group
-* **Qualifica / Titolo**: Senior Generative AI & Industrial Design Consultant
-* **Tipo di impiego**: Consulenza specialistica *(via Società Partner Intermediaria)*
+* **Qualifica / Titolo**: `Senior Generative AI & Industrial Design Consultant` *(oppure: `... (via Partner)`)*
+* **Tipo di impiego**: `A contratto` (seleziona *A contratto* dal menu a tendina di LinkedIn)
 * **Date**: 2024 – Presente
-* **Località**: Pontedera (PI) / Italia • Ibrido
+* **Località**: Pontedera, Toscana, Italia • Ibrido
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Consulenza specialistica e masterclass sull'applicazione dell'AI generativa visiva e multimodale nel design industriale rapido e nella comunicazione visiva (svolto su incarico di società partner intermediaria).
+Consulenza specialistica e masterclass sull'applicazione dell'AI generativa visiva e multimodale nel design industriale rapido e nella comunicazione visiva di prodotto, svolto su commissione di società partner intermediaria.
 
 Attività e impatto:
 • Deployment operativo e formazione su pipeline avanzate di Generative Vision: Stable Diffusion (SDXL, ComfyUI, ControlNet), Midjourney e DALL-E 3.
-• Sinergia tra regia cinematografica, fotografia professionale e modelli generativi per l'esplorazione rapida di varianti di stile e concept estetici.
+• Sinergia tra regia cinematografica, fotografia professionale e modelli generativi per l'esplorazione rapida di concept estetici e varianti di stile.
 • Accelerazione dei cicli di prototipazione visiva e creazione di asset promozionali digitali per il marketing di prodotto.
 
 ### 🏷️ Competenze da associare a questa esperienza:
@@ -222,13 +222,13 @@ Attività e impatto:
 ## 💼 8. Autostrade per l'Italia – Senior Enterprise AI & Automation Consultant
 
 * **Azienda**: Autostrade per l'Italia
-* **Qualifica / Titolo**: Senior Enterprise AI & Automation Consultant
-* **Tipo di impiego**: Consulenza specialistica *(via Società Partner Intermediaria)*
+* **Qualifica / Titolo**: `Senior Enterprise AI & Automation Consultant` *(oppure: `... (via Partner)`)*
+* **Tipo di impiego**: `A contratto` (seleziona *A contratto* dal menu a tendina di LinkedIn)
 * **Date**: 2024 – Presente
-* **Località**: Roma / Italia • Da remoto / Ibrido
+* **Località**: Roma, Lazio, Italia • Da remoto / Ibrido
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Consulenza tecnica su soluzioni di AI generativa e prompt engineering avanzato per l'ottimizzazione operativa e la gestione della documentazione tecnica di rete (svolto su incarico di società partner intermediaria).
+Consulenza tecnica su soluzioni di AI generativa e prompt engineering avanzato per l'ottimizzazione operativa e la gestione della documentazione tecnica di rete autostradale, svolto su commissione di società partner intermediaria.
 
 Attività e impatto:
 • Progettazione di workflow basati su modelli linguistici per l'analisi rapida e la categorizzazione dei ticket di manutenzione e segnalazione guasti.
@@ -249,13 +249,13 @@ Attività e impatto:
 ## 💼 9. Lear Corporation (Fortune 500) – Senior Enterprise AI Consultant
 
 * **Azienda**: Lear Corporation
-* **Qualifica / Titolo**: Senior Enterprise AI Consultant
-* **Tipo di impiego**: Consulenza specialistica *(via Società Partner Intermediaria)*
+* **Qualifica / Titolo**: `Senior Enterprise AI Consultant` *(oppure: `... (via Partner)`)*
+* **Tipo di impiego**: `A contratto` (seleziona *A contratto* dal menu a tendina di LinkedIn)
 * **Date**: 2024 – Presente
-* **Località**: Torino / Italia • Da remoto
+* **Località**: Torino, Piemonte, Italia • Da remoto
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Consulenza strategica sull'adozione dell'AI generativa e architettura del prompt per i team ingegneristici della multinazionale automotive Fortune 500 Lear Corporation (erogato su incarico di società partner intermediaria).
+Consulenza strategica sull'adozione dell'AI generativa e architettura del prompt per i team ingegneristici della multinazionale automotive Fortune 500 Lear Corporation, erogato su commissione di società partner intermediaria.
 
 Attività e impatto:
 • Reingegnerizzazione dei flussi di estrazione della conoscenza tecnica e consultazione della documentazione di fornitura tra divisioni globali.
