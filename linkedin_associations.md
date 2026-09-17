@@ -306,30 +306,31 @@ Attività e impatto:
 ## 💼 11. Profice – Corporate AI Lecturer & Data Analytics Consultant
 
 * **Azienda**: Profice
-* **Qualifica / Titolo**: Corporate AI Lecturer & Data Analytics Consultant
+* **Qualifica / Titolo**: `Corporate AI Lecturer & Enterprise Tech Consultant`
 * **Tipo di impiego**: A contratto / Formazione & Consulenza
 * **Date**: 2025 – Presente
 * **Località**: Italia • Da remoto & Presso Clienti
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Progettazione ed erogazione di programmi di consulenza e formazione aziendale su doppio binario (team di sviluppatori e figure manageriali C-Level) per molteplici aziende clienti del network Profice.
+Docenza corporate avanzata e consulenza tecnologica su Python, Intelligenza Artificiale, Prompt Engineering e sviluppo software AI-driven, con incarichi specialistici erogati anche per grandi clienti enterprise del network (tra cui EY e UniCredit).
 
-Attività e moduli:
-• Track Tecnico: Deep-dive su Data Analytics avanzata, Machine Learning supervisionato/non supervisionato con stack Python (Pandas, NumPy, Scikit-Learn) e SQL avanzato.
-• Sistemi di AI Applicata & RAG: Ingegnerizzazione di LLM, architetture Retrieval-Augmented Generation, embedding e vector database (ChromaDB, FAISS, LangChain).
-• Modern Web Dashboarding per AI: Sviluppo di cruscotti interattivi in React.js per la visualizzazione di KPI e il consumo in tempo reale di API predittive.
-• Track Executive (C-Level): Masterclass strategiche su adozione AI, calcolo del ROI aziendale, reingegnerizzazione dei processi e AI Governance etica.
+Aree formative e attività:
+• Advanced Python & AI Software Development: Programmazione Python di produzione (FastAPI, programmazione asincrona, OOP) e ingegnerizzazione di software basati su AI.
+• Prompt Engineering & LLM Integration: Framework avanzati di system prompting, template deterministici con schemi JSON e integrazione operativa di Large Language Models.
+• Sistemi di AI Applicata & RAG: Architetture Retrieval-Augmented Generation, vector embeddings e database vettoriali (ChromaDB, FAISS, LangChain) per la ricerca intelligente.
+• Doppio Binario Didattico: Moduli pratici e capstone per team di ingegneri del software affiancati da sessioni strategiche su ROI e governance per figure manageriali C-Level.
 
 ### 🏷️ Competenze da associare a questa esperienza:
-* `Data Analytics`
-* `Machine Learning (ML)`
-* `Retrieval-Augmented Generation (RAG)`
-* `Vector Databases`
+* `Artificial Intelligence (AI)`
+* `Prompt Engineering`
 * `Python (Programming Language)`
-* `React.js`
-* `SQL`
-* `Executive Coaching`
-* `AI Strategy`
+* `Generative AI`
+* `Software Architecture`
+* `Corporate Training`
+* `Large Language Models (LLM)`
+* `Retrieval-Augmented Generation (RAG)`
+* `Data Analytics`
+* `Management Consulting`
 
 ---
 
