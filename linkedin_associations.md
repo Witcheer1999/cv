@@ -12,16 +12,16 @@ Per ogni lavoro trovi:
 
 ---
 
-## 💼 1A. Bhave S.r.l. – Chief Technology Officer (CTO) & Head of AI & Quantitative R&D
+## 💼 1A. Primaria Società di Ricerca & Intelligence Farmaceutica (Cliente sotto NDA) – Chief Technology Officer (CTO) & Head of AI & Quantitative R&D
 
-* **Azienda**: Bhave
+* **Azienda**: `Primaria Società di Ricerca & Intelligence Farmaceutica (Cliente sotto NDA)` *(non taggare alcuna pagina aziendale per rispetto NDA)*
 * **Qualifica / Titolo**: `Chief Technology Officer (CTO) & Head of AI & Quantitative R&D`
 * **Tipo di impiego**: A tempo pieno / A contratto (Executive Leadership)
 * **Data di inizio**: Novembre 2026 – Presente (Co-sviluppo architetturale dal 2026)
 * **Località**: Roma, Lazio, Italia • Ibrido / Da remoto
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Nominato Chief Technology Officer (CTO) per dirigere la ricerca statistico-matematica, l'ingegneria dell'Intelligenza Artificiale e lo sviluppo full-stack dell'ecosistema software proprietario di intelligence farmaceutica di Bhave (articolato in 10 moduli integrati per la predizione delle vendite di farmaci, l'analisi di mercato e il supporto decisionale per il mondo farmaceutico).
+Nominato Chief Technology Officer (CTO) per dirigere la ricerca statistico-matematica, l'ingegneria dell'Intelligenza Artificiale e lo sviluppo full-stack di un ecosistema software proprietario di intelligence farmaceutica (articolato in 10 moduli integrati per la predizione delle vendite di farmaci, l'analisi di mercato e il supporto decisionale per il mondo farmaceutico).
 
 Attività e responsabilità chiave:
 • Ecosistema Farmaceutico a 10 Moduli & R&D: Direzione architetturale dell'intera suite decisionale, coordinando ricerca statistica, AI generativa/predittiva e ingegneria del software.
@@ -56,7 +56,7 @@ Co-fondatore e Chief Technology Officer (CTO) di ForMinds, venture tecnologica s
 
 Attività e responsabilità:
 • Direzione Tecnologica (CTO): Definizione della roadmap architetturale, selezione dello stack software (Python/FastAPI, Docker, Microservizi, Cloud AWS/Azure) e coordinamento dei team ingegneristici.
-• Sviluppo Software Custom: Progettazione e guida del primo nucleo della piattaforma di Pharmaceutical Demand & Sales Forecasting per il cliente Bhave di Roma (successivamente evoluta nell'ecosistema a 10 moduli con nomina diretta a CTO di Bhave).
+• Sviluppo Software Custom: Progettazione e guida del primo nucleo della piattaforma di Pharmaceutical Demand & Sales Forecasting per una primaria società di ricerca farmaceutica di Roma sotto NDA (successivamente evoluta nell'ecosistema a 10 moduli con nomina diretta a CTO dell'azienda).
 • Corporate AI Academy via Partner: Direzione ed erogazione di masterclass su AI Enterprise & Business Intelligence per primari clienti multinazionali (MSC, UniCredit, MPS, Autostrade, Piaggio, Lear), svolti su incarico di società partner intermediarie di consulenza e formazione.
 
 ### 🏷️ Competenze da associare a questa esperienza:

@@ -27,17 +27,17 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Professional Experience & Corporate Training Engagements
 
-### **Bhave S.r.l.** | **Chief Technology Officer (CTO) & Head of AI R&D**
+### **Leading Pharmaceutical Research Firm (NDA)** | **Chief Technology Officer (CTO) & Head of AI R&D**
 *Nov 2026 – Present (Co-Development from 2026) • Location: Rome / Hybrid*
 
-* **Pharmaceutical AI & Statistical Ecosystem (10 Modules)**: Directing R&D and full-stack engineering for Bhave's 10-module pharma intelligence suite (drug sales forecasting, AIFA payback scenarios, sales force sizing, and P&L/rNPV financial valuation).
+* **Pharmaceutical AI & Statistical Ecosystem (10 Modules)**: Directing R&D and full-stack engineering for a 10-module pharma intelligence suite (drug sales forecasting, AIFA payback scenarios, sales force sizing, and P&L/rNPV financial valuation).
 * **Quantitative Modeling & Azure Cloud**: Epidemiological funnels, Frank Bass diffusion curves, and Monte Carlo simulations on cloud-native Azure architecture (FastAPI, React 19, Docker) under GxP/GDPR compliance.
 
 ### **ForMinds** | **Co-Founder & Chief Technology Officer (CTO)**
 *2025 – Present • Location: Remote / Hybrid • Partners: Mirko Campari, Edoardo Del Sarto, Tommaso Muraca*
 
 * **Corporate AI Academy**: Designed and delivered enterprise AI tracks for major accounts (**MSC, UniCredit, MPS, Autostrade, Piaggio, Lear**), conducted on behalf of leading intermediary training and consulting partners.
-* **Custom Software Engineering**: Architectural direction for cloud platforms and bespoke systems, including the initial core of the pharmaceutical forecasting system for **Bhave** (Rome).
+* **Custom Software Engineering**: Architectural direction for cloud platforms and bespoke systems, including the initial core of the pharmaceutical forecasting system for a leading pharma research firm in Rome (under NDA).
 
 ### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor**
 *Aug–Oct 2025 & Jul 2026 • Location: National HQ & Bari Hub / Hybrid*
@@ -114,4 +114,4 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 ---
 
 ## Selected Enterprise Clients Trained & Partner Organizations
-European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, Bhave (Rome), Argo 3000, Epicode, Profice, ITConsulting.
+European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, Leading Pharmaceutical Research Firm (Rome – NDA), Argo 3000, Epicode, Profice, ITConsulting.

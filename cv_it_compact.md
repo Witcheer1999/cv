@@ -27,7 +27,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Esperienze Professionali & Docenze Corporate
 
-### **Bhave S.r.l.** | **Chief Technology Officer (CTO) & Head of AI R&D**
+### **Primaria Società di Ricerca Farmaceutica (NDA)** | **Chief Technology Officer (CTO) & Head of AI R&D**
 *Nov 2026 – Presente (Co-Sviluppo dal 2026) • Sede: Roma / Ibrido*
 
 * **Ecosistema AI & Statistica Farmaceutica (10 Moduli)**: Guida R&D e sviluppo dell'ecosistema a 10 moduli per il settore pharma (predizione vendite farmaci, payback AIFA, sales force sizing e valutazione economico-finanziaria P&L/rNPV).
@@ -37,7 +37,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 *2025 – Presente • Sede: Remoto / Ibrido • Soci: Mirko Campari, Edoardo Del Sarto, Tommaso Muraca*
 
 * **Corporate AI Academy**: Progettazione ed erogazione di corsi enterprise per grandi gruppi (**MSC, UniCredit, MPS, Autostrade, Piaggio, Lear**), svolti per conto di primarie società di formazione e consulenza partner.
-* **Sviluppo Software Custom**: Direzione architetturale di piattaforme cloud e applicativi su misura, tra cui il primo nucleo del sistema di forecasting farmaceutico per **Bhave** (Roma).
+* **Sviluppo Software Custom**: Direzione architetturale di piattaforme cloud e applicativi su misura, tra cui il primo nucleo del sistema di forecasting farmaceutico per primaria società di ricerca farmaceutica di Roma (sotto NDA).
 
 ### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor**
 *Ago–Ott 2025 & Lug 2026 • Sede: Nazionale & Hub Bari / Ibrido*
@@ -114,4 +114,4 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 ---
 
 ## Principali Grandi Clienti Formati & Partner
-European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Gruppo Triboo, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Gruppo Piaggio, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Gruppo Solvay, Bhave (Roma), Argo 3000, Epicode, Profice, ITConsulting.
+European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Gruppo Triboo, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Gruppo Piaggio, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Gruppo Solvay, Primaria Società di Ricerca Farmaceutica (Roma – NDA), Argo 3000, Epicode, Profice, ITConsulting.
