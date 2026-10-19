@@ -24,9 +24,11 @@ Cittadinanza: Cittadino UE
 
 ---
 
-### Imprese Fondate & Iniziative Imprenditoriali
+### Imprese Fondate & Ruoli Esecutivi C-Level
+* **BHAVE S.r.l. (Roma)** – *Chief Technology Officer (CTO) & Head of AI & Quantitative R&D* *(da Novembre 2026)*
+  * Direzione della ricerca e sviluppo (R&D) e dell'architettura software dell'ecosistema proprietario a 10 moduli di AI e statistica predittiva per l'industria farmaceutica (tra cui la piattaforma di demand & sales forecasting BEHATRIX SKULD v2.0).
 * **ForMinds** – *Co-Founder & Chief Technology Officer (CTO)*
-  * Sviluppo di molteplici software custom e percorsi di Corporate AI Academy per grandi aziende (erogati per conto di primarie società di formazione e consulenza partner intermediarie); piattaforma di demand forecasting farmaceutico per il cliente bhave (Roma).
+  * Sviluppo di molteplici software custom e percorsi di Corporate AI Academy per grandi aziende (erogati per conto di primarie società di formazione e consulenza partner intermediarie); co-sviluppo iniziale della piattaforma di demand forecasting farmaceutico per il cliente BHAVE (Roma).
 * **Ultralimes Marketing** – *Founder & Lead Software Architect*
   * Piattaforma SaaS proprietaria di market intelligence, algoritmi predittivi e sistemi gestionali PMS per proprietà di lusso.
 * **Golden Bloom Studio** – *Co-Owner & Responsabile Reparto Video*
@@ -47,11 +49,25 @@ Cittadinanza: Cittadino UE
 
 Nei miei incarichi di advisory e docenza per alcune delle più imponenti realtà industriali e istituzionali (**European Space Agency - ESA, EY, MSC - Mediterranean Shipping Company, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation, Triboo Group**), il mio focus non è mai stato "spiegare l'AI generica", ma **integrarla chirurgicamente nei loro flussi di lavoro quotidiani**. Questo confronto continuo sul campo mi ha permesso di apprendere a fondo i meccanismi operativi, le complessità di governance, la compliance normativa e le dinamiche di scala dei giganti multinazionali.
 
-Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **Co-Founder & CTO di ForMinds**, dirigo la progettazione e lo sviluppo di un ampio portfolio di soluzioni software personalizzate, piattaforme enterprise e percorsi di corporate academy erogati per grandi clienti tramite società partner (tra cui spicca, come caso applicativo d'eccellenza, la piattaforma di **Pharmaceutical Demand & Sales Forecasting** realizzata per il cliente **bhave** di Roma, con modelli time-series e conformità GxP/GDPR); come **Founder di Ultralimes Marketing**, ho concepito e deployato un'infrastruttura SaaS di market intelligence e data extraction con algoritmi predittivi su server Linux. Padroneggio l'intero spettro dell'innovazione: dai sistemi di **Agentic AI** (CrewAI, LangChain, n8n) e framework di valutazione (DeepEval, MLflow) all'AI multimodale/visuale (Stable Diffusion, ComfyUI, Google Gemini), fino allo sviluppo full-stack e cloud-native (Python/FastAPI, Java/Spring Boot, React.js, AWS SageMaker, Docker).
+Questo bagaglio alimenta direttamente i miei ruoli esecutivi e le mie iniziative imprenditoriali: da **Novembre 2026** ricopro il ruolo di **Chief Technology Officer (CTO) di BHAVE (Roma)** con incarico di guida della ricerca statistica, dell'AI e dello sviluppo del loro ecosistema software a **10 moduli per il settore farmaceutico** (predizione vendite farmaci, modellazione comportamentale prescrittiva, market access AIFA e valutazione finanziaria); come **Co-Founder & CTO di ForMinds**, dirigo lo sviluppo di un ampio portfolio di soluzioni software personalizzate, piattaforme enterprise e percorsi di corporate academy erogati per grandi clienti tramite società partner; come **Founder di Ultralimes Marketing**, ho concepito e deployato un'infrastruttura SaaS di market intelligence e data extraction con algoritmi predittivi su server Linux. Padroneggio l'intero spettro dell'innovazione: dai sistemi di **Agentic AI** (CrewAI, LangChain, n8n) e framework di valutazione (DeepEval, MLflow) all'AI multimodale/visuale (Stable Diffusion, ComfyUI, Google Gemini), fino allo sviluppo full-stack e cloud-native (Python/FastAPI, Java/Spring Boot, React.js, Microsoft Azure, AWS SageMaker, Docker).
 
 ---
 
 ## Esperienze Professionali
+
+### **Chief Technology Officer (CTO) & Head of AI & Quantitative R&D** | **BHAVE S.r.l.**
+*Novembre 2026 – Presente (Precedente Co-Sviluppo Architetturale nel 2026) • Roma, Italia (Ibrido / Remoto)*
+
+* **Direzione R&D & Ecosistema Software Farmaceutico a 10 Moduli**: Nominato **CTO** per dirigere la ricerca statistico-matematica, l'ingegneria dell'Intelligenza Artificiale e lo sviluppo full-stack della suite proprietaria di intelligence farmaceutica di **BHAVE**, un ecosistema enterprise articolato in **10 moduli applicativi integrati** dedicati alla predizione delle vendite di farmaci, al market access e al supporto decisionale strategico per le aziende farmaceutiche.
+* **Motore di Pharmaceutical Demand & Sales Forecasting (Modulo BEHATRIX SKULD v2.0)**: Progettazione e sviluppo del modulo core di previsione vendite basato su un **Grafo Aciclico Diretto (DAG) causale a 11 Step** (latenza di ricalcolo < 15 ms), che integra funnel epidemiologici clinici a 6 stadi (dati ISTAT e filtri di linea terapeutica), curve di adozione di **Frank Bass**, analog matching **k-NN** su oltre 115.000 farmaci e simulazioni stocastiche **Monte Carlo** a 10.000 iterazioni.
+* **Modellazione Statistica Comportamentale & Dinamiche Prescrittive (GBDS-SSC)**: Ricerca e implementazione di modelli matematici dual-engine (motore discreto macro-economico affiancato a simulatore continuo fenomenologico su varietà sferica di Riemann $S^2$ con integrazione **Runge-Kutta RK4**) per modellare le scelte prescrittive della classe medica nelle diverse aree terapeutiche (Cardiologia, Oncologia, Oftalmologia).
+* **Regolatorio AIFA, Sales Force Sizing & Valutazione Economico-Finanziaria**: Ingegnerizzazione dei moduli specialistici per il calcolo deterministico dei tetti di spesa **AIFA** e meccanismi di payback (`PAYBACK-REG`), cascata **Gross-to-Net (G2N)**, erosione post-scadenza brevettuale (**Patent Cliff / LoE**), dimensionamento ottimale della rete di informatori scientifici (**Sales Force Sizing - SFS**) e valutazione finanziaria (**P&L, FCFF, WACC, rNPV, Break-Even**) con certificazione automatizzata delle formule native Excel/OpenXML.
+* **Architettura Cloud-Native su Microsoft Azure & Compliance GxP/GDPR**: Orchestrazione dell'infrastruttura containerizzata a microservizi (**Python 3.11 / FastAPI**, **React 19 + TypeScript**, **AI Copilot** con streaming real-time SSE, **Docker**, **Nginx**) con provisioning Infrastructure-as-Code (**Bicep**) su **Microsoft Azure Container Apps**, garantendo segregazione rigorosa dei dati, anonimizzazione e piena conformità agli standard **GxP / GDPR**.
+
+* **Competenze Chiave & Ambiente Tecnologico**:
+  `Chief Technology Officer (CTO)`, `BHAVE (Roma)`, `Ricerca & Sviluppo (R&D)`, `Pharmaceutical Sales & Demand Forecasting`, `BEHATRIX SKULD v2.0`, `Modellazione Statistica & Econometrica`, `Simulazione Monte Carlo`, `Grafo Aciclico Diretto (DAG)`, `Curve di Adozione di Bass`, `Runge-Kutta (RK4)`, `Market Access & Regolatorio AIFA`, `Sales Force Sizing (SFS)`, `Valutazione Finanziaria (FCFF / rNPV)`, `FastAPI`, `Python`, `React 19`, `TypeScript`, `Microsoft Azure Container Apps`, `Bicep (IaC)`, `Docker`, `Compliance GxP / GDPR`.
+
+---
 
 ### **Co-Founder & Chief Technology Officer (CTO) | Head of AI Solutions** | **ForMinds**
 *2025 – Presente • Italia (Remoto / Ibrido)*  
@@ -59,12 +75,12 @@ Questo bagaglio alimenta direttamente le mie iniziative imprenditoriali: come **
 
 * **Leadership Tecnica Esecutiva & Portfolio Software**: Co-fondatore di **ForMinds** al fianco di Mirko Campari (Manager), Edoardo Del Sarto e Tommaso Muraca; direzione della roadmap tecnologica, degli standard ingegneristici, dello sviluppo di molteplici software custom e delle numerose corporate academy aziendali erogate sul mercato (di seguito viene presentata una selezione dei progetti di maggior rilievo).
 * **Corporate Academy & Formazione Enterprise via Partner Intermediari**: Progettazione e direzione tecnica di percorsi formativi corporate avanzati (Generative AI, flussi agentici, modern software engineering) erogati per conto di primarie società di consulenza e formazione partner intermediarie a grandi clienti (**MSC, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation**).
-* **Piattaforma Enterprise di Forecasting Farmaceutico (Progetto di Punta - Cliente: bhave Roma)**: Tra le varie soluzioni software sviluppate, progettazione e guida integrale dell'architettura end-to-end di una piattaforma di **Pharmaceutical Demand & Sales Forecasting** commissionata dal cliente **bhave** di Roma; coordinamento dell'intero ciclo di vita, dalla modellazione matematica predittiva time-series al packaging in microservizi containerizzati su cloud.
+* **Piattaforma Enterprise di Forecasting Farmaceutico (Progetto di Punta - Cliente: BHAVE Roma)**: Tra le varie soluzioni software sviluppate in ForMinds, progettazione e guida dell'architettura end-to-end del primo nucleo della piattaforma di **Pharmaceutical Demand & Sales Forecasting** per il cliente **BHAVE** di Roma (successivamente evoluta nell'ecosistema a 10 moduli con nomina diretta a CTO di BHAVE).
 * **Precisione Algoritmica, Velocità & Massima Sicurezza**: Architettura ottimizzata per elevatissima precisione numerica, inferenza a bassissima latenza (sub-secondo), isolamento rigoroso dei dati, crittografia end-to-end e piena conformità agli standard regolatori dell'industria farmaceutica (**GxP / GDPR**).
 * **Veicolo di Delivery per Grandi Account**: Operazionalizzato ForMinds come veicolo strategico per l'integrazione di AI enterprise, architetture software ad alta sicurezza e prompt engineering avanzato per grandi realtà corporate.
 
 * **Competenze Chiave & Ambiente Tecnologico**:
-  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Sviluppo Software Custom`, `Forecasting Farmaceutico (bhave Roma)`, `bhave`, `Modellazione Quantitativa`, `Time Series Forecasting`, `Analisi Predittiva`, `Consulenza Enterprise AI`, `Corporate Training IT (via Partner)`, `Architettura Software`, `FastAPI`, `Python`, `Microservizi`, `Docker`, `Cloud Security & Governance Dati`, `Compliance GxP / GDPR`, `Leadership Esecutiva`.
+  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Sviluppo Software Custom`, `Forecasting Farmaceutico (BHAVE Roma)`, `Modellazione Quantitativa`, `Time Series Forecasting`, `Analisi Predittiva`, `Consulenza Enterprise AI`, `Corporate Training IT (via Partner)`, `Architettura Software`, `FastAPI`, `Python`, `Microservizi`, `Docker`, `Cloud Security & Governance Dati`, `Compliance GxP / GDPR`, `Leadership Esecutiva`.
 
 ---
 

@@ -12,7 +12,38 @@ Per ogni lavoro trovi:
 
 ---
 
-## 💼 1. ForMinds – Co-Founder & Chief Technology Officer (CTO)
+## 💼 1A. BHAVE S.r.l. – Chief Technology Officer (CTO) & Head of AI & Quantitative R&D
+
+* **Azienda**: BHAVE
+* **Qualifica / Titolo**: `Chief Technology Officer (CTO) & Head of AI & Quantitative R&D`
+* **Tipo di impiego**: A tempo pieno / A contratto (Executive Leadership)
+* **Data di inizio**: Novembre 2026 – Presente (Co-sviluppo architetturale dal 2026)
+* **Località**: Roma, Lazio, Italia • Ibrido / Da remoto
+
+### 📝 Testo da incollare nel campo "Descrizione":
+Nominato Chief Technology Officer (CTO) per dirigere la ricerca statistico-matematica, l'ingegneria dell'Intelligenza Artificiale e lo sviluppo full-stack dell'ecosistema software proprietario di intelligence farmaceutica di BHAVE (articolato in 10 moduli integrati per la predizione delle vendite di farmaci, il market access e il decision support per il mondo pharma).
+
+Attività e responsabilità chiave:
+• Ecosistema Farmaceutico a 10 Moduli & R&D: Direzione architetturale dell'intera suite decisionale, coordinando ricerca statistica, AI generativa/predittiva e ingegneria del software.
+• Motore di Pharmaceutical Sales & Demand Forecasting (Modulo BEHATRIX SKULD v2.0): Architettura del grafo causale deterministico a 11 Step (latenza < 15 ms), con funnel epidemiologici clinici a 6 stadi, curve di adozione di Frank Bass, analog matching k-NN su oltre 115.000 farmaci e simulazioni stocastiche Monte Carlo a 10.000 iterazioni.
+• Modellazione Comportamentale & Regolatorio AIFA: Simulatori matematici continui (Runge-Kutta RK4 su varietà sferica di Riemann) per le dinamiche prescrittive mediche (GBDS-SSC), microservizio deterministico per i tetti di spesa AIFA (PAYBACK-REG), cascata Gross-to-Net (G2N), Patent Cliff / LoE, Sales Force Sizing (SFS) e valutazione finanziaria P&L / FCFF / rNPV.
+• Architettura Cloud-Native su Microsoft Azure: Stack containerizzato a microservizi (Python 3.11 / FastAPI, React 19 + TypeScript, AI Copilot in streaming SSE, Docker, Bicep IaC su Azure Container Apps) conforme agli standard regolatori GxP e GDPR.
+
+### 🏷️ Competenze da associare a questa esperienza:
+* `Chief Technology Officer (CTO)`
+* `Research and Development (R&D)`
+* `Statistical Modeling`
+* `Predictive Modeling`
+* `Artificial Intelligence (AI)`
+* `Monte Carlo Simulation`
+* `FastAPI`
+* `React.js`
+* `Microsoft Azure`
+* `Software Architecture`
+
+---
+
+## 💼 1B. ForMinds – Co-Founder & Chief Technology Officer (CTO)
 
 * **Azienda**: ForMinds
 * **Qualifica / Titolo**: Co-Founder & Chief Technology Officer (CTO)
@@ -24,8 +55,8 @@ Per ogni lavoro trovi:
 Co-fondatore e Chief Technology Officer (CTO) di ForMinds, venture tecnologica specializzata nello sviluppo di software custom enterprise e percorsi avanzati di Corporate AI Academy.
 
 Attività e responsabilità:
-• Direzione Tecnologica (CTO): Definizione della roadmap architetturale, selezione dello stack software (Python/FastAPI, Docker, Microservizi, Cloud AWS) e coordinamento dei team ingegneristici.
-• Sviluppo Software Custom: Progettazione e guida integrale della piattaforma di Pharmaceutical Demand & Sales Forecasting per il cliente bhave (Roma), con modelli predittivi time-series conformi alle normative farmaceutiche GxP e GDPR.
+• Direzione Tecnologica (CTO): Definizione della roadmap architetturale, selezione dello stack software (Python/FastAPI, Docker, Microservizi, Cloud AWS/Azure) e coordinamento dei team ingegneristici.
+• Sviluppo Software Custom: Progettazione e guida del primo nucleo della piattaforma di Pharmaceutical Demand & Sales Forecasting per il cliente BHAVE di Roma (successivamente evoluta nell'ecosistema a 10 moduli con nomina diretta a CTO di BHAVE).
 • Corporate AI Academy via Partner: Direzione ed erogazione di masterclass su AI Enterprise & Business Intelligence per primari clienti multinazionali (MSC, UniCredit, MPS, Autostrade, Piaggio, Lear), svolti su incarico di società partner intermediarie di consulenza e formazione.
 
 ### 🏷️ Competenze da associare a questa esperienza:

@@ -24,9 +24,11 @@ Work Authorization: EU Citizen
 
 ---
 
-### Key Ventures & Entrepreneurial Projects (Founded)
+### Key Ventures & Executive C-Level Roles
+* **BHAVE S.r.l. (Rome)** – *Chief Technology Officer (CTO) & Head of AI & Quantitative R&D* *(from November 2026)*
+  * Directing R&D and software architecture for BHAVE's proprietary 10-module pharmaceutical AI and statistical intelligence ecosystem (including the flagship BEHATRIX SKULD v2.0 demand & sales forecasting platform).
 * **ForMinds** – *Co-Founder & Chief Technology Officer (CTO)*
-  * Development of multiple custom software solutions and Corporate AI Academies for major enterprises (delivered on behalf of leading intermediary training & consulting partners); flagship pharmaceutical demand forecasting platform for client bhave (Rome).
+  * Development of multiple custom software solutions and Corporate AI Academies for major enterprises (delivered on behalf of leading intermediary training & consulting partners); initial architectural co-development of the pharmaceutical demand forecasting platform for client BHAVE (Rome).
 * **Ultralimes Marketing** – *Founder & Lead Software Architect*
   * Proprietary market intelligence SaaS, custom predictive algorithms, and luxury multi-property PMS platforms.
 * **Golden Bloom Studio** – *Co-Owner & Head of Video Production*
@@ -47,11 +49,25 @@ Work Authorization: EU Citizen
 
 Throughout my advisory and masterclass engagements with premier industrial and institutional leaders (**European Space Agency - ESA, EY, MSC - Mediterranean Shipping Company, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation, Triboo Group**), my mandate has never been delivering abstract, generic lectures on AI, but **surgically embedding artificial intelligence into core operational workflows**. This continuous, hands-on immersion has given me firsthand mastery of corporate governance, strict regulatory compliance, enterprise security, and multi-scale organizational dynamics across multinational giants.
 
-This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of ForMinds**, I direct the engineering and delivery of an extensive portfolio of custom software solutions, digital platforms, and corporate academies delivered to major enterprise clients via partner firms (featuring as a prime flagship application the **Pharmaceutical Demand & Sales Forecasting** platform for client **bhave** in Rome, engineered with time-series models and GxP/GDPR compliance); as **Founder of Ultralimes Marketing**, I designed, built, and deployed a cloud SaaS market intelligence platform with proprietary predictive algorithms on Linux infrastructure. I command the full frontier of modern innovation: from **Agentic AI** systems (CrewAI, LangChain, n8n) and evaluation frameworks (DeepEval, MLflow) to multimodal generative vision (Stable Diffusion, ComfyUI, Google Gemini), cloud-native MLOps (AWS SageMaker, Docker), and modern full-stack engineering (Python/FastAPI, Java/Spring Boot, React.js/Three.js/GSAP).
+This foundation powers my executive leadership and entrepreneurial ventures: starting **November 2026**, I serve as **Chief Technology Officer (CTO) of BHAVE (Rome)**, directing the statistical research, AI engineering, and software development of their **10-module pharmaceutical intelligence ecosystem** (drug sales forecasting, behavioral prescription modeling, AIFA market access, and financial valuation); as **Co-Founder & CTO of ForMinds**, I direct the engineering and delivery of an extensive portfolio of custom software solutions, digital platforms, and corporate academies delivered to major enterprise clients via partner firms; as **Founder of Ultralimes Marketing**, I designed, built, and deployed a cloud SaaS market intelligence platform with proprietary predictive algorithms on Linux infrastructure. I command the full frontier of modern innovation: from **Agentic AI** systems (CrewAI, LangChain, n8n) and evaluation frameworks (DeepEval, MLflow) to multimodal generative vision (Stable Diffusion, ComfyUI, Google Gemini), cloud-native MLOps (Microsoft Azure, AWS SageMaker, Docker), and modern full-stack engineering (Python/FastAPI, Java/Spring Boot, React.js/Three.js/GSAP).
 
 ---
 
 ## Work Experience
+
+### **Chief Technology Officer (CTO) & Head of AI & Quantitative R&D** | **BHAVE S.r.l.**
+*November 2026 – Present (Prior Architectural Co-Development in 2026) • Rome, Italy (Hybrid / Remote)*
+
+* **Executive R&D Direction & 10-Module Pharmaceutical AI Ecosystem**: Appointed **CTO** to lead mathematical-statistical research, Artificial Intelligence engineering, and full-stack software development for **BHAVE**'s proprietary pharmaceutical intelligence suite—an enterprise ecosystem of **10 integrated software modules** dedicated to drug sales forecasting, market access, and strategic decision support for the pharmaceutical industry.
+* **Pharmaceutical Demand & Sales Forecasting Engine (BEHATRIX SKULD v2.0 Module)**: Architected and engineered the core sales forecasting module built on an **11-Step causal Directed Acyclic Graph (DAG)** (recalculation latency < 15 ms), integrating 6-stage clinical epidemiological funnels (ISTAT demographics and treatment-line filtering), **Frank Bass** diffusion curves, **k-NN** analog matching across 115,000+ drugs, and 10,000-iteration stochastic **Monte Carlo** simulations.
+* **Statistical Behavioral Modeling & Prescriptive Dynamics (GBDS-SSC)**: Spearheaded R&D and implementation of dual-engine mathematical models (discrete macroeconomic engine paired with a continuous phenomenological simulator on a Riemann sphere $S^2$ via **Runge-Kutta RK4** integration) to model physician prescription behavior across therapeutic areas (Cardiology, Oncology, Ophthalmology).
+* **AIFA Regulatory Payback, Sales Force Sizing & Financial Valuation**: Engineered specialized modules for deterministic **AIFA** expenditure ceiling and payback modeling (`PAYBACK-REG`), **Gross-to-Net (G2N)** cascades, post-patent expiry erosion (**Patent Cliff / LoE**), optimal medical representative allocation (**Sales Force Sizing - SFS**), and financial valuation (**P&L, FCFF, WACC, rNPV, Break-Even**) with automated live OpenXML/Excel formula verification.
+* **Cloud-Native Architecture on Microsoft Azure & GxP/GDPR Compliance**: Orchestrated the decoupled microservice container architecture (**Python 3.11 / FastAPI**, **React 19 + TypeScript**, real-time SSE streaming **AI Copilot**, **Docker**, **Nginx**) with Infrastructure-as-Code (**Bicep**) deployment on **Microsoft Azure Container Apps**, enforcing strict data segregation, anonymization, and full **GxP / GDPR** compliance.
+
+* **Core Skills & Technical Environment**:
+  `Chief Technology Officer (CTO)`, `BHAVE (Rome)`, `Research & Development (R&D)`, `Pharmaceutical Sales & Demand Forecasting`, `BEHATRIX SKULD v2.0`, `Statistical & Econometric Modeling`, `Monte Carlo Simulation`, `Directed Acyclic Graph (DAG)`, `Bass Diffusion Curves`, `Runge-Kutta (RK4)`, `AIFA Market Access & Payback`, `Sales Force Sizing (SFS)`, `Financial Valuation (FCFF / rNPV)`, `FastAPI`, `Python`, `React 19`, `TypeScript`, `Microsoft Azure Container Apps`, `Bicep (IaC)`, `Docker`, `GxP / GDPR Compliance`.
+
+---
 
 ### **Co-Founder & Chief Technology Officer (CTO) | Head of AI Solutions** | **ForMinds**
 *2025 – Present • Italy (Remote / Hybrid)*  
@@ -59,12 +75,12 @@ This foundation powers my entrepreneurial ventures: as **Co-Founder & CTO of For
 
 * **Executive Technical Leadership & Software Portfolio**: Co-founded **ForMinds** alongside Mirko Campari (Manager), Edoardo Del Sarto, and Tommaso Muraca, directing the technical vision, engineering standards, and the active delivery of numerous custom software systems and corporate training academies across industries (a curated selection of key projects is presented below).
 * **Corporate Academies & Enterprise Delivery via Intermediary Partners**: Designed and delivered high-impact enterprise training tracks (Generative AI, agentic systems, modern software engineering) on behalf of leading intermediary consulting and training partner firms for major corporations (**MSC, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation**).
-* **Enterprise Pharmaceutical Demand Forecasting Platform (Flagship Project - Client: bhave Rome)**: Among multiple custom software solutions developed, spearheaded the end-to-end architecture and engineering of a **Pharmaceutical Demand & Sales Forecasting Platform** commissioned by client **bhave** in Rome; overseeing the full lifecycle from quantitative mathematical time-series modeling to microservice API packaging and cloud deployment.
+* **Enterprise Pharmaceutical Demand Forecasting Platform (Flagship Project - Client: BHAVE Rome)**: Among multiple custom software solutions developed in ForMinds, spearheaded the initial end-to-end architecture of the **Pharmaceutical Demand & Sales Forecasting Platform** commissioned by client **BHAVE** in Rome (subsequently expanded into the 10-module ecosystem with direct appointment as CTO of BHAVE).
 * **Mission-Critical Precision, Speed & Security**: Architected the pharma platform for ultra-high mathematical precision, sub-second inference latency, strict data governance, end-to-end encryption, and compliance with rigorous pharmaceutical industry standards (**GxP / GDPR**).
 * **Tier-1 Enterprise Delivery Vehicle**: Operationalized ForMinds as the strategic execution vehicle for high-stakes AI integration, custom software architectures, and executive prompt engineering for major corporate accounts.
 
 * **Core Skills & Technical Environment**:
-  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Custom Software Development`, `Pharmaceutical Demand Forecasting (bhave Rome)`, `bhave`, `Quantitative Modeling`, `Time Series Forecasting`, `High-Precision Analytics`, `Enterprise AI Consulting`, `Corporate IT Training (via Partners)`, `Software Architecture`, `FastAPI`, `Python`, `Microservices`, `Docker`, `Cloud Security & Data Governance`, `GxP / GDPR Compliance`, `Executive Leadership`.
+  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Custom Software Development`, `Pharmaceutical Demand Forecasting (BHAVE Rome)`, `Quantitative Modeling`, `Time Series Forecasting`, `High-Precision Analytics`, `Enterprise AI Consulting`, `Corporate IT Training (via Partners)`, `Software Architecture`, `FastAPI`, `Python`, `Microservices`, `Docker`, `Cloud Security & Data Governance`, `GxP / GDPR Compliance`, `Executive Leadership`.
 
 ---
 

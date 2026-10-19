@@ -27,11 +27,17 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Esperienze Professionali & Docenze Corporate
 
+### **BHAVE S.r.l.** | **Chief Technology Officer (CTO) & Head of AI R&D**
+*Nov 2026 – Presente (Co-Sviluppo dal 2026) • Sede: Roma / Ibrido*
+
+* **Ecosistema AI & Statistica Farmaceutica (10 Moduli)**: Guida R&D e sviluppo dell'ecosistema a 10 moduli per il settore pharma (predizione vendite farmaci, dinamiche prescrittive GBDS-SSC, payback AIFA, sales force sizing e valutazione P&L/rNPV).
+* **Piattaforma BEHATRIX SKULD v2.0**: Architettura cloud-native su Azure (FastAPI, React 19, Docker) con pipeline causale DAG a 11 step, modelli di Bass, Monte Carlo (10k iterazioni) e conformità GxP/GDPR.
+
 ### **ForMinds** | **Co-Founder & Chief Technology Officer (CTO)**
 *2025 – Presente • Sede: Remoto / Ibrido • Soci: Mirko Campari, Edoardo Del Sarto, Tommaso Muraca*
 
 * **Corporate AI Academy**: Progettazione ed erogazione di corsi enterprise per grandi gruppi (**MSC, UniCredit, MPS, Autostrade, Piaggio, Lear**), svolti per conto di primarie società di formazione e consulenza partner.
-* **Sviluppo Software Custom**: Direzione architetturale di piattaforme cloud e applicativi su misura; tra i progetti faro, il forecasting farmaceutico per **bhave** (Roma) conforme a standard GxP/GDPR.
+* **Sviluppo Software Custom**: Direzione architetturale di piattaforme cloud e applicativi su misura, tra cui il primo nucleo del sistema di forecasting farmaceutico per **BHAVE** (Roma).
 
 ### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor**
 *Ago–Ott 2025 & Lug 2026 • Sede: Nazionale & Hub Bari / Ibrido*
