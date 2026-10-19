@@ -17,11 +17,11 @@ Per ogni lavoro trovi:
 * **Azienda**: `Primaria Società di Ricerca & Intelligence Farmaceutica (Cliente sotto NDA)` *(non taggare alcuna pagina aziendale per rispetto NDA)*
 * **Qualifica / Titolo**: `Chief Technology Officer (CTO) & Head of AI & Quantitative R&D`
 * **Tipo di impiego**: A tempo pieno / A contratto (Executive Leadership)
-* **Data di inizio**: Novembre 2026 – Presente (Co-sviluppo architetturale dal 2026)
+* **Data di inizio**: `Luglio 2026 – Presente` *(Co-sviluppo architetturale da Luglio 2026 • Incarico CTO da Novembre 2026)*
 * **Località**: Roma, Lazio, Italia • Ibrido / Da remoto
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Nominato Chief Technology Officer (CTO) per dirigere la ricerca statistico-matematica, l'ingegneria dell'Intelligenza Artificiale e lo sviluppo full-stack di un ecosistema software proprietario di intelligence farmaceutica (articolato in 10 moduli integrati per la predizione delle vendite di farmaci, l'analisi di mercato e il supporto decisionale per il mondo farmaceutico).
+Dopo aver guidato il co-sviluppo architetturale a partire da Luglio 2026, nominato Chief Technology Officer (CTO, con decorrenza Novembre 2026) per dirigere la ricerca statistico-matematica, l'ingegneria dell'Intelligenza Artificiale e lo sviluppo full-stack di un ecosistema software proprietario di intelligence farmaceutica (articolato in 10 moduli integrati per la predizione delle vendite di farmaci, l'analisi di mercato e il supporto decisionale per il mondo farmaceutico).
 
 Attività e responsabilità chiave:
 • Ecosistema Farmaceutico a 10 Moduli & R&D: Direzione architetturale dell'intera suite decisionale, coordinando ricerca statistica, AI generativa/predittiva e ingegneria del software.

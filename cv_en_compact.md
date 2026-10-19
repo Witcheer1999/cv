@@ -28,7 +28,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 ## Professional Experience & Corporate Training Engagements
 
 ### **Leading Pharmaceutical Research Firm (NDA)** | **Chief Technology Officer (CTO) & Head of AI R&D**
-*Nov 2026 – Present (Co-Development from 2026) • Location: Rome / Hybrid*
+*Jul 2026 – Present (Co-Development from Jul 2026 • CTO from Nov 2026) • Location: Rome / Hybrid*
 
 * **Pharmaceutical AI & Statistical Ecosystem (10 Modules)**: Directing R&D and full-stack engineering for a 10-module pharma intelligence suite (drug sales forecasting, AIFA payback scenarios, sales force sizing, and P&L/rNPV financial valuation).
 * **Quantitative Modeling & Azure Cloud**: Epidemiological funnels, Frank Bass diffusion curves, and Monte Carlo simulations on cloud-native Azure architecture (FastAPI, React 19, Docker) under GxP/GDPR compliance.

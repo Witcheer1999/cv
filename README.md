@@ -37,7 +37,7 @@ Questo repository contiene il curriculum vitae ufficiale di **Michael Bagnoli** 
 
 ## 👤 Profilo Professionale Sintetico
 
-* **Ruolo Attuale**: Chief Technology Officer (CTO) & Head of AI R&D presso **Primaria Società di Ricerca Farmaceutica (Roma – NDA, da Nov 2026)** | Co-Founder & CTO presso **ForMinds** | Founder presso **Ultralimes Marketing** | Co-Owner presso **Golden Bloom Studio**
+* **Ruolo Attuale**: Chief Technology Officer (CTO, da Nov 2026) & Head of AI R&D presso **Primaria Società di Ricerca Farmaceutica (Roma – NDA, da Lug 2026)** | Co-Founder & CTO presso **ForMinds** | Founder presso **Ultralimes Marketing** | Co-Owner presso **Golden Bloom Studio**
 * **Formazione Accademica**: Corso di Laurea Triennale in Statistica (in corso) &bull; Liceo Scientifico Ulisse Dini (Doppia maturità EsaBac Italia/Francia)
 * **Lingue**: Italiano (Madrelingua), Inglese (C1 - Advanced), Francese (C1 - Certificato EsaBac)
 * **Clienti & Istituzioni di Riferimento**: European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Gruppo Triboo, Banca Monte dei Paschi di Siena, UniCredit, Autostrade per l'Italia, Gruppo Piaggio, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Gruppo Solvay, Primaria Società di Ricerca Farmaceutica (Roma – NDA), Argo 3000, Epicode, Profice, ITConsulting.

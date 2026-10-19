@@ -28,7 +28,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 ## Esperienze Professionali & Docenze Corporate
 
 ### **Primaria Società di Ricerca Farmaceutica (NDA)** | **Chief Technology Officer (CTO) & Head of AI R&D**
-*Nov 2026 – Presente (Co-Sviluppo dal 2026) • Sede: Roma / Ibrido*
+*Lug 2026 – Presente (Co-Sviluppo da Lug 2026 • Incarico CTO da Nov 2026) • Sede: Roma / Ibrido*
 
 * **Ecosistema AI & Statistica Farmaceutica (10 Moduli)**: Guida R&D e sviluppo dell'ecosistema a 10 moduli per il settore pharma (predizione vendite farmaci, payback AIFA, sales force sizing e valutazione economico-finanziaria P&L/rNPV).
 * **Modellazione Quantitativa & Cloud Azure**: Modelli epidemiologici, curve di diffusione di Frank Bass e simulazioni Monte Carlo su architettura cloud-native Azure (FastAPI, React 19, Docker) conforme agli standard GxP/GDPR.
