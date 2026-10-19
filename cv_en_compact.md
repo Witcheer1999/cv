@@ -8,8 +8,8 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Professional Profile & Enterprise Training Suitability
 
-* **Executive Profile**: CTO and AI consultant specialized in embedding Artificial Intelligence into real-world corporate workflows.
-* **Instructional Focus**: ROI-driven pedagogy, alignment with enterprise production standards, and hands-on capstone project delivery.
+* **Executive Profile & Core Expertise**: CTO and AI consultant specialized in enterprise AI integration, **Deep Learning & Neural Networks (ANN, CNN, RNN, LSTM, GAN, VAE, Transformers)**, Agentic Systems, Business Intelligence, and predictive statistical modeling.
+* **Instructional Focus**: ROI-driven pedagogy, alignment with enterprise production standards, live coaching sessions, and capstone project mentorship.
 * **Audience Adaptability**: Proven ability to engage both technical software engineering teams and non-technical C-Level executives.
 * **Bilingual Delivery**: Courses delivered fluently in **Italian** and **English (C1)** — official training tracks for ESA conducted entirely in English.
 * **Tier-1 Track Record**: Successfully instructed personnel across **ESA**, **EY**, **MSC**, **UniCredit**, **Banca MPS**, **Piaggio**, **Lear**, **Triboo**.
@@ -27,24 +27,24 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Professional Experience & Corporate Training Engagements
 
-### **BHAVE S.r.l.** | **Chief Technology Officer (CTO) & Head of AI R&D**
+### **Bhave S.r.l.** | **Chief Technology Officer (CTO) & Head of AI R&D**
 *Nov 2026 – Present (Co-Development from 2026) • Location: Rome / Hybrid*
 
-* **Pharmaceutical AI & Statistical Ecosystem (10 Modules)**: Directing R&D and full-stack engineering for BHAVE's 10-module pharma intelligence suite (drug sales forecasting, behavioral prescription modeling GBDS-SSC, AIFA payback, sales force sizing, and P&L/rNPV valuation).
-* **BEHATRIX SKULD v2.0 Platform**: Cloud-native architecture on Azure (FastAPI, React 19, Docker) featuring an 11-step causal DAG pipeline, Bass diffusion, Monte Carlo (10k iterations), and GxP/GDPR compliance.
+* **Pharmaceutical AI & Statistical Ecosystem (10 Modules)**: Directing R&D and full-stack engineering for Bhave's 10-module pharma intelligence suite (drug sales forecasting, AIFA payback scenarios, sales force sizing, and P&L/rNPV financial valuation).
+* **Quantitative Modeling & Azure Cloud**: Epidemiological funnels, Frank Bass diffusion curves, and Monte Carlo simulations on cloud-native Azure architecture (FastAPI, React 19, Docker) under GxP/GDPR compliance.
 
 ### **ForMinds** | **Co-Founder & Chief Technology Officer (CTO)**
 *2025 – Present • Location: Remote / Hybrid • Partners: Mirko Campari, Edoardo Del Sarto, Tommaso Muraca*
 
 * **Corporate AI Academy**: Designed and delivered enterprise AI tracks for major accounts (**MSC, UniCredit, MPS, Autostrade, Piaggio, Lear**), conducted on behalf of leading intermediary training and consulting partners.
-* **Custom Software Engineering**: Architectural direction for cloud platforms and bespoke systems, including the initial core of the pharmaceutical forecasting system for **BHAVE** (Rome).
+* **Custom Software Engineering**: Architectural direction for cloud platforms and bespoke systems, including the initial core of the pharmaceutical forecasting system for **Bhave** (Rome).
 
 ### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor**
 *Aug–Oct 2025 & Jul 2026 • Location: National HQ & Bari Hub / Hybrid*
 
 * **National AI Academy**: Directed the nationwide intensive Academy for junior developers at **EY Italy**, training them on production AI stacks, Agentic AI (**CrewAI, LangChain**), and automation via **n8n**.
 * **Capstone Project Direction**: Architectural auditing and code reviews on participants' enterprise capstone projects, enforcing Big 4 engineering standards.
-* **Bari Hub Bootcamp**: Advanced masterclass on Machine Learning production pipelines and Data Science with Python (**Pandas, NumPy, Scikit-Learn**).
+* **Bari Hub Bootcamp**: Advanced masterclass on Machine Learning pipelines, Neural Networks, and Data Science with Python (**Pandas, NumPy, Scikit-Learn**).
 
 ### **Triboo Group** | **Senior AI Consultant & Corporate Trainer**
 *Apr 2026 (1-month intensive) • Location: Milan (On-Site)*
@@ -80,11 +80,11 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 * **Funded Full-Time Bootcamps**: Intensive software engineering tracks for rapid technical workforce qualification and corporate placement.
 * **Curriculum Stack**: Object-oriented programming in Python and Java (Spring Boot), relational databases (SQL), modern frontend with **React.js**, and 3D graphics with Three.js.
 
-### **Epicode** | **Master Lecturer (AI, Machine Learning & Python)**
-*2024 – Present • Location: Remote*
+### **Epicode** | **Author & Master Lecturer (Python, AI & Machine Learning)**
+*2024 – Present • Location: Remote • [On-Demand & Live Master](https://epicode.com/it/python-ai-machine-learning-on-demand/)*
 
-* **Specialized Master Modules**: Instructed advanced modules in Deep Learning, Computer Vision (OpenCV, YOLO), NLP, and LLM deployment with Hugging Face.
-* **Capstone Committee President**: Technical evaluation, architectural validation, and final approval of students' real-world projects.
+* **Author of Recorded Modules (from Deep Learning onwards)**: Recorded all advanced modules on Neural Networks (**ANN, CNN, RNN, LSTM, GAN, VAE, Transformers**), Computer Vision (OpenCV, YOLO), NLP, and Generative / Full-Stack AI.
+* **Live Enhancement Classes, Assignment Grading & Capstone**: Lead live enhancement sessions, grade student assignments, and serve as Capstone Committee President.
 
 ### **Sinervis Consulting (Fund Management: Argo 3000)** | **Cloud AWS & Machine Learning Instructor**
 *Jan–Mar 2026 • Location: Corporate Delivery*
@@ -92,10 +92,10 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 * **Official AWS Curriculum**: Delivered the official AWS Machine Learning curriculum to corporate engineering teams via fund manager **Argo 3000**.
 * **Key Topics**: Cloud MLOps on Amazon SageMaker, scalable data ingestion, Docker containerization, and enterprise cloud security.
 
-### **Ultralimes Marketing** | **Founder & Lead Software Architect**
-*2025 – Present • Location: Pisa / Remote • Clients: Profice, ACUS, Tuscany Likes Events and PR*
+### **Ultralimes Marketing** | **Founder, Lead Software Architect & Data Scientist**
+*2025 – Present (R&D 2025 • Production & Clients from 2026) • Pisa / Remote • Clients: Profice, ACUS, Tuscany Likes Events and PR, SMEs*
 
-* **Market Intelligence SaaS**: Engineered from scratch a proprietary cloud SaaS platform for automated web data harvesting and predictive analytics.
+* **AI-Driven SME Marketing with Proprietary Software & Algorithms**: Marketing service and SaaS platform powered by custom predictive algorithms and integrated AI built in-house (actively serving **Profice**, **ACUS**, and SMEs).
 * **PMS Platform (Tuscany Likes)**: Developed a centralized property management system for luxury villa rentals in Pisa.
 
 ### **Golden Bloom Studio** | **Co-Owner & Head of Video Production**
@@ -107,11 +107,11 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Core Competency Matrix for Corporate Training & Advisory
 
-* **Teaching & Instruction Domains**: Generative AI, Advanced Prompt Engineering, Business Intelligence (Power BI, DAX), Agentic AI (CrewAI, LangChain, n8n), Machine Learning, LLM Evaluation & MLOps, Data Analytics & SQL, Modern Web Development for AI (React.js).
-* **Instructional Tech Stack**: Python (Pandas, NumPy, Scikit-Learn, PyTorch, FastAPI), Java (Spring Boot), Docker, AWS SageMaker, Google Gemini Enterprise, SQL (PostgreSQL), React.js, Git.
-* **Pedagogical Methodology**: Practical hands-on labs, capstone project mentorship, fluent delivery in **English (C1)** and Italian, executive public speaking.
+* **Teaching & Instruction Domains**: Deep Learning & Neural Networks (ANN, CNN, RNN/LSTM, GAN, VAE, Transformers), Generative AI, Prompt Engineering, Business Intelligence (Power BI, DAX), Agentic AI (CrewAI, LangChain, n8n), Machine Learning, LLM Evaluation & MLOps, Data Analytics & SQL, Modern Web Development for AI (React.js).
+* **Instructional Tech Stack**: Python (PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, FastAPI), Java (Spring Boot), Docker, Azure, AWS SageMaker, Google Gemini, SQL (PostgreSQL), React.js, Git.
+* **Pedagogical Methodology**: Practical hands-on labs, live enhancement coaching, assignment grading & capstone mentorship, fluent delivery in **English (C1)** and Italian.
 
 ---
 
 ## Selected Enterprise Clients Trained & Partner Organizations
-European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, bhave (Rome), Argo 3000, Epicode, Profice, ITConsulting.
+European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, Bhave (Rome), Argo 3000, Epicode, Profice, ITConsulting.

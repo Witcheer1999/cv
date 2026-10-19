@@ -25,12 +25,12 @@ Work Authorization: EU Citizen
 ---
 
 ### Key Ventures & Executive C-Level Roles
-* **BHAVE S.r.l. (Rome)** – *Chief Technology Officer (CTO) & Head of AI & Quantitative R&D* *(from November 2026)*
-  * Directing R&D and software architecture for BHAVE's proprietary 10-module pharmaceutical AI and statistical intelligence ecosystem (including the flagship BEHATRIX SKULD v2.0 demand & sales forecasting platform).
+* **Bhave S.r.l. (Rome)** – *Chief Technology Officer (CTO) & Head of AI & Quantitative R&D* *(from November 2026)*
+  * Directing R&D and software architecture for Bhave's proprietary 10-module pharmaceutical AI and statistical intelligence ecosystem dedicated to drug sales forecasting and strategic decision support for the pharmaceutical sector.
 * **ForMinds** – *Co-Founder & Chief Technology Officer (CTO)*
-  * Development of multiple custom software solutions and Corporate AI Academies for major enterprises (delivered on behalf of leading intermediary training & consulting partners); initial architectural co-development of the pharmaceutical demand forecasting platform for client BHAVE (Rome).
-* **Ultralimes Marketing** – *Founder & Lead Software Architect*
-  * Proprietary market intelligence SaaS, custom predictive algorithms, and luxury multi-property PMS platforms.
+  * Development of multiple custom software solutions and Corporate AI Academies for major enterprises (delivered on behalf of leading intermediary training & consulting partners); initial architectural co-development of the pharmaceutical demand forecasting platform for client Bhave (Rome).
+* **Ultralimes Marketing** – *Founder, Lead Software Architect & Data Scientist*
+  * Data-driven marketing service and platform for general SMEs (PMI) and B2B enterprises (including Profice, ACUS, Tuscany Likes Events and PR), powered by in-house proprietary software, predictive algorithms, and integrated Artificial Intelligence.
 * **Golden Bloom Studio** – *Co-Owner & Head of Video Production*
   * High-end video production, digital intermediate workflows, and multimedia asset pipelines for luxury brands and global industrial leaders (Cantieri Navali Codecasa, Solvay Group).
 
@@ -49,23 +49,22 @@ Work Authorization: EU Citizen
 
 Throughout my advisory and masterclass engagements with premier industrial and institutional leaders (**European Space Agency - ESA, EY, MSC - Mediterranean Shipping Company, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation, Triboo Group**), my mandate has never been delivering abstract, generic lectures on AI, but **surgically embedding artificial intelligence into core operational workflows**. This continuous, hands-on immersion has given me firsthand mastery of corporate governance, strict regulatory compliance, enterprise security, and multi-scale organizational dynamics across multinational giants.
 
-This foundation powers my executive leadership and entrepreneurial ventures: starting **November 2026**, I serve as **Chief Technology Officer (CTO) of BHAVE (Rome)**, directing the statistical research, AI engineering, and software development of their **10-module pharmaceutical intelligence ecosystem** (drug sales forecasting, behavioral prescription modeling, AIFA market access, and financial valuation); as **Co-Founder & CTO of ForMinds**, I direct the engineering and delivery of an extensive portfolio of custom software solutions, digital platforms, and corporate academies delivered to major enterprise clients via partner firms; as **Founder of Ultralimes Marketing**, I designed, built, and deployed a cloud SaaS market intelligence platform with proprietary predictive algorithms on Linux infrastructure. I command the full frontier of modern innovation: from **Agentic AI** systems (CrewAI, LangChain, n8n) and evaluation frameworks (DeepEval, MLflow) to multimodal generative vision (Stable Diffusion, ComfyUI, Google Gemini), cloud-native MLOps (Microsoft Azure, AWS SageMaker, Docker), and modern full-stack engineering (Python/FastAPI, Java/Spring Boot, React.js/Three.js/GSAP).
+This foundation powers my executive leadership and entrepreneurial ventures: starting **November 2026**, I serve as **Chief Technology Officer (CTO) of Bhave (Rome)**, directing the statistical research, AI engineering, and software development of their **10-module pharmaceutical intelligence ecosystem** (drug sales forecasting, market access, and financial valuation); as **Co-Founder & CTO of ForMinds**, I direct the engineering and delivery of custom software solutions, digital platforms, and corporate academies delivered to major enterprise clients via partner firms; as **Founder of Ultralimes Marketing**, I deliver AI-powered marketing and growth solutions for general SMEs (PMI) and B2B companies (including **Profice**) built on my own proprietary software, predictive algorithms, and integrated AI. I command the full frontier of modern innovation: from **Deep Learning & Neural Networks across all architectures** (**ANN, CNN, RNN, LSTM, GAN, VAE, Transformers** in PyTorch, TensorFlow, and Keras—where I authored and recorded all official modules from Deep Learning onwards for **Epicode's Master in Python, AI & Machine Learning**) to **Agentic AI** systems (CrewAI, LangChain, n8n), evaluation frameworks (DeepEval, MLflow), multimodal generative vision (Stable Diffusion, ComfyUI, Google Gemini), cloud-native MLOps (Microsoft Azure, AWS SageMaker, Docker), and modern full-stack engineering (Python/FastAPI, Java/Spring Boot, React.js/Three.js/GSAP).
 
 ---
 
 ## Work Experience
 
-### **Chief Technology Officer (CTO) & Head of AI & Quantitative R&D** | **BHAVE S.r.l.**
+### **Chief Technology Officer (CTO) & Head of AI & Quantitative R&D** | **Bhave S.r.l.**
 *November 2026 – Present (Prior Architectural Co-Development in 2026) • Rome, Italy (Hybrid / Remote)*
 
-* **Executive R&D Direction & 10-Module Pharmaceutical AI Ecosystem**: Appointed **CTO** to lead mathematical-statistical research, Artificial Intelligence engineering, and full-stack software development for **BHAVE**'s proprietary pharmaceutical intelligence suite—an enterprise ecosystem of **10 integrated software modules** dedicated to drug sales forecasting, market access, and strategic decision support for the pharmaceutical industry.
-* **Pharmaceutical Demand & Sales Forecasting Engine (BEHATRIX SKULD v2.0 Module)**: Architected and engineered the core sales forecasting module built on an **11-Step causal Directed Acyclic Graph (DAG)** (recalculation latency < 15 ms), integrating 6-stage clinical epidemiological funnels (ISTAT demographics and treatment-line filtering), **Frank Bass** diffusion curves, **k-NN** analog matching across 115,000+ drugs, and 10,000-iteration stochastic **Monte Carlo** simulations.
-* **Statistical Behavioral Modeling & Prescriptive Dynamics (GBDS-SSC)**: Spearheaded R&D and implementation of dual-engine mathematical models (discrete macroeconomic engine paired with a continuous phenomenological simulator on a Riemann sphere $S^2$ via **Runge-Kutta RK4** integration) to model physician prescription behavior across therapeutic areas (Cardiology, Oncology, Ophthalmology).
-* **AIFA Regulatory Payback, Sales Force Sizing & Financial Valuation**: Engineered specialized modules for deterministic **AIFA** expenditure ceiling and payback modeling (`PAYBACK-REG`), **Gross-to-Net (G2N)** cascades, post-patent expiry erosion (**Patent Cliff / LoE**), optimal medical representative allocation (**Sales Force Sizing - SFS**), and financial valuation (**P&L, FCFF, WACC, rNPV, Break-Even**) with automated live OpenXML/Excel formula verification.
+* **Executive R&D Direction & 10-Module Pharmaceutical AI Ecosystem**: Appointed **CTO** to lead mathematical-statistical research, Artificial Intelligence engineering, and full-stack software development for **Bhave**'s proprietary pharmaceutical intelligence suite—an enterprise ecosystem of **10 integrated software modules** dedicated to drug sales forecasting, market analytics, and strategic decision support for the pharmaceutical industry.
+* **Statistical Modeling & Drug Sales Forecasting**: Architected and engineered quantitative demand forecasting engines combining clinical epidemiological funnels (ISTAT demographics, prevalence/incidence, and treatment lines), classical **Frank Bass** diffusion and adoption curves, econometric time-series models, and stochastic **Monte Carlo** simulations for confidence interval estimation.
+* **Market Access, AIFA Regulatory, SFS & Financial Valuation**: Engineered specialized analytical modules for Italian **AIFA** expenditure ceiling and payback scenarios, **Gross-to-Net (G2N)** cascades, post-patent expiry erosion (**Patent Cliff / LoE**), medical representative allocation (**Sales Force Sizing - SFS**), and financial valuation (**P&L, FCFF, WACC, rNPV, Break-Even**) with automated OpenXML/Excel model export and verification.
 * **Cloud-Native Architecture on Microsoft Azure & GxP/GDPR Compliance**: Orchestrated the decoupled microservice container architecture (**Python 3.11 / FastAPI**, **React 19 + TypeScript**, real-time SSE streaming **AI Copilot**, **Docker**, **Nginx**) with Infrastructure-as-Code (**Bicep**) deployment on **Microsoft Azure Container Apps**, enforcing strict data segregation, anonymization, and full **GxP / GDPR** compliance.
 
 * **Core Skills & Technical Environment**:
-  `Chief Technology Officer (CTO)`, `BHAVE (Rome)`, `Research & Development (R&D)`, `Pharmaceutical Sales & Demand Forecasting`, `BEHATRIX SKULD v2.0`, `Statistical & Econometric Modeling`, `Monte Carlo Simulation`, `Directed Acyclic Graph (DAG)`, `Bass Diffusion Curves`, `Runge-Kutta (RK4)`, `AIFA Market Access & Payback`, `Sales Force Sizing (SFS)`, `Financial Valuation (FCFF / rNPV)`, `FastAPI`, `Python`, `React 19`, `TypeScript`, `Microsoft Azure Container Apps`, `Bicep (IaC)`, `Docker`, `GxP / GDPR Compliance`.
+  `Chief Technology Officer (CTO)`, `Bhave (Rome)`, `Research & Development (R&D)`, `Pharmaceutical Sales & Demand Forecasting`, `Statistical & Econometric Modeling`, `Monte Carlo Simulation`, `Frank Bass Diffusion Curves`, `Epidemiological Funnel Modeling`, `AIFA Market Access & Payback`, `Sales Force Sizing (SFS)`, `Financial Valuation (FCFF / rNPV)`, `FastAPI`, `Python`, `React 19`, `TypeScript`, `Microsoft Azure Container Apps`, `Bicep (IaC)`, `Docker`, `GxP / GDPR Compliance`.
 
 ---
 
@@ -75,12 +74,12 @@ This foundation powers my executive leadership and entrepreneurial ventures: sta
 
 * **Executive Technical Leadership & Software Portfolio**: Co-founded **ForMinds** alongside Mirko Campari (Manager), Edoardo Del Sarto, and Tommaso Muraca, directing the technical vision, engineering standards, and the active delivery of numerous custom software systems and corporate training academies across industries (a curated selection of key projects is presented below).
 * **Corporate Academies & Enterprise Delivery via Intermediary Partners**: Designed and delivered high-impact enterprise training tracks (Generative AI, agentic systems, modern software engineering) on behalf of leading intermediary consulting and training partner firms for major corporations (**MSC, UniCredit, Banca Monte dei Paschi di Siena, Autostrade per l'Italia, Piaggio Group, Lear Corporation**).
-* **Enterprise Pharmaceutical Demand Forecasting Platform (Flagship Project - Client: BHAVE Rome)**: Among multiple custom software solutions developed in ForMinds, spearheaded the initial end-to-end architecture of the **Pharmaceutical Demand & Sales Forecasting Platform** commissioned by client **BHAVE** in Rome (subsequently expanded into the 10-module ecosystem with direct appointment as CTO of BHAVE).
+* **Enterprise Pharmaceutical Demand Forecasting Platform (Flagship Project - Client: Bhave Rome)**: Among multiple custom software solutions developed in ForMinds, spearheaded the initial end-to-end architecture of the **Pharmaceutical Demand & Sales Forecasting Platform** commissioned by client **Bhave** in Rome (subsequently expanded into the 10-module ecosystem with direct appointment as CTO of Bhave).
 * **Mission-Critical Precision, Speed & Security**: Architected the pharma platform for ultra-high mathematical precision, sub-second inference latency, strict data governance, end-to-end encryption, and compliance with rigorous pharmaceutical industry standards (**GxP / GDPR**).
 * **Tier-1 Enterprise Delivery Vehicle**: Operationalized ForMinds as the strategic execution vehicle for high-stakes AI integration, custom software architectures, and executive prompt engineering for major corporate accounts.
 
 * **Core Skills & Technical Environment**:
-  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Custom Software Development`, `Pharmaceutical Demand Forecasting (BHAVE Rome)`, `Quantitative Modeling`, `Time Series Forecasting`, `High-Precision Analytics`, `Enterprise AI Consulting`, `Corporate IT Training (via Partners)`, `Software Architecture`, `FastAPI`, `Python`, `Microservices`, `Docker`, `Cloud Security & Data Governance`, `GxP / GDPR Compliance`, `Executive Leadership`.
+  `ForMinds`, `Chief Technology Officer (CTO)`, `Startup Co-Founder`, `Custom Software Development`, `Pharmaceutical Demand Forecasting (Bhave Rome)`, `Quantitative Modeling`, `Time Series Forecasting`, `High-Precision Analytics`, `Enterprise AI Consulting`, `Corporate IT Training (via Partners)`, `Software Architecture`, `FastAPI`, `Python`, `Microservices`, `Docker`, `Cloud Security & Data Governance`, `GxP / GDPR Compliance`, `Executive Leadership`.
 
 ---
 
@@ -173,17 +172,17 @@ This foundation powers my executive leadership and entrepreneurial ventures: sta
 
 ---
 
-### **Senior Lecturer & Master Faculty (Advanced AI, CV, NLP & Full-Stack AI)** | **Epicode**
+### **Senior Lecturer, Specialized Module Author & Master Faculty** | **Epicode**
 *2024 – Present • Italy (Remote)*  
-*Program: **Master in Python, AI & Machine Learning** (Advanced Specialization Tracks & Capstone)*
+*Program: [**Master in Python, AI & Machine Learning**](https://epicode.com/it/python-ai-machine-learning-on-demand/) (Author & Lead Lecturer for Modules from Deep Learning onwards, Live Coaching & Practical Evaluation)*
 
-* **Deep Learning Specialization**: Instructed the advanced modules of the Master program covering deep neural networks, loss functions, backpropagation mechanics, convolutional neural networks (**CNNs**), recurrent models, and modern **Transformer** architectures utilizing **PyTorch** and **TensorFlow**.
-* **Computer Vision (CV) & Natural Language Processing (NLP)**: Led intensive modules on real-time computer vision, object detection, and image segmentation (**OpenCV**, **YOLO**), alongside modern NLP pipelines, text embeddings, semantic tokenization, and transformer models via **Hugging Face**.
-* **Generative AI & Full-Stack AI Process**: Directed end-to-end full-stack AI deployment, teaching students how to bridge the gap between model inference and production apps via **FastAPI**, **Docker**, microservice APIs, Retrieval-Augmented Generation (**RAG**), and frontend integration.
-* **Capstone Project Supervision & Final Evaluation**: Acted as technical supervisor and lead committee evaluator for final real-world **Capstone Projects**, auditing software architecture, model accuracy, engineering best practices, and code maintainability.
+* **Author & Lecturer of Recorded On-Demand Modules (from Deep Learning onwards)**: Authored and recorded all official on-demand video lectures for the entire advanced half of the Master program (**Deep Learning**, **Computer Vision & NLP**, **Generative AI & Full-Stack AI Process**), taking students from neural network theory to end-to-end production AI deployment.
+* **Deep Learning & Neural Networks Module**: Instructed comprehensive modules on Artificial Neural Networks (**ANNs**), activation and loss functions, **Backpropagation** and optimization mechanics, Convolutional Neural Networks (**CNNs**) for vision, Recurrent Neural Networks (**RNNs & LSTMs**) for sequential data, and practical model training with **TensorFlow, Keras, and PyTorch**.
+* **Computer Vision (CV), NLP & Generative AI (GANs, VAEs, LLMs)**: Directed specialized modules on image processing, Object Detection, and Face Recognition (**OpenCV, YOLO**), Natural Language Processing (tokenization, stemming, text analytics, **Hugging Face Transformers**), Generative Adversarial Networks (**GANs**), **Variational Autoencoders (VAEs)**, **LLM API integration (OpenAI/ChatGPT)**, and full-stack AI pipelines (**FastAPI, Docker**).
+* **Live Enhancement Classes, Assignment Grading & Capstone Evaluation**: Lead **live enhancement and Q&A sessions** ("lezioni di potenziamento live") to consolidate student mastery; personally **grade and review participants' practical assignments** across all advanced modules; serve as **Capstone Committee President** for the evaluation and approval of final Master projects.
 
 * **Core Skills & Technical Environment**:
-  `Epicode`, `Master in Python, AI & Machine Learning`, `Deep Learning (DL)`, `Computer Vision (CV)`, `Natural Language Processing (NLP)`, `OpenCV`, `YOLO (Object Detection)`, `Transformers`, `Hugging Face`, `PyTorch`, `TensorFlow`, `Generative AI`, `Full-Stack AI`, `FastAPI`, `Model Serving & APIs`, `Docker`, `Python`, `Capstone Project Mentorship`, `Technical Assessment`, `Neural Networks (CNNs/RNNs)`.
+  `Epicode`, `Master in Python, AI & Machine Learning`, `Deep Learning (DL)`, `Neural Networks (ANN, CNN, RNN, LSTM, GAN, VAE, Transformers)`, `TensorFlow`, `Keras`, `PyTorch`, `Computer Vision (CV)`, `OpenCV`, `YOLO (Object Detection)`, `Natural Language Processing (NLP)`, `Hugging Face`, `Generative AI & LLM APIs`, `FastAPI`, `Docker`, `Live Enhancement Coaching`, `Assignment Grading & Capstone Evaluation`.
 
 ---
 
@@ -204,19 +203,17 @@ This foundation powers my executive leadership and entrepreneurial ventures: sta
 
 ### **Founder, Lead Software Architect & Data Scientist** | **Ultralimes Marketing**
 *2025 – Present • Pisa / Remote, Italy*  
-*(Full R&D & Engine Development in 2025 • Commercial Rollout & Live Production Deployment in 2026)*  
-*Key Enterprise & Commercial Clients: **Profice**, **ACUS**, **Tuscany Likes Events and PR***
+*(Full R&D & Engine Development in 2025 • Commercial Rollout & Active Client Production in 2026)*  
+*Enterprise & Commercial Clients: **Profice**, **ACUS**, **Tuscany Likes Events and PR**, and **SMEs (PMI)***
 
-* **End-to-End Product Conception & SaaS Engineering**: Conceived, architected, and engineered a proprietary AI-powered market intelligence and marketing analytics SaaS platform from scratch through 12 months of dedicated R&D in 2025, reaching full commercial rollout in 2026.
-* **Custom Enterprise Solutions & Multi-Property PMS (Tuscany Likes Events and PR)**: Engineered a comprehensive multi-villa luxury hospitality platform and custom Property Management System (PMS); unified booking calendars, real-time room availability, lease management, and reservation workflows across an entire portfolio of high-end luxury villas in Pisa.
-* **Cloud Infrastructure & Server Administration (DevOps)**: Configured, deployed, and maintain production Linux cloud environments (Ubuntu, Docker containers, Nginx reverse proxy, SSL/TLS, automated CI/CD pipelines, firewall security, and automated database backups).
-* **High-Performance Backend & Asynchronous APIs**: Engineered resilient RESTful APIs and microservices using **Python (FastAPI)** and asynchronous runtimes, backed by **PostgreSQL** relational storage and **Redis** caching layers to ensure low-latency data querying under concurrent traffic.
-* **Distributed Web Scraping & Data Extraction Pipelines**: Designed large-scale, anti-bot-resistant data harvesting pipelines leveraging **Playwright**, **BeautifulSoup**, and asynchronous task workers (**Celery** / `asyncio`), extracting, cleaning, and structuring millions of web data points.
-* **Proprietary Predictive Algorithms & AI Integration**: Developed custom statistical models and predictive market analysis algorithms; integrated LLM synthesis pipelines to transform unstructured web data into automated sentiment reports and tailored commercial intelligence.
-* **Commercial Growth & Team Management**: Sourced and negotiated enterprise accounts (including **Profice** and **ACUS**); manage and mentor a part-time technical collaborator, overseeing task delegation, code quality audits, and operational deliverables.
+* **AI-Driven Marketing for SMEs (PMI) Powered by Proprietary Software & Algorithms**: Conceived, architected, and engineered a proprietary **data-driven marketing service and SaaS platform for general SMEs (PMI) and B2B companies**, powered by custom software, predictive algorithms, and **integrated Artificial Intelligence** developed entirely in-house (12 months of R&D in 2025, full commercial production in 2026).
+* **Active B2B & Enterprise Service Delivery (Profice, ACUS & SMEs)**: Deliver ongoing AI-assisted marketing, competitive market intelligence, and lead generation services to commercial and enterprise clients—including **Profice** (active client of the Ultralimes service), **ACUS**, and general **SMEs**—automating market positioning analysis and campaign optimization.
+* **Custom Enterprise Solutions & Multi-Property PMS (Tuscany Likes Events and PR)**: Engineered a comprehensive multi-villa luxury hospitality platform, digital marketing funnel, and custom Property Management System (PMS); unified booking calendars, real-time room availability, lease management, and reservation workflows across high-end luxury villas in Pisa.
+* **Cloud Infrastructure, Asynchronous Backend & Distributed Web Scraping**: Architected high-performance microservices using **Python (FastAPI)**, **PostgreSQL**, **Redis**, and large-scale data harvesting pipelines (**Playwright, BeautifulSoup, Celery / asyncio**) deployed on Linux cloud servers (Ubuntu, **Docker**, **Nginx**, SSL/TLS, CI/CD).
+* **Proprietary Predictive Models & Integrated AI Synthesis**: Developed statistical forecasting models for SME market trends and integrated **LLM** pipelines to generate automated sentiment reports, competitive insights, and qualified commercial leads; manage and mentor a part-time technical collaborator.
 
 * **Core Skills & Technical Environment**:
-  `SaaS Architecture`, `Multi-Tenant Architecture`, `Property Management Systems (PMS)`, `Hospitality Tech & Booking Engines`, `Python`, `FastAPI`, `PostgreSQL`, `Redis`, `Distributed Web Scraping`, `Playwright`, `Selenium`, `BeautifulSoup`, `Asyncio`, `Celery (Task Queues)`, `Proprietary Predictive Algorithms`, `Market Intelligence`, `Docker`, `Nginx`, `Linux Server Administration (DevOps)`, `CI/CD Pipelines`, `RESTful APIs`, `Tuscany Likes Events and PR`, `ACUS`, `Profice`, `B2B Client Acquisition`, `Team Leadership`, `Startup Founder`, `Ultralimes Marketing`.
+  `AI-Driven Marketing for SMEs (PMI)`, `Proprietary SaaS Architecture`, `Predictive Marketing Algorithms`, `Market Intelligence & Lead Generation`, `Property Management Systems (PMS)`, `Python`, `FastAPI`, `PostgreSQL`, `Redis`, `Distributed Web Scraping`, `Playwright`, `BeautifulSoup`, `Asyncio`, `Celery`, `Docker`, `Nginx`, `Linux Server Administration (DevOps)`, `Profice (Client)`, `ACUS (Client)`, `Tuscany Likes Events and PR`, `Team Leadership`, `Startup Founder`, `Ultralimes Marketing`.
 
 ---
 
@@ -229,7 +226,7 @@ This foundation powers my executive leadership and entrepreneurial ventures: sta
 * **Bicentennial Luxury Yacht Production (Cantieri Navali Codecasa)**: Directed and produced the official celebration film for the prestigious **200-Year Bicentennial of Cantieri Navali Codecasa** (one of the world's most renowned luxury mega-yacht shipbuilders), capturing maritime engineering excellence, gala events, and legacy heritage.
 * **Industrial Media Production (Solvay Group)**: Produced high-impact corporate, technical, and industrial media assets for the **Solvay Massa Plant**, adhering to strict industrial safety standards and corporate visual guidelines for a global multinational.
 * **End-to-End Post-Production & Color Grading**: Mastered high-end post-production pipelines using **DaVinci Resolve**, **Adobe Premiere Pro**, and **After Effects**; executed advanced color grading (ACES / RAW pipelines, LUT development, dynamic range mastering) and multi-track audio engineering.
-* **Synergy with Ultralimes Marketing Engine**: Engineered seamless multimedia content pipelines providing high-resolution photo and cinematic video assets for digital marketing funnels, luxury hospitality web portals (such as the Tuscany Likes Multi-Villa PMS), and multimodal visual AI pipelines.
+* **Synergy with Ultralimes Marketing Engine**: Engineered seamless multimedia content pipelines providing high-resolution photo and cinematic video assets for SME digital marketing funnels, luxury hospitality web portals (such as the Tuscany Likes Multi-Villa PMS), and multimodal visual AI pipelines.
 
 * **Core Skills & Technical Environment**:
   `Digital Cinema & Video Production`, `Cinematography`, `Video Editing`, `Color Grading`, `DaVinci Resolve`, `Adobe Premiere Pro`, `Adobe After Effects`, `ACES Color Management`, `RAW Video Pipelines`, `Lighting Design`, `Audio Post-Production`, `Creative Direction`, `Cantieri Navali Codecasa (200 Years Anniversary)`, `Solvay Group (Massa)`, `Luxury Destination Weddings & Events`, `Multimedia Marketing`, `Cross-Platform Synergy with Ultralimes`, `Golden Bloom Studio`.
@@ -246,11 +243,11 @@ This foundation powers my executive leadership and entrepreneurial ventures: sta
 * **LLM Evaluation & MLOps**: **DeepEval**, **MLflow**, LLM Output Benchmarking, Hallucination Detection & Mitigation, RAG Triad Metrics (Context Relevance, Faithfulness, Answer Relevance), Model Observability, Token Cost & Latency Optimization.
 
 ### 2. Data Science, Machine Learning & Deep Learning
-* **Deep Learning & Neural Architectures**: **PyTorch**, **TensorFlow**, Keras, Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs, LSTMs), Transformer Architectures, Backpropagation & Optimization Algorithms.
-* **Computer Vision (CV)**: **OpenCV**, **YOLO** (Real-Time Object Detection & Tracking), Image Classification, Semantic Segmentation, Feature Matching.
-* **Natural Language Processing (NLP)**: **Hugging Face Transformers**, Pretrained Tokenizers, Sentence Transformers, Spacy, NLTK, Sentiment Analysis, Text Embeddings.
+* **Deep Learning & Multi-Architecture Neural Networks**: **PyTorch**, **TensorFlow**, **Keras**, Artificial & Deep Neural Networks (**ANNs / DNNs**), Convolutional Neural Networks (**CNNs**), Recurrent Neural Networks (**RNNs, LSTMs**), Generative Adversarial Networks (**GANs**), **Variational Autoencoders (VAEs)**, **Transformer** Architectures, Backpropagation & Optimization Algorithms.
+* **Computer Vision (CV)**: **OpenCV**, **YOLO** (Real-Time Object Detection, Face Recognition & Tracking), Image Classification, Semantic Segmentation, Feature Matching.
+* **Natural Language Processing (NLP)**: **Hugging Face Transformers**, Tokenization, Stemming, Sentence Transformers, Spacy, NLTK, Sentiment Analysis, Text Embeddings.
 * **Statistical Modeling & Quantitative Analytics**: Probability Theory, Mathematical Statistics, Regression Analysis (Linear, Logistic, Polynomial), Hypothesis Testing, Feature Engineering, Exploratory Data Analysis (EDA), Dimensionality Reduction (PCA).
-* **Time Series & Predictive Analytics**: Pharmaceutical Demand Forecasting, Market Intelligence Modeling, Predictive Algorithms, Time Series Analysis (**ARIMA**, **Prophet**, **LightGBM**, **XGBoost**, **DeepAR**).
+* **Time Series & Predictive Analytics**: Pharmaceutical Demand Forecasting (Frank Bass Diffusion Curves, Monte Carlo Simulations, Epidemiological Funnels), SME Market Intelligence Modeling, Time Series Analysis (**ARIMA**, **Prophet**, **LightGBM**, **XGBoost**, **DeepAR**).
 * **Business Intelligence & Data Modeling**: **Microsoft Power BI**, **DAX (Data Analysis Expressions)**, **Power Query (M)**, Relational Star / Snowflake Schemas, Executive KPI Dashboards.
 * **Scientific Computing**: **Pandas**, **NumPy**, **SciPy**, **Statsmodels**, **Matplotlib**, **Seaborn**, **Plotly**.
 
@@ -264,7 +261,7 @@ This foundation powers my executive leadership and entrepreneurial ventures: sta
 * **Core Programming Languages**: **Python** (Advanced / Asyncio), **Java** (Java 8, Java 11, Java 17, Java 21), **SQL**, **JavaScript (ES6+)**, **TypeScript**, **R** (Statistical Computing).
 * **Backend Frameworks & Runtimes**: **FastAPI**, **Flask**, **Spring Boot 3**, **Spring Framework**, **Spring Data JPA**, **Hibernate ORM**, Celery (Distributed Task Queue), Asyncio.
 * **Architecture & Design**: Microservices Architecture, Clean Architecture, Domain-Driven Design (DDD), Event-Driven Architecture (EDA), SOLID Principles, Design Patterns, RESTful API Design, OpenAPI / Swagger Documentation.
-* **SaaS & Enterprise Systems**: Multi-Tenant SaaS Platforms, Property Management Systems (PMS), Booking & Reservation Engines, High-Concurrency Request Handling.
+* **SaaS & Enterprise Systems**: Multi-Tenant Marketing SaaS Platforms for SMEs, Property Management Systems (PMS), Booking & Reservation Engines, High-Concurrency Request Handling.
 
 ### 5. Frontend & Interactive Creative Web
 * **Frontend Frameworks & Libraries**: **React.js** (Hooks, Context, State Management), Modern JavaScript (ES6+), HTML5, CSS3, Responsive Design.
@@ -277,12 +274,12 @@ This foundation powers my executive leadership and entrepreneurial ventures: sta
 * **Distributed Web Scraping & Data Harvesting**: **Playwright**, **Selenium**, **BeautifulSoup4**, Anti-Bot Bypass, Dynamic Headless Crawling, Automated ETL Extraction Pipelines.
 
 ### 7. Cloud, DevOps, MLOps & Infrastructure
-* **Cloud Platforms & AI Engines**: **Amazon Web Services (AWS)** (SageMaker Studio, Pipelines, Feature Store, Model Registry, S3, Lambda, Glue, Athena, IAM, VPC), **Google Cloud Platform (GCP)** (Vertex AI, Gemini Enterprise, Workspace AI).
+* **Cloud Platforms & AI Engines**: **Microsoft Azure** (Container Apps, Bicep IaC), **Amazon Web Services (AWS)** (SageMaker Studio, Pipelines, Feature Store, Model Registry, S3, Lambda, Glue, Athena, IAM, VPC), **Google Cloud Platform (GCP)** (Vertex AI, Gemini Enterprise, Workspace AI).
 * **Containerization & Deployment**: **Docker**, **Docker Compose**, Containerized ML Model Serving, Microservice Containers.
 * **Server Administration & Networking**: **Linux Server Administration** (Ubuntu Server), **Nginx** (Reverse Proxy, SSL/TLS Termination, Load Balancing), VPS Management, SSH, Firewall Security (UFW).
 * **CI/CD & Version Control**: **Git**, **GitHub**, **GitLab CI/CD**, **Azure DevOps**, Postman API Testing.
 
 ### 8. Enterprise Domains, Leadership & Governance
 * **Executive Leadership**: Chief Technology Officer (CTO), Startup Co-Founder, Enterprise Training Leadership, Engineering Management, Team Mentoring & Code Review.
-* **Corporate Client Portfolio**: European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, bhave (Rome), Argo 3000, Epicode, Profice, ITConsulting.
+* **Corporate Client Portfolio**: European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, Bhave (Rome), Argo 3000, Epicode, Profice, ITConsulting.
 * **Regulated Industries & Compliance**: Pharmaceutical Demand Forecasting (GxP & GDPR), Banking & Financial Compliance, AI Safety Guardrails, Data Privacy & Confidentiality.

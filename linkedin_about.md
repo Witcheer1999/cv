@@ -25,10 +25,10 @@ I specialize in surgically embedding Artificial Intelligence and Business Intell
 Key Highlights & Track Record:
 • Corporate Training & Advisory: Trusted by multinational teams and industry leaders, including European Space Agency (ESA), EY, MSC (Mediterranean Shipping Company), UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio Group, and Lear Corporation (Fortune 500).
 • Tech Ventures & C-Level Leadership:
-  - Chief Technology Officer (CTO) & Head of AI & Quantitative R&D at BHAVE S.r.l. (from Nov 2026): Directing R&D and software engineering for a 10-module pharmaceutical AI & statistical intelligence ecosystem (drug sales forecasting, behavioral prescription modeling on Riemann spheres via RK4, AIFA market access & payback engines, and rNPV valuation on Azure).
+  - Chief Technology Officer (CTO) & Head of AI & Quantitative R&D at Bhave S.r.l. (from Nov 2026): Directing R&D and software engineering for a 10-module pharmaceutical AI & statistical intelligence ecosystem (drug sales forecasting with Frank Bass & Monte Carlo models, AIFA market access, sales force sizing, and rNPV financial valuation on Azure).
   - Co-Founder & CTO at ForMinds: Engineering custom enterprise software platforms and leading corporate AI academies.
-  - Founder at Ultralimes Marketing: Architecting proprietary SaaS market intelligence platforms with predictive analytics.
-• Core Focus: Agentic AI (CrewAI, LangChain, n8n), LLM Evaluation & MLOps (DeepEval, MLflow), Quantitative Pharma Forecasting & Statistical Modeling, Microsoft Power BI & DAX Data Modeling, Generative Multimodal Vision, and Scalable Cloud Architectures (Python/FastAPI, Docker, Azure, AWS).
+  - Founder at Ultralimes Marketing: Delivering AI-driven marketing for SMEs (PMI) and B2B clients (including Profice and ACUS) powered by proprietary software, predictive algorithms, and integrated AI.
+• Core Focus: Deep Learning & Neural Networks across all architectures (ANN, CNN, RNN/LSTM, GAN, VAE, Transformers — Author & Lead Lecturer of the advanced modules for Epicode's Master in Python, AI & ML), Agentic AI (CrewAI, LangChain, n8n), LLM Evaluation & MLOps (DeepEval, MLflow), Quantitative Pharma Forecasting, Microsoft Power BI & DAX, Generative Vision, and Cloud Architectures (Python/FastAPI, Docker, Azure, AWS).
 
 My background bridges quantitative Statistics with executive communication and creative direction—delivering deep technical precision alongside clear, C-level presentation skills.
 
@@ -44,12 +44,12 @@ My background bridges quantitative Statistics with executive communication and c
 I don't treat AI as an abstract experiment. Artificial Intelligence and Business Intelligence deliver value only when surgically embedded into real-world business operations.
 
 As a CTO, entrepreneur, and enterprise consultant, I bridge quantitative Statistics with modern software engineering to solve high-stakes challenges:
-• Trained and advised teams across European Space Agency (ESA), EY, MSC (Mediterranean Shipping Company), UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio Group, and Lear Corporation (Fortune 500).
-• CTO & Head of AI & Quantitative R&D at BHAVE S.r.l. (10-module pharmaceutical AI & statistical intelligence suite: drug sales forecasting, behavioral prescription modeling, AIFA payback & rNPV valuation).
+• Trained and advised teams across European Space Agency (ESA), EY, MSC (Mediterranean Shipping Company), UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio Group, and Lear Corporation (Fortune 500); Author & Lecturer for Epicode's Master in Python, AI & Machine Learning (Deep Learning onwards).
+• CTO & Head of AI & Quantitative R&D at Bhave S.r.l. (10-module pharmaceutical AI & statistical intelligence suite: drug sales forecasting, AIFA market access & rNPV valuation).
 • Co-Founder & CTO at ForMinds (custom enterprise software & corporate AI academies).
-• Founder at Ultralimes Marketing (proprietary market intelligence SaaS & predictive algorithms).
+• Founder at Ultralimes Marketing (AI-driven marketing for SMEs & B2B clients like Profice, powered by proprietary software and predictive algorithms).
 
-Core Expertise: Agentic AI, Quantitative Pharma Forecasting, Enterprise LLM Integration, Microsoft Power BI / DAX, Generative Vision, and Cloud Architectures.
+Core Expertise: Deep Learning & Neural Networks, Agentic AI, Quantitative Pharma Forecasting, Enterprise LLM Integration, Microsoft Power BI / DAX, Generative Vision, and Cloud Architectures.
 
 📩 Connect: mbagnoli999@gmail.com
 ```
@@ -67,12 +67,12 @@ Non credo nell'Intelligenza Artificiale come concetto teorico o esercizio accade
 Nel mio percorso come consulente e docente per alcune delle più grandi realtà industriali e istituzionali in Italia e in Europa — dal colosso marittimo e logistico globale MSC (Mediterranean Shipping Company), a giganti del banking come UniCredit e Monte dei Paschi di Siena, a colossi infrastrutturali come Autostrade per l'Italia, fino all'Agenzia Spaziale Europea (ESA), EY, Piaggio, Lear Corporation e Triboo Group — non sono mai entrato in azienda per "spiegare cos'è l'AI generica".
 Sono entrato per fare una cosa diversa: capire come lavorano le persone, identificare i colli di bottiglia e cucire l'AI e la Business Intelligence direttamente dentro i loro flussi di lavoro, nel rispetto rigoroso di compliance, sicurezza e governance.
 
-Lavorare sul campo con queste organizzazioni complesse mi ha insegnato qualcosa che nessun corso può insegnare: come pensano, decidono e scalano le grandi corporation. Ho imparato a dialogare sia con gli sviluppatori che devono gestire la latenza di un'API o il benchmarking di un modello (DeepEval, MLflow), sia con il C-Level che deve giustificare il ROI di un investimento tecnologico.
+Lavorare sul campo con queste organizzazioni complesse mi ha insegnato qualcosa che nessun corso può insegnare: come pensano, decidono e scalano le grandi corporation. Ho imparato a dialogare sia con gli sviluppatori che devono progettare Reti Neurali profonde (ANN, CNN, RNN, LSTM, GAN, VAE, Transformer — di cui sono autore e docente dei moduli dal Deep Learning in poi per il Master in Python, AI & Machine Learning di Epicode) o gestire il benchmarking di un modello (DeepEval, MLflow), sia con il C-Level che deve giustificare il ROI di un investimento tecnologico.
 
 Parallelamente, porto avanti la mia leadership tecnologica e visione imprenditoriale:
-• In BHAVE S.r.l. (Chief Technology Officer & Head of AI & Quantitative R&D, da Novembre 2026), dirigo la Ricerca e Sviluppo e l'ingegneria software di un ecosistema proprietario di 10 moduli basato su Statistica Avanzata e AI per il settore farmaceutico (previsione vendite farmaci con imbuti epidemiologici a 6 stadi, curve di Bass e simulazioni Monte Carlo, modellazione comportamentale prescrittiva su sfera di Riemann con integrazione RK4, Market Access / Payback AIFA e valutazione finanziaria rNPV su Microsoft Azure in conformità GxP).
+• In Bhave S.r.l. (Chief Technology Officer & Head of AI & Quantitative R&D, da Novembre 2026), dirigo la Ricerca e Sviluppo e l'ingegneria software di un ecosistema proprietario di 10 moduli basato su Statistica Avanzata e AI per il settore farmaceutico (previsione vendite farmaci con funnel epidemiologici, curve di Frank Bass e simulazioni Monte Carlo, Market Access / Payback AIFA, Sales Force Sizing e valutazione finanziaria rNPV su Microsoft Azure in conformità GxP).
 • In ForMinds (Co-Founder & CTO), sviluppiamo molteplici software custom e percorsi di corporate academy per grandi gruppi enterprise (erogati per conto di primarie società di consulenza e formazione partner intermediarie).
-• In Ultralimes Marketing (Founder), ho progettato e sviluppato da zero una piattaforma SaaS di market intelligence e data extraction, deployando architetture distribuite su server Linux e algoritmi predittivi proprietari.
+• In Ultralimes Marketing (Founder, Lead Software Architect & Data Scientist), erogo servizi di marketing data-driven per PMI generiche e clienti B2B/Enterprise (tra cui Profice, ACUS e Tuscany Likes Events and PR) grazie a una piattaforma SaaS, algoritmi predittivi e AI integrata interamente sviluppati da zero.
 
 Ciò che rende unico il mio approccio è la natura poliedrica del mio background: unisco la forma mentis analitica della Statistica quantitativa a una profonda sensibilità artistica (coltivata nella direzione video, nella fotografia di lusso con Golden Bloom Studio, nella scrittura, nel canto moderno e nell'opera lirica). 
 Questa convergenza mi permette di dominare non solo la logica dei numeri e del codice, ma anche l'architettura multimodale (Generative Vision, Stable Diffusion, ComfyUI, Google Gemini), il design dell'esperienza utente e la capacità di comunicare concetti complessi in modo limpido e trascinante.
@@ -87,8 +87,8 @@ Se la tua organizzazione vuole superare l'hype dell'AI ed entrare nella fase del
 ## ⚡ Versione 2: Sintetica / Elevator Pitch (per presentazioni o introduzioni CV)
 *Versione compatta ad altissimo impatto per CV o presentazioni executive:*
 
-> Imprenditore tecnologico, Chief Technology Officer e consulente di punta nell'integrazione enterprise dell'Intelligenza Artificiale e della Business Intelligence. Unisco il rigore analitico della Statistica quantitativa alla visione di un background poliedrico e artistico. 
+> Imprenditore tecnologico, Chief Technology Officer e consulente di punta nell'integrazione enterprise dell'Intelligenza Artificiale, delle Reti Neurali profonde e della Business Intelligence. Unisco il rigore analitico della Statistica quantitativa alla visione di un background poliedrico e artistico. 
 > 
 > Non porto nelle aziende presentazioni astratte sull'AI generica, ma integrazione chirurgica nei flussi di lavoro operativi, maturata affiancando sul campo realtà di massimo rilievo (European Space Agency, EY, MSC - Mediterranean Shipping Company, UniCredit, Banca MPS, Autostrade per l'Italia, Piaggio, Lear Corporation, Triboo Group). 
 > 
-> Da questa esperienza ho assorbito i meccanismi decisionali, di sicurezza e di scala delle grandi multinazionali, trasformandoli nel motore della mia leadership tecnologica e delle mie iniziative imprenditoriali (come CTO di BHAVE S.r.l. alla guida dell'ecosistema AI e statistico a 10 moduli per il forecasting farmaceutico, Co-Founder & CTO di ForMinds e Founder di Ultralimes).
+> Da questa esperienza ho assorbito i meccanismi decisionali, di sicurezza e di scala delle grandi multinazionali, trasformandoli nel motore della mia leadership tecnologica e delle mie iniziative imprenditoriali (come CTO di Bhave S.r.l. alla guida dell'ecosistema AI e statistico a 10 moduli per il forecasting farmaceutico, Co-Founder & CTO di ForMinds e Founder di Ultralimes Marketing).

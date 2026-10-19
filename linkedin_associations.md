@@ -12,21 +12,21 @@ Per ogni lavoro trovi:
 
 ---
 
-## 💼 1A. BHAVE S.r.l. – Chief Technology Officer (CTO) & Head of AI & Quantitative R&D
+## 💼 1A. Bhave S.r.l. – Chief Technology Officer (CTO) & Head of AI & Quantitative R&D
 
-* **Azienda**: BHAVE
+* **Azienda**: Bhave
 * **Qualifica / Titolo**: `Chief Technology Officer (CTO) & Head of AI & Quantitative R&D`
 * **Tipo di impiego**: A tempo pieno / A contratto (Executive Leadership)
 * **Data di inizio**: Novembre 2026 – Presente (Co-sviluppo architetturale dal 2026)
 * **Località**: Roma, Lazio, Italia • Ibrido / Da remoto
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Nominato Chief Technology Officer (CTO) per dirigere la ricerca statistico-matematica, l'ingegneria dell'Intelligenza Artificiale e lo sviluppo full-stack dell'ecosistema software proprietario di intelligence farmaceutica di BHAVE (articolato in 10 moduli integrati per la predizione delle vendite di farmaci, il market access e il decision support per il mondo pharma).
+Nominato Chief Technology Officer (CTO) per dirigere la ricerca statistico-matematica, l'ingegneria dell'Intelligenza Artificiale e lo sviluppo full-stack dell'ecosistema software proprietario di intelligence farmaceutica di Bhave (articolato in 10 moduli integrati per la predizione delle vendite di farmaci, l'analisi di mercato e il supporto decisionale per il mondo farmaceutico).
 
 Attività e responsabilità chiave:
 • Ecosistema Farmaceutico a 10 Moduli & R&D: Direzione architetturale dell'intera suite decisionale, coordinando ricerca statistica, AI generativa/predittiva e ingegneria del software.
-• Motore di Pharmaceutical Sales & Demand Forecasting (Modulo BEHATRIX SKULD v2.0): Architettura del grafo causale deterministico a 11 Step (latenza < 15 ms), con funnel epidemiologici clinici a 6 stadi, curve di adozione di Frank Bass, analog matching k-NN su oltre 115.000 farmaci e simulazioni stocastiche Monte Carlo a 10.000 iterazioni.
-• Modellazione Comportamentale & Regolatorio AIFA: Simulatori matematici continui (Runge-Kutta RK4 su varietà sferica di Riemann) per le dinamiche prescrittive mediche (GBDS-SSC), microservizio deterministico per i tetti di spesa AIFA (PAYBACK-REG), cascata Gross-to-Net (G2N), Patent Cliff / LoE, Sales Force Sizing (SFS) e valutazione finanziaria P&L / FCFF / rNPV.
+• Previsione Vendite Farmaci & Modelli Quantitativi: Architettura dei motori di forecasting della domanda farmaceutica basati su funnel epidemiologici clinici (demografia ISTAT, prevalenza/incidenza, linee di trattamento), curve classiche di diffusione di Frank Bass, serie storiche econometriche e simulazioni stocastiche Monte Carlo.
+• Market Access, Regolatorio AIFA, SFS & Valutazione Finanziaria: Moduli per l'analisi dei tetti di spesa e payback AIFA, cascata Gross-to-Net (G2N), Patent Cliff / LoE, dimensionamento delle reti di informatori scientifici (Sales Force Sizing - SFS) e valutazione finanziaria P&L / FCFF / WACC / rNPV con verifica automatizzata su Excel/OpenXML.
 • Architettura Cloud-Native su Microsoft Azure: Stack containerizzato a microservizi (Python 3.11 / FastAPI, React 19 + TypeScript, AI Copilot in streaming SSE, Docker, Bicep IaC su Azure Container Apps) conforme agli standard regolatori GxP e GDPR.
 
 ### 🏷️ Competenze da associare a questa esperienza:
@@ -56,7 +56,7 @@ Co-fondatore e Chief Technology Officer (CTO) di ForMinds, venture tecnologica s
 
 Attività e responsabilità:
 • Direzione Tecnologica (CTO): Definizione della roadmap architetturale, selezione dello stack software (Python/FastAPI, Docker, Microservizi, Cloud AWS/Azure) e coordinamento dei team ingegneristici.
-• Sviluppo Software Custom: Progettazione e guida del primo nucleo della piattaforma di Pharmaceutical Demand & Sales Forecasting per il cliente BHAVE di Roma (successivamente evoluta nell'ecosistema a 10 moduli con nomina diretta a CTO di BHAVE).
+• Sviluppo Software Custom: Progettazione e guida del primo nucleo della piattaforma di Pharmaceutical Demand & Sales Forecasting per il cliente Bhave di Roma (successivamente evoluta nell'ecosistema a 10 moduli con nomina diretta a CTO di Bhave).
 • Corporate AI Academy via Partner: Direzione ed erogazione di masterclass su AI Enterprise & Business Intelligence per primari clienti multinazionali (MSC, UniCredit, MPS, Autostrade, Piaggio, Lear), svolti su incarico di società partner intermediarie di consulenza e formazione.
 
 ### 🏷️ Competenze da associare a questa esperienza:
@@ -426,33 +426,34 @@ Moduli trattati:
 
 ---
 
-## 💼 13. Epicode – Master Lecturer (Python, AI & Machine Learning)
+## 💼 13. Epicode – Autore & Docente Master (Python, AI & Machine Learning)
 
 * **Azienda**: EPICODE
-* **Qualifica / Titolo**: Master Lecturer (Python, AI & Machine Learning)
-* **Tipo di impiego**: A contratto / Master Post-Laurea
+* **Qualifica / Titolo**: `Senior AI & Deep Learning Lecturer & Module Author (Master in Python, AI & ML)`
+* **Tipo di impiego**: A contratto / Master Post-Laurea ([epicode.com/it/python-ai-machine-learning-on-demand/](https://epicode.com/it/python-ai-machine-learning-on-demand/))
 * **Date**: 2024 – Presente
 * **Località**: Italia • Da remoto
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Docenza nei moduli conclusivi specialistici del Master in Python, AI & Machine Learning e Presidente di commissione d'esame per la valutazione dei Capstone Project finali.
+Autore e docente titolare dei moduli specialistici (dal Deep Learning fino a fine Master) del Master in Python, AI & Machine Learning di EPICODE (On-Demand & Live), incaricato della registrazione delle lezioni ufficiali, delle sessioni di potenziamento in diretta, della correzione dei progetti pratici e della commissione finale Capstone.
 
-Attività e materie di docenza:
-• Deep Learning Avanzato: Architetture neurali convoluzionali (CNN), modelli ricorrenti e architetture Transformer con PyTorch e TensorFlow.
-• Computer Vision & NLP: Pipeline di visione artificiale e object detection (OpenCV, YOLO) affiancate da Natural Language Processing, tokenizzazione e modelli Hugging Face.
-• Generative AI & Model Serving: Ingegnerizzazione dell'AI in applicazioni reali tramite FastAPI, Docker e pattern RAG.
-• Presidente Commissione Capstone: Auditing tecnico, collaudo architetturale e validazione delle tesi pratiche finali degli studenti.
+Attività e moduli di docenza:
+• Autore e Docente Lezioni Registrate (dal Deep Learning in poi): Ideazione e registrazione integrale delle video-lezioni ufficiali per tutta la seconda metà avanzata del Master (Deep Learning, Computer Vision & NLP, Generative AI & Full-Stack AI Process).
+• Deep Learning & Reti Neurali Multi-Architettura: Reti Neurali Artificiali (ANN), Backpropagation e ottimizzazione, Reti Convoluzionali (CNN), Reti Ricorrenti (RNN, LSTM) e addestramento modelli con TensorFlow, Keras e PyTorch.
+• Computer Vision, NLP & Generative AI: Image processing, Object Detection e Face Recognition (OpenCV, YOLO), NLP e Hugging Face Transformers, Reti Generative Avversarie (GAN), Variational Autoencoders (VAE), integrazione API con LLM (OpenAI/ChatGPT) e deployment full-stack (FastAPI, Docker).
+• Lezioni di Potenziamento Live, Correzione Compiti & Commissione Capstone: Conduzione delle lezioni di potenziamento in diretta (live) per gli iscritti, correzione e valutazione individuale dei compiti pratici dei partecipanti e Presidente di commissione per i Capstone Project finali.
 
 ### 🏷️ Competenze da associare a questa esperienza:
 * `Deep Learning (DL)`
+* `Artificial Neural Networks`
 * `Computer Vision`
 * `Natural Language Processing (NLP)`
-* `PyTorch`
 * `TensorFlow`
-* `Hugging Face`
+* `Keras`
+* `PyTorch`
+* `Generative AI`
 * `FastAPI`
-* `Capstone Project Supervision`
-* `Lecturing`
+* `Technical Training`
 
 ---
 
@@ -485,31 +486,33 @@ Contenuti trattati:
 
 ---
 
-## 💼 15. Ultralimes Marketing – Founder & Lead Software Architect
+## 💼 15. Ultralimes Marketing – Founder, Lead Software Architect & Data Scientist
 
 * **Azienda**: Ultralimes Marketing
-* **Qualifica / Titolo**: Founder & Lead Software Architect
+* **Qualifica / Titolo**: `Founder, Lead Software Architect & Data Scientist`
 * **Tipo di impiego**: Imprenditore
-* **Date**: Gennaio 2025 – Presente
+* **Date**: Gennaio 2025 – Presente (R&D e Sviluppo Motore nel 2025 • Produzione Attiva e Clienti dal 2026)
 * **Località**: Pisa / Italia • Da remoto
+* **Clienti Enterprise & Commerciali**: `Profice`, `ACUS`, `Tuscany Likes Events and PR` e `PMI`
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Ideazione, sviluppo e messa in produzione di una piattaforma SaaS proprietaria per l'intelligence di mercato e lo sviluppo di sistemi gestionali custom per strutture di prestigio.
+Fondatore e Lead Software Architect di Ultralimes Marketing: servizio e piattaforma SaaS di marketing data-driven per PMI generiche e aziende B2B, potenziato da software proprietario, algoritmi predittivi e Intelligenza Artificiale integrata sviluppati interamente in-house.
 
 Attività e risultati:
-• Piattaforma SaaS di Market Intelligence: Architettura distribuita su server Linux (FastAPI, PostgreSQL, Redis, Docker), scraping resiliente (Playwright, BeautifulSoup) e algoritmi predittivi proprietari.
-• Gestionale PMS Ville di Lusso (Tuscany Likes Events and PR): Sviluppo completo di un Property Management System per la gestione centralizzata di calendari, affitti e prenotazioni per ville esclusive a Pisa.
-• Gestione Operativa & Risorse: Amministrazione server e sicurezza cloud (Nginx, reverse proxy, SSL/TLS, UFW), contrattualistica B2B e coordinamento di una collaboratrice tecnica.
+• Marketing per PMI con Software, Algoritmi e AI Proprietari: Ideazione e sviluppo integrale di un motore SaaS per l'intelligence di mercato, l'analisi competitiva e l'ottimizzazione delle campagne marketing per PMI e aziende.
+• Clienti Enterprise & Commerciali (Profice, ACUS e PMI): Erogazione attiva del servizio di marketing AI-driven e lead intelligence per clienti B2B e corporate, tra cui Profice (cliente attivo del servizio Ultralimes), ACUS e PMI sul territorio.
+• Gestionale PMS Ville di Lusso (Tuscany Likes Events and PR): Sviluppo completo di un Property Management System e motore marketing per la gestione centralizzata di calendari, affitti e prenotazioni per ville di lusso a Pisa.
+• Stack Tecnologico & Infrastruttura Linux: Backend asincrono ad alte prestazioni (Python/FastAPI, PostgreSQL, Redis, Docker, Nginx), web scraping distribuito resiliente (Playwright, BeautifulSoup, Celery) e sintesi predittiva con LLM; coordinamento di una collaboratrice tecnica.
 
 ### 🏷️ Competenze da associare a questa esperienza:
+* `AI-Driven Marketing`
 * `Software as a Service (SaaS)`
 * `Software Architecture`
+* `Predictive Modeling`
 * `Property Management Systems (PMS)`
 * `Python (Programming Language)`
 * `FastAPI`
 * `PostgreSQL`
-* `Redis`
-* `Linux System Administration`
 * `Web Scraping`
 * `Entrepreneurship`
 
