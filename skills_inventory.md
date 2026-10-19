@@ -44,12 +44,12 @@
 ## 6. Data Science, Statistics & AI / Machine Learning
 * **Data Extraction & Web Harvesting**: Playwright, Selenium, BeautifulSoup4, Scrapy, Distributed Web Crawling, Anti-Bot Bypass, Asynchronous Data Pipelines (Celery, asyncio).
 * **Agentic AI & Multi-Agent Frameworks**: Agentic AI Architectures, CrewAI (Role-playing Autonomous Agents), LangChain, LangGraph, Tool Calling, Multi-Agent Collaboration, n8n Workflow Automation.
-* **LLM & Model Evaluation / MLOps**: DeepEval, MLflow, LLM Benchmarking, Hallucination Detection, RAG Triad Evaluation (Context Precision, Faithfulness, Answer Relevance), Model Observability, Latency & Token Cost Optimization.
+* **LLM & Model Evaluation / Explainable AI (XAI) & MLOps**: DeepEval, MLflow, Explainable AI (XAI), Model Risk Management (MRM), EU AI Act Compliance, LLM Benchmarking, Hallucination Detection, RAG Triad Evaluation (Context Precision, Faithfulness, Answer Relevance), Model Observability, Latency & Token Cost Optimization.
 * **AI, Deep Learning & Vision/NLP Frameworks**: PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV, YOLO (Real-Time Object Detection), Image Segmentation, Hugging Face Transformers, Tokenizers, NLTK, Spacy.
 * **Generative Visual AI & Multimodal Systems**: Stable Diffusion (SDXL, SD 1.5), ComfyUI Node Workflows, ControlNet, LoRA Fine-Tuning, Midjourney, DALL-E 3, Flux, Prompt-to-Image / Image-to-Image Pipelines, Computer Vision, Digital Video Synthesis.
 * **Full-Stack AI & Model Serving**: FastAPI, Flask, REST Model Endpoints, Streamlit, Dockerized Model Containers, Asynchronous Inference.
 * **Prompt Engineering & Cognitive Architectures**: Advanced Prompt Engineering, System Prompting, Chain-of-Thought (CoT), Tree-of-Thoughts, Few-Shot / Zero-Shot Learning, Structured Output Parsing (Pydantic / JSON Schemas), Context Window Optimization.
-* **Enterprise AI Integration & Governance**: Workflow Automation, Enterprise AI Integration, Banking & Financial AI Compliance, Data Privacy & GDPR, AI Security & Guardrails.
+* **Enterprise AI Integration & European Regulatory Governance**: EU AI Act Compliance, DORA (Digital Operational Resilience Act), Explainable AI (XAI), Model Risk Management (MRM), ECB/SSM Banking & Financial AI Compliance, Data Privacy & GDPR, AI Security & Guardrails.
 * **Data Science, Statistics & Analytics**: Exploratory Data Analysis (EDA), Statistical Modeling, Probability Theory, Quantitative Analysis, Hypothesis Testing, Regression Analysis, Time Series Forecasting, Feature Engineering.
 * **Scientific Computing & Visualization**: Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn, Plotly, Advanced SQL (CTEs, Window Functions).
 

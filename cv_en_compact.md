@@ -8,20 +8,11 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Professional Profile & Enterprise Training Suitability
 
-* **Executive Profile & Core Expertise**: CTO and AI consultant specialized in enterprise AI integration, **Deep Learning & Neural Networks (ANN, CNN, RNN, LSTM, GAN, VAE, Transformers)**, Agentic Systems, Business Intelligence, and predictive statistical modeling.
+* **Executive Profile & Core Expertise**: CTO and AI consultant specialized in enterprise AI integration, **Deep Learning & Neural Networks (ANN, CNN, RNN, LSTM, GAN, VAE, Transformers)**, Agentic Systems, **Explainable AI (XAI) & EU AI Act Governance**, Business Intelligence, and predictive statistical modeling.
 * **Instructional Focus**: ROI-driven pedagogy, alignment with enterprise production standards, live coaching sessions, and capstone project mentorship.
 * **Audience Adaptability**: Proven ability to engage both technical software engineering teams and non-technical C-Level executives.
-* **Bilingual Delivery**: Courses delivered fluently in **Italian** and **English (C1)** — official training tracks for ESA conducted entirely in English.
+* **Multilingual Delivery**: **Italian** (Native), **English C1** (official training tracks for ESA conducted in English), and **French C1** (EsaBac Diploma).
 * **Tier-1 Track Record**: Successfully instructed personnel across **ESA**, **EY**, **MSC**, **UniCredit**, **Banca MPS**, **Piaggio**, **Lear**, **Triboo**.
-
----
-
-## Education, Languages & Public Speaking
-
-* **University Education**: B.Sc. in Statistics *(in progress)* • Quantitative methods, statistical inference, predictive modeling.
-* **High School Diploma**: Liceo Scientifico Ulisse Dini (Pisa) • **Dual EsaBac Diploma** (Italian Scientific Baccalaureate + French Baccalauréat).
-* **Languages**: **English C1** (Delivery language for ESA) • **French C1** (EsaBac Diploma) • **Italian** (Native speaker).
-* **Public Speaking & Stage Presence**: Modern Contemporary Singing & Opera (vocal discipline and stage management) • Technical writing.
 
 ---
 
@@ -42,9 +33,9 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 ### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor**
 *Aug–Oct 2025 & Jul 2026 • Location: National HQ & Bari Hub / Hybrid*
 
-* **National AI Academy**: Directed the nationwide intensive Academy for junior developers at **EY Italy**, training them on production AI stacks, Agentic AI (**CrewAI, LangChain**), and automation via **n8n**.
-* **Capstone Project Direction**: Architectural auditing and code reviews on participants' enterprise capstone projects, enforcing Big 4 engineering standards.
-* **Bari Hub Bootcamp**: Advanced masterclass on Machine Learning pipelines, Neural Networks, and Data Science with Python (**Pandas, NumPy, Scikit-Learn**).
+* **National AI Academy**: Directed the nationwide intensive Academy for junior developers at **EY Italy**, training them on production AI stacks, Agentic AI (**CrewAI, LangChain**), **n8n**, LLM evaluation (**DeepEval, MLflow**), **Explainable AI (XAI)**, and **EU AI Act** compliance.
+* **Capstone Project Direction**: Architectural auditing, **Model Risk Management (MRM)**, and code reviews on participants' enterprise capstone projects under Big 4 standards.
+* **Bari Hub Bootcamp**: Advanced masterclass on Machine Learning pipelines, Neural Networks, model interpretability (**XAI**), and Data Science with Python (**Pandas, NumPy, Scikit-Learn**).
 
 ### **Triboo Group** | **Senior AI Consultant & Corporate Trainer**
 *Apr 2026 (1-month intensive) • Location: Milan (On-Site)*
@@ -64,7 +55,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 * **Delivery Model**: Technical masterclasses and executive workshops delivered **on behalf of leading intermediary training and consulting partners**.
 * **Business Intelligence & DAX (MSC - Sep 2026)**: Masterclass on Power BI, relational data modeling, DAX, and executive KPI fleet dashboards.
-* **Banking & Fintech (UniCredit & MPS)**: Prompt engineering for complex financial document processing, fully compliant with banking regulations and data privacy (GDPR).
+* **Banking, EU AI Act & ECB Supervision Compliance (UniCredit & MPS)**: Prompt engineering, **Explainable AI (XAI)**, and financial document workflows for systemic banks compliant with **EU AI Act**, **DORA**, **Model Risk Management (MRM)**, and **GDPR**.
 * **Manufacturing & Automotive (Piaggio & Lear - Fortune 500)**: Generative visual AI (Stable Diffusion, ComfyUI) for industrial design and technical documentation.
 * **Infrastructure (Autostrade per l'Italia)**: AI workflows to streamline maintenance ticketing, field reporting, and operational task synthesis.
 
@@ -107,7 +98,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Core Competency Matrix for Corporate Training & Advisory
 
-* **Teaching & Instruction Domains**: Deep Learning & Neural Networks (ANN, CNN, RNN/LSTM, GAN, VAE, Transformers), Generative AI, Prompt Engineering, Business Intelligence (Power BI, DAX), Agentic AI (CrewAI, LangChain, n8n), Machine Learning, LLM Evaluation & MLOps, Data Analytics & SQL, Modern Web Development for AI (React.js).
+* **Teaching & Instruction Domains**: Deep Learning & Neural Networks (ANN, CNN, RNN/LSTM, GAN, VAE, Transformers), Generative AI, Prompt Engineering, Explainable AI (XAI) & EU AI Act / DORA Governance, Business Intelligence (Power BI, DAX), Agentic AI (CrewAI, LangChain, n8n), Machine Learning, LLM Evaluation & MLOps (DeepEval, MLflow), Data Analytics & SQL, Modern Web Development for AI (React.js).
 * **Instructional Tech Stack**: Python (PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, FastAPI), Java (Spring Boot), Docker, Azure, AWS SageMaker, Google Gemini, SQL (PostgreSQL), React.js, Git.
 * **Pedagogical Methodology**: Practical hands-on labs, live enhancement coaching, assignment grading & capstone mentorship, fluent delivery in **English (C1)** and Italian.
 
@@ -115,3 +106,11 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Selected Enterprise Clients Trained & Partner Organizations
 European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, Leading Pharmaceutical Research Firm (Rome – NDA), Argo 3000, Epicode, Profice, ITConsulting.
+
+---
+
+## Education, Languages & Public Speaking
+
+* **High School Diploma**: Liceo Scientifico Ulisse Dini (Pisa) • **Dual EsaBac Diploma** (Italian Scientific Baccalaureate + French Baccalauréat).
+* **Languages & Public Speaking**: **English C1** (Delivery language for ESA) • **French C1** (EsaBac) • **Italian** (Native) • Modern Singing & Opera.
+* **University Education**: B.Sc. in Statistics *(in progress)* • Quantitative methods, statistical inference, predictive modeling.

@@ -86,20 +86,20 @@ Incarico di docenza specialistica ed erogazione dell'Academy nazionale intensiva
 
 Attività e moduli di insegnamento:
 • Agentic AI & Sistemi Multi-Agente: Programma avanzato su CrewAI, flussi agentici complessi con LangChain/LangGraph e automazione dei processi aziendali con n8n.
-• LLM Evaluation Frameworks & MLOps: Testing sistematico dell'affidabilità dei modelli linguistici, metriche RAG Triad e mitigazione delle allucinazioni con DeepEval e MLflow.
-• Supervisione Capstone Project: Auditing tecnico, code review e validazione architetturale dei progetti software finali secondo i rigorosi standard di produzione Big 4.
+• LLM Evaluation, Explainable AI (XAI), EU AI Act & MLOps: Testing sistematico dell'affidabilità dei modelli linguistici, Explainable AI (XAI), Model Risk Management (MRM), conformità all'EU AI Act, metriche RAG Triad e mitigazione delle allucinazioni con DeepEval e MLflow.
+• Supervisione Capstone Project: Auditing tecnico, code review e validazione architetturale dei progetti software finali secondo i rigorosi standard di produzione e governance Big 4.
 • Prompt Architecture Enterprise: Progettazione di template deterministici con schemi JSON per l'integrazione affidabile dei Large Language Models nei flussi di lavoro aziendali.
 
 ### 🏷️ Competenze da associare a questa esperienza:
 * `Artificial Intelligence (AI)`
 * `Agentic AI`
+* `Explainable AI (XAI)`
+* `EU AI Act`
 * `CrewAI`
 * `LangChain`
-* `Prompt Engineering`
 * `DeepEval`
 * `MLflow`
 * `n8n`
-* `Python (Programming Language)`
 * `Technical Training`
 
 ---
@@ -116,21 +116,21 @@ Attività e moduli di insegnamento:
 Incarico di docenza specialistica del bootcamp tecnico avanzato per gli ingegneri software e data specialists dell'Innovation Hub EY di Bari, commissionato ed erogato per conto di primaria società partner intermediaria.
 
 Attività e stack tecnologico didattico:
-• Reti Neurali & Deep Learning: Architetture neurali, reti feedforward, backpropagation e ottimizzazione dei modelli con PyTorch e TensorFlow.
-• Pipeline di Machine Learning di Produzione: Algoritmi supervisionati e non supervisionati, feature engineering statistica e modellazione predittiva con Python (Scikit-Learn, NumPy, Pandas, SciPy).
+• Reti Neurali, Deep Learning & Explainable AI (XAI): Architetture neurali, reti feedforward, backpropagation, interpretabilità delle decisioni dei modelli (XAI) e ottimizzazione con PyTorch e TensorFlow.
+• Pipeline di Machine Learning di Produzione & Governance: Algoritmi supervisionati e non supervisionati, feature engineering statistica, Model Risk Management (MRM) e modellazione predittiva con Python (Scikit-Learn, NumPy, Pandas, SciPy).
 • Analisi Dati Avanzata: Exploratory data analysis (EDA), estrazione e manipolazione di dati strutturati complessi (SQL) e integrazione con database vettoriali.
 • Laboratori Applicativi Pratici: Guida dei team ingegneristici nell'implementazione pratica di algoritmi predittivi su dataset aziendali e benchmark di accuratezza.
 
 ### 🏷️ Competenze da associare a questa esperienza:
 * `Machine Learning (ML)`
 * `Deep Learning (DL)`
+* `Explainable AI (XAI)`
 * `Data Analytics`
 * `PyTorch`
 * `Scikit-Learn`
 * `Pandas (Software)`
 * `NumPy`
 * `SQL`
-* `Python (Programming Language)`
 * `Technical Training`
 
 ---
@@ -238,16 +238,17 @@ Attività e impatto:
 Incarico di consulenza specialistica ed executive training sull'integrazione di Generative AI e Large Language Models (LLM) nei flussi operativi corporate di UniCredit, erogato su commissione di primaria società partner intermediaria di formazione e consulenza direzionale.
 
 Attività e impatto:
-• Architettura di framework avanzati di Prompt Engineering e System Prompting per l'elaborazione e analisi di documentazione bancaria complessa.
-• Implementazione di template deterministici con validazione schemi JSON per azzerare le allucinazioni e garantire output auditabili e affidabili.
-• Piena aderenza ai rigorosi standard di governance, riservatezza del dato e conformità privacy bancaria (GDPR).
+• Architettura di framework avanzati di Prompt Engineering, System Prompting ed Explainable AI (XAI) per l'elaborazione e analisi di documentazione bancaria complessa.
+• Implementazione di template deterministici con validazione schemi JSON per azzerare le allucinazioni e garantire output auditabili e trasparenti secondo i principi di Model Risk Management (MRM).
+• Piena aderenza ai rigorosi standard di vigilanza bancaria europea (BCE/SSM), EU AI Act, DORA (Digital Operational Resilience Act) e conformità privacy bancaria (GDPR).
 
 ### 🏷️ Competenze da associare a questa esperienza:
 * `Prompt Engineering`
 * `Generative AI`
-* `Large Language Models (LLM)`
+* `Explainable AI (XAI)`
+* `EU AI Act`
 * `Banking Compliance`
-* `Financial Services`
+* `Model Risk Management (MRM)`
 * `Data Privacy`
 * `General Data Protection Regulation (GDPR)`
 * `System Prompting`
@@ -263,19 +264,20 @@ Attività e impatto:
 * **Località**: Siena, Toscana, Italia • Da remoto / Ibrido
 
 ### 📝 Testo da incollare nel campo "Descrizione":
-Incarico di consulenza e formazione tecnica avanzata su Large Language Models (LLM) e prompt engineering applicato ai processi del settore bancario e finanziario, erogato su commissione di primaria società partner intermediaria.
+Incarico di consulenza e formazione tecnica avanzata su Large Language Models (LLM), Explainable AI (XAI) e prompt engineering applicato ai processi del settore bancario e finanziario, erogato su commissione di primaria società partner intermediaria.
 
 Attività e impatto:
-• Sviluppo di prompt strutturati (Few-Shot e Chain-of-Thought) per la catalogazione e la sintesi di pratiche e normative bancarie complesse.
-• Analisi e mitigazione del rischio operativo legato all'impiego dell'AI, con focus su sicurezza, governance del dato e isolamento dei carichi di lavoro.
-• Metodologie pratiche per l'integrazione di assistenti intelligenti nei flussi di lavoro degli analisti.
+• Sviluppo di prompt strutturati (Few-Shot e Chain-of-Thought) e flussi trasparenti (Explainable AI) per la catalogazione e la sintesi di pratiche e normative bancarie complesse.
+• Analisi e mitigazione del rischio operativo legato all'impiego dell'AI in allineamento con EU AI Act, DORA (Digital Operational Resilience Act), Model Risk Management (MRM) e standard di vigilanza bancaria europea.
+• Metodologie pratiche per l'integrazione sicura e conforme (GDPR) di assistenti intelligenti nei flussi di lavoro degli analisti.
 
 ### 🏷️ Competenze da associare a questa esperienza:
 * `Prompt Engineering`
 * `Generative AI`
+* `Explainable AI (XAI)`
+* `EU AI Act`
 * `Banking Compliance`
-* `Large Language Models (LLM)`
-* `Few-Shot Prompting`
+* `Model Risk Management (MRM)`
 * `Chain-of-Thought (CoT)`
 * `Data Governance`
 * `Risk Management`

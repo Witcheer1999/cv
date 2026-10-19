@@ -7,15 +7,7 @@ Work Authorization: EU Citizen
 
 ---
 
-## Profile & Background Summary
-
-### Education & Academic Background
-* **B.Sc. in Statistics (Corso di Laurea Triennale in Statistica)** *(In Progress / Ongoing)*
-  * *Core Focus*: Statistical Modeling, Probability Theory, Predictive Analytics, Regression Analysis, Quantitative Methods, Data Architecture.
-* **Liceo Scientifico Ulisse Dini (Pisa)** – **EsaBac Double Diploma**
-  * *Qualifications*: Italian Maturità Scientifica + French Baccalauréat (Double Italian-French Scientific Diploma).
-
----
+## Executive Profile & Background Summary
 
 ### Languages & Communication
 * **Italian**: Native Speaker
@@ -88,12 +80,12 @@ This foundation powers my executive leadership and entrepreneurial ventures: fol
 
 * **National Enterprise AI Academy for Junior Developer Hires (Aug – Oct 2025)**: Directed and delivered an intensive, nationwide AI & Software Engineering Academy designed for the **cohort of junior developers selected to be hired by EY Italy**, training and standardizing prospective enterprise talent on production AI engineering stacks.
 * **Agentic AI & Multi-Agent Orchestration**: Designed comprehensive curriculums covering **Agentic AI**, multi-agent role-playing systems with **CrewAI**, complex LLM agent workflows using **LangChain / LangGraph**, and visual workflow orchestration with **n8n** for enterprise process automation.
-* **LLM Evaluation, Benchmarking & MLOps**: Instructed rigorous AI evaluation frameworks and MLOps tooling, leveraging **DeepEval** and **MLflow** for hallucination detection, unit testing of LLM outputs, RAG evaluation metrics (Faithfulness, Answer Relevance), and model latency/cost tracking.
-* **Enterprise Capstone Project Direction & Architectural Auditing**: Directed and audited the real-world enterprise capstone project for EY Italia; conducted comprehensive code reviews, architectural validations, latency/accuracy benchmarks, and aligned participant codebases with EY production engineering standards.
-* **Advanced ML & Data Analytics for Development Teams (Jul 2026 - EY Bari)**: Delivered an advanced technical bootcamp for **EY Bari Hub**'s junior and mid-level software developers, focusing on production **Machine Learning (ML)** pipelines, advanced data manipulation with **Python (Pandas, NumPy, Scikit-Learn)**, statistical feature engineering, and relational/vector database integration.
+* **LLM Evaluation, Explainable AI (XAI), EU AI Act & MLOps**: Instructed rigorous AI evaluation frameworks, **Explainable AI (XAI)**, **Model Risk Management (MRM)**, and **EU AI Act** compliance, leveraging **DeepEval** and **MLflow** for hallucination detection, algorithmic auditability, unit testing of LLM outputs, RAG evaluation metrics (Faithfulness, Answer Relevance), and model latency/cost tracking.
+* **Enterprise Capstone Project Direction & Architectural Auditing**: Directed and audited the real-world enterprise capstone project for EY Italia; conducted comprehensive code reviews, architectural validations, latency/accuracy benchmarks, and aligned participant codebases with EY production engineering and AI governance standards.
+* **Advanced ML, Neural Networks & Data Analytics for Development Teams (Jul 2026 - EY Bari)**: Delivered an advanced technical bootcamp for **EY Bari Hub**'s junior and mid-level software developers, focusing on production **Machine Learning (ML)** and **Neural Network** pipelines, model interpretability (**XAI**), advanced data manipulation with **Python (Pandas, NumPy, Scikit-Learn)**, statistical feature engineering, and relational/vector database integration.
 
 * **Core Skills & Technical Environment**:
-  `EY (Ernst & Young)`, `Agentic AI`, `Multi-Agent Systems`, `CrewAI`, `LangChain`, `n8n (Workflow Automation)`, `DeepEval (LLM Evaluation)`, `MLflow (MLOps)`, `Artificial Intelligence (AI)`, `Machine Learning (ML)`, `Deep Learning (DL)`, `Large Language Models (LLMs)`, `RAG Evaluation`, `Python`, `Scikit-Learn`, `Pandas`, `NumPy`, `Vector Databases`, `Relational Databases (SQL)`, `Enterprise Training Leadership`, `Big 4 Enterprise Consulting`.
+  `EY (Ernst & Young)`, `Agentic AI`, `Multi-Agent Systems`, `CrewAI`, `LangChain`, `n8n (Workflow Automation)`, `DeepEval (LLM Evaluation)`, `MLflow (MLOps)`, `EU AI Act & AI Governance`, `Explainable AI (XAI)`, `Model Risk Management (MRM)`, `Artificial Intelligence (AI)`, `Machine Learning (ML)`, `Deep Learning (DL)`, `Large Language Models (LLMs)`, `RAG Evaluation`, `Python`, `Scikit-Learn`, `Pandas`, `NumPy`, `Vector Databases`, `Relational Databases (SQL)`, `Enterprise Training Leadership`, `Big 4 Enterprise Consulting`.
 
 ---
 
@@ -132,14 +124,14 @@ This foundation powers my executive leadership and entrepreneurial ventures: fol
 
 * **Delivery Model via Intermediary Partners**: Commissioned and executed advanced corporate training programs, executive workshops, and applied AI & Business Intelligence advisory on behalf of leading intermediary training and management consulting partners for their tier-1 enterprise clients.
 * **Business Intelligence, Data Modeling & Executive Dashboards (MSC - Sep 2026)**: Designed and delivered an intensive corporate masterclass on **Microsoft Power BI** for the multinational personnel of global shipping and logistics giant **MSC (Mediterranean Shipping Company)**; covering complex relational data modeling (star and snowflake schemas), advanced analytical calculations with **DAX** expressions (Time Intelligence, iterators, dynamic measures), ETL and ingestion pipelines with **Power Query (M language)**, and the engineering of interactive executive dashboards for real-time fleet and operational logistics KPI tracking.
-* **Banking & Fintech AI Integration (UniCredit & Monte dei Paschi di Siena)**: Architected production-grade prompt engineering frameworks, deterministic JSON schema outputs, and automated LLM workflow pipelines for corporate banking, ensuring strict compliance with financial privacy regulations, audit standards, and data governance.
+* **Banking & Fintech AI Integration, EU AI Act & ECB Supervision Compliance (UniCredit & Monte dei Paschi di Siena)**: Architected production-grade prompt engineering frameworks, deterministic JSON schema outputs, **Explainable AI (XAI)**, and automated LLM workflow pipelines for systemic corporate banking institutions (ECB/SSM Significant Institutions), ensuring strict compliance with the **EU AI Act**, **DORA (Digital Operational Resilience Act)**, **Model Risk Management (MRM)**, financial audit standards, and data privacy (**GDPR**).
 * **Critical Infrastructure Workflow Optimization (Autostrade per l'Italia)**: Engineered custom AI workflow integrations embedding LLMs into internal ticketing, incident reporting, and operational documentation pipelines, substantially reducing manual cycle times and operational friction.
 * **Generative Visual AI & Industrial Design Synthesis (Piaggio Group)**: Spearheaded cutting-edge **Generative Image & Multimodal AI** consulting (leveraging deep technical background in professional photography and video production). Deployed workflows using **Stable Diffusion (SDXL / ComfyUI / ControlNet)**, **Midjourney**, and **DALL-E 3** to accelerate product design prototyping, digital asset creation, and marketing visualization.
 * **Global Manufacturing Process Re-engineering (Lear Corporation - Fortune 500)**: Delivered strategic AI workflow integration and prompt architecture consulting for corporate engineering teams, optimizing supply-chain communication, internal knowledge extraction, and cross-departmental documentation.
 * **End-to-End Enterprise Workflow Embeddings**: Authored robust system prompts, Chain-of-Thought (CoT) reasoning templates, and automated API-driven middleware (Python, REST, n8n) to seamlessly integrate AI intelligence into existing enterprise ERP, CRM, and collaboration ecosystems.
 
 * **Core Skills & Technical Environment**:
-  `Microsoft Power BI`, `DAX (Data Analysis Expressions)`, `Power Query (M Language)`, `Business Intelligence (BI)`, `Executive Dashboarding`, `Prompt Engineering`, `Corporate Training via Partners`, `System Prompting`, `Few-Shot Learning`, `Chain-of-Thought (CoT)`, `Generative AI`, `Image Generation (Generative Vision)`, `Stable Diffusion (SDXL)`, `ComfyUI`, `ControlNet`, `Midjourney`, `DALL-E 3`, `Multimodal AI`, `Workflow Automation`, `n8n`, `Enterprise AI Integration`, `MSC (Mediterranean Shipping Company)`, `Banca Monte dei Paschi di Siena (MPS)`, `UniCredit Group`, `Autostrade per l'Italia`, `Piaggio Group`, `Lear Corporation (Fortune 500)`, `Banking AI Compliance`, `Data Privacy & GDPR`, `Digital Transformation`, `Python`, `REST APIs`.
+  `Microsoft Power BI`, `DAX (Data Analysis Expressions)`, `Power Query (M Language)`, `Business Intelligence (BI)`, `Executive Dashboarding`, `Prompt Engineering`, `Corporate Training via Partners`, `System Prompting`, `Few-Shot Learning`, `Chain-of-Thought (CoT)`, `Generative AI`, `Image Generation (Generative Vision)`, `Stable Diffusion (SDXL)`, `ComfyUI`, `ControlNet`, `Midjourney`, `DALL-E 3`, `Multimodal AI`, `Workflow Automation`, `n8n`, `Enterprise AI Integration`, `MSC (Mediterranean Shipping Company)`, `Banca Monte dei Paschi di Siena (MPS)`, `UniCredit Group`, `Autostrade per l'Italia`, `Piaggio Group`, `Lear Corporation (Fortune 500)`, `EU AI Act & DORA Compliance`, `Explainable AI (XAI)`, `Model Risk Management (MRM)`, `ECB/SSM Banking AI Compliance`, `Data Privacy & GDPR`, `Digital Transformation`, `Python`, `REST APIs`.
 
 ---
 
@@ -240,7 +232,7 @@ This foundation powers my executive leadership and entrepreneurial ventures: fol
 * **Large Language Models (LLMs) & Generative AI**: OpenAI GPT-4 / GPT-4o, Google Gemini Suite (Gemini 1.5 Pro/Flash, Gemini Advanced, Gemini Enterprise), Anthropic Claude, Open-Source LLMs (Llama 3, Mistral, Qwen).
 * **Prompt Engineering & Cognitive Architectures**: Advanced System Prompting, Chain-of-Thought (CoT), Tree-of-Thoughts, Few-Shot / Zero-Shot Prompting, ReAct Framework, Structured JSON / Pydantic Output Parsing, Context Window Optimization.
 * **Retrieval-Augmented Generation (RAG) & Vector Search**: RAG Architectures, Vector Embeddings, Semantic Search, Chunking Strategies, Vector Databases (**ChromaDB**, **FAISS**, **Pinecone**, **Qdrant**).
-* **LLM Evaluation & MLOps**: **DeepEval**, **MLflow**, LLM Output Benchmarking, Hallucination Detection & Mitigation, RAG Triad Metrics (Context Relevance, Faithfulness, Answer Relevance), Model Observability, Token Cost & Latency Optimization.
+* **LLM Evaluation, Explainable AI (XAI) & MLOps**: **DeepEval**, **MLflow**, **Explainable AI (XAI)**, **Model Risk Management (MRM)**, **EU AI Act Compliance**, LLM Output Benchmarking, Hallucination Detection & Mitigation, RAG Triad Metrics (Context Relevance, Faithfulness, Answer Relevance), Model Observability, Token Cost & Latency Optimization.
 
 ### 2. Data Science, Machine Learning & Deep Learning
 * **Deep Learning & Multi-Architecture Neural Networks**: **PyTorch**, **TensorFlow**, **Keras**, Artificial & Deep Neural Networks (**ANNs / DNNs**), Convolutional Neural Networks (**CNNs**), Recurrent Neural Networks (**RNNs, LSTMs**), Generative Adversarial Networks (**GANs**), **Variational Autoencoders (VAEs)**, **Transformer** Architectures, Backpropagation & Optimization Algorithms.
@@ -282,4 +274,12 @@ This foundation powers my executive leadership and entrepreneurial ventures: fol
 ### 8. Enterprise Domains, Leadership & Governance
 * **Executive Leadership**: Chief Technology Officer (CTO), Startup Co-Founder, Enterprise Training Leadership, Engineering Management, Team Mentoring & Code Review.
 * **Corporate Client Portfolio**: European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Triboo Group, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Piaggio Group, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Solvay Group, Leading Pharmaceutical Research Firm (Rome – NDA), Argo 3000, Epicode, Profice, ITConsulting.
-* **Regulated Industries & Compliance**: Pharmaceutical Demand Forecasting (GxP & GDPR), Banking & Financial Compliance, AI Safety Guardrails, Data Privacy & Confidentiality.
+* **Regulated Industries, Banking Supervision & EU Compliance**: **EU AI Act Compliance**, **DORA (Digital Operational Resilience Act)**, **Explainable AI (XAI)**, **Model Risk Management (MRM)**, Banking & Financial Compliance (ECB/SSM Supervisory Standards), Pharmaceutical Demand Forecasting (GxP & GDPR), AI Safety Guardrails, Data Privacy & Confidentiality.
+
+---
+
+## Education & Academic Background
+* **Liceo Scientifico Ulisse Dini (Pisa)** – **EsaBac Double Diploma**
+  * *Qualifications*: Italian Maturità Scientifica + French Baccalauréat (Double Italian-French Scientific Diploma).
+* **B.Sc. in Statistics (Corso di Laurea Triennale in Statistica)** *(In Progress / Ongoing)*
+  * *Core Focus*: Statistical Modeling, Probability Theory, Predictive Analytics, Regression Analysis, Quantitative Methods, Data Architecture.

@@ -8,20 +8,11 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Profilo Professionale & Idoneità Docenze Enterprise
 
-* **Profilo Esecutivo & Competenze Core**: CTO e consulente specializzato nell'integrazione di AI enterprise, **Reti Neurali profonde (ANN, CNN, RNN, LSTM, GAN, VAE, Transformer)**, Sistemi Agentici, Business Intelligence e modellazione statistica predittiva.
+* **Profilo Esecutivo & Competenze Core**: CTO e consulente specializzato nell'integrazione di AI enterprise, **Reti Neurali profonde (ANN, CNN, RNN, LSTM, GAN, VAE, Transformer)**, Sistemi Agentici, **Explainable AI (XAI) & EU AI Act Governance**, Business Intelligence e modellazione statistica predittiva.
 * **Format Didattico**: Didattica orientata al ROI, allineamento agli standard di produzione enterprise, lezioni di potenziamento live e revisione capstone.
 * **Adattabilità Pubblico**: Comprovata capacità di calibrare il registro sia per sviluppatori tecnici che per figure manageriali C-Level.
-* **Erogazione Multilingua**: Corsi tenuti correntemente in **Italiano** e **Inglese C1** (docenze ufficiali condotte in inglese per ESA).
+* **Erogazione Multilingua**: **Italiano** (Madrelingua), **Inglese C1** (docenze ufficiali condotte in inglese per ESA) e **Francese C1** (Diploma EsaBac).
 * **Track Record di Vertice**: Ha formato personale di **ESA**, **EY**, **MSC**, **UniCredit**, **Banca MPS**, **Piaggio**, **Lear**, **Gruppo Triboo**.
-
----
-
-## Formazione, Lingue & Public Speaking
-
-* **Studi Universitari**: Laurea in Statistica *(in corso)* • Metodi quantitativi, inferenza, modelli predittivi e probabilità.
-* **Diploma di Maturità**: Liceo Scientifico Ulisse Dini • **Doppio Diploma EsaBac** (Maturità Scientifica + Baccalauréat Francese).
-* **Lingue**: **Inglese C1** (Lingua docenza per ESA) • **Francese C1** (Diploma EsaBac) • **Italiano** (Madrelingua).
-* **Public Speaking & Presenza**: Canto Moderno & Opera Lirica (disciplina vocale e gestione del palco) • Divulgazione scientifica.
 
 ---
 
@@ -42,9 +33,9 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 ### **EY (Ernst & Young)** | **Lead AI & Machine Learning Instructor**
 *Ago–Ott 2025 & Lug 2026 • Sede: Nazionale & Hub Bari / Ibrido*
 
-* **National AI Academy**: Direzione dell'Academy intensiva per gli sviluppatori junior di **EY Italia** su stack AI di produzione, Agentic AI (**CrewAI, LangChain**) e automazione con **n8n**.
-* **Supervisione Capstone Project**: Auditing tecnico e code review dei progetti applicativi aziendali secondo gli standard di ingegneria Big 4.
-* **Bootcamp Hub Bari**: Modulo avanzato su pipeline di Machine Learning, Reti Neurali e Data Science con Python (**Pandas, NumPy, Scikit-Learn**).
+* **National AI Academy**: Direzione dell'Academy intensiva per gli sviluppatori junior di **EY Italia** su stack AI di produzione, Agentic AI (**CrewAI, LangChain**), automazione **n8n**, valutazione LLM (**DeepEval, MLflow**), **Explainable AI (XAI)** e **EU AI Act**.
+* **Supervisione Capstone Project**: Auditing tecnico, **Model Risk Management (MRM)** e code review dei progetti applicativi aziendali secondo gli standard Big 4.
+* **Bootcamp Hub Bari**: Modulo avanzato su pipeline di Machine Learning, Reti Neurali, interpretabilità (**XAI**) e Data Science con Python (**Pandas, NumPy, Scikit-Learn**).
 
 ### **Triboo Group** | **Consulente Senior AI & Trainer Corporate**
 *Apr 2026 (1 mese intensivo) • Sede: Milano (In Presenza)*
@@ -64,7 +55,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 * **Modello di Delivery**: Docenze tecniche ed executive workshop erogati **per conto di primarie società di formazione e consulenza partner**.
 * **Business Intelligence & DAX (MSC - Set 2026)**: Masterclass Power BI, data modeling relazionale, DAX e cruscotti KPI di flotta.
-* **Banche & Fintech (UniCredit & MPS)**: Prompt engineering e workflow per l'elaborazione di documenti bancari nel rispetto di privacy e GDPR.
+* **Banche, EU AI Act & Vigilanza BCE (UniCredit & MPS)**: Prompt engineering, **Explainable AI (XAI)** e workflow documentali per banche sistemiche in conformità con **EU AI Act**, **DORA**, **Model Risk Management (MRM)** e **GDPR**.
 * **Manifattura & Automotive (Piaggio & Lear - Fortune 500)**: AI generativa visiva (Stable Diffusion, ComfyUI) per il design industriale e documentazione di filiera.
 * **Infrastrutture (Autostrade per l'Italia)**: Flussi AI per la sintesi operativa di cantiere e la gestione automatizzata dei ticket tecnici.
 
@@ -107,7 +98,7 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Competenze Chiave per Docenze & Consulenza Enterprise
 
-* **Ambiti di Insegnamento**: Deep Learning & Reti Neurali (ANN, CNN, RNN/LSTM, GAN, VAE, Transformer), Generative AI, Prompt Engineering, Business Intelligence (Power BI, DAX), Agentic AI (CrewAI, LangChain, n8n), Machine Learning, LLM Evaluation & MLOps, Data Analytics & SQL, Sviluppo Web per AI (React.js).
+* **Ambiti di Insegnamento**: Deep Learning & Reti Neurali (ANN, CNN, RNN/LSTM, GAN, VAE, Transformer), Generative AI, Prompt Engineering, Explainable AI (XAI) & EU AI Act / DORA Governance, Business Intelligence (Power BI, DAX), Agentic AI (CrewAI, LangChain, n8n), Machine Learning, LLM Evaluation & MLOps (DeepEval, MLflow), Data Analytics & SQL, Sviluppo Web per AI (React.js).
 * **Stack Tecnologico Didattico**: Python (PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, FastAPI), Java (Spring Boot), Docker, Azure, AWS SageMaker, Google Gemini, SQL (PostgreSQL), React.js, Git.
 * **Metodo Didattico**: Laboratori pratici, lezioni di potenziamento live, correzione elaborati e mentorship capstone, erogazione in **Inglese C1** e Italiano.
 
@@ -115,3 +106,11 @@ LinkedIn: [linkedin.com/in/michael-bagnoli-6504b1257](https://www.linkedin.com/i
 
 ## Principali Grandi Clienti Formati & Partner
 European Space Agency (ESA), EY (Ernst & Young), MSC (Mediterranean Shipping Company), Gruppo Triboo, Banca Monte dei Paschi di Siena (MPS), UniCredit, Autostrade per l'Italia, Gruppo Piaggio, Lear Corporation (Fortune 500), Cantieri Navali Codecasa, Gruppo Solvay, Primaria Società di Ricerca Farmaceutica (Roma – NDA), Argo 3000, Epicode, Profice, ITConsulting.
+
+---
+
+## Formazione, Lingue & Public Speaking
+
+* **Diploma di Maturità**: Liceo Scientifico Ulisse Dini (Pisa) • **Doppio Diploma EsaBac** (Maturità Scientifica + Baccalauréat Francese).
+* **Lingue & Public Speaking**: **Inglese C1** (Lingua docenza per ESA) • **Francese C1** (EsaBac) • **Italiano** (Madrelingua) • Canto Moderno & Opera Lirica.
+* **Studi Universitari**: Corso di Laurea in Statistica *(in corso)* • Metodi quantitativi, inferenza, modelli predittivi e probabilità.
